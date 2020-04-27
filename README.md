@@ -1,5 +1,5 @@
 # Car_dealership_application
-As part of a group project during MS in Georgia Tech, my team built a desktop application for car dealership using PHP, , Javascript, HTML and SQL. In order to avoid plagiarism, the repo is private and please feel free to contact me to access the project code.
+As part of a group project during MS in Georgia Tech, my team built a desktop application for car dealership using PHP, HTML,CSS and SQL. In order to avoid plagiarism, the repo is private and please feel free to contact me to access the project code.
 
 The project was completed in 3 phases:
 1. Phase 1 involved creating EER diagram, IFD (Information Flow Diagram) diagram, identifying data types and constraints, and task decomposition with abstract code.
