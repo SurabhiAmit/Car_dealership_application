@@ -1,0 +1,11 @@
+.logo-image {  width: 100%;  height: auto;  padding-bottom: 10px;} 
+body { background-color: powderblue; }
+
+input[type=submit]{
+	border-width: 2px;
+	box-shadow: none;
+	border-radius: 0px;
+	background-color: #0f9;
+	padding: 5px;
+	border-style: double;
+}

@@ -1,0 +1,182 @@
+Team OMSCS 023:
+TeamMember1Name    email: mli613@gatech.edu
+TeamMember2Name    email: svasudev3@gatech.edu
+TeamMember3Name    email: yxiang45@gatech.edu
+
+-------------------------------------------------------------------------
+public_search.php
+$query4 = "SELECT COUNT(*) AS Calculation_result FROM InventoryVehicle";
+$query = "SELECT manu_name FROM Manufacturer";
+$query1 = "SELECT type_name FROM VehicleType";
+$sql = "SELECT V.VIN, type_name,model_year, manu_name,model_name,color,sales_price,mileage FROM inventoryvehicle  AS I,Vehicle AS V, Vehicle_Color WHERE {$m_name} and {$T_name} and {$Y_name} and {$C_name} and {$k_name} and I.VIN=V.VIN AND I.VIN=Vehicle_Color.VIN";
+
+-------------------------------------------------------------------------
+login.php
+$sql_query = "SELECT passwords FROM Users WHERE username='$usernameEntered'"; 
+
+-------------------------------------------------------------------------
+privileged_search.php
+$query3 = "SELECT role  FROM Users WHERE '$username' = username;";
+$query4 = "SELECT COUNT(*) AS Calculation_result FROM InventoryVehicle";
+$query5 = "SELECT COUNT(*) AS repair_vehicle FROM RepairVehicle" ;
+$query = "SELECT manu_name FROM Manufacturer";
+$query1 = "SELECT type_name FROM VehicleType";
+$sql = "SELECT DISTINCT V.VIN, type_name,model_year, manu_name,model_name,color,sales_price,mileage FROM inventoryvehicle  AS I,Vehicle AS V, Vehicle_Color WHERE {$V_name} and {$m_name} and {$T_name} and {$Y_name} and {$C_name} and {$k_name} and I.VIN=V.VIN AND I.VIN=Vehicle_Color.VIN UNION (SELECT V.VIN, type_name,model_year, manu_name,model_name,color,'' as sales_price,mileage FROM Vehicle AS V, repairvehicle AS R, Vehicle_Color WHERE {$V_name} and {$m_name} and {$T_name} and {$Y_name} and {$C_name} and {$k_name} and R.VIN=V.VIN AND R.VIN=Vehicle_Color.VIN)"; 
+$sql = "SELECT DISTINCT V.VIN, type_name,model_year, manu_name,model_name,color,sales_price,mileage FROM inventoryvehicle AS I,Vehicle AS V, Vehicle_Color WHERE {$V_name} and {$m_name} and {$T_name} and {$Y_name} and {$C_name} and {$k_name} and I.VIN=V.VIN AND I.VIN=Vehicle_Color.VIN"; 
+$sql = "SELECT DISTINCT V.VIN, type_name,model_year, manu_name,model_name,color,sales_price,mileage FROM Vehicle AS V LEFT OUTER JOIN inventoryvehicle AS I ON V.VIN=I.VIN INNER JOIN Vehicle_Color AS C ON C.VIN = V.VIN WHERE {$V_name} and {$m_name} and {$T_name} and {$Y_name} and {$C_name} and {$k_name}"; 
+$sql_sold = "SELECT DISTINCT V.VIN, type_name,model_year, manu_name,model_name,color, '' as sales_price, mileage 
+FROM  SalesTransaction AS S, Vehicle AS V, Vehicle_Color WHERE {$V_name} and {$m_name} and {$T_name} and {$Y_name} and {$C_name} and {$k_name} AND S.VIN=V.VIN AND S.VIN=Vehicle_Color.VIN ORDER BY V.VIN";
+$sql_unsold = "SELECT DISTINCT V.VIN, type_name,model_year, manu_name,model_name,color,sales_price,mileage FROM inventoryvehicle  AS I,Vehicle AS V, Vehicle_Color WHERE {$V_name} and {$m_name} and {$T_name} and {$Y_name} and {$C_name} and {$k_name} and I.VIN=V.VIN AND I.VIN=Vehicle_Color.VIN UNION (SELECT V.VIN, type_name,model_year, manu_name,model_name,color,'' as sales_price,mileage FROM Vehicle AS V, repairvehicle AS R, Vehicle_Color WHERE {$V_name} and {$m_name} and {$T_name} and {$Y_name} and {$C_name} and {$k_name} and R.VIN=V.VIN AND R.VIN=Vehicle_Color.VIN)";
+
+-------------------------------------------------------------------------
+public_view_vehicle.php
+$sql = "SELECT V.VIN, type_name,model_year, manu_name,model_name,color,sales_price,mileage,V.optional_desc FROM inventoryvehicle AS I,Vehicle AS V, Vehicle_Color WHERE  V.VIN ='$ID' AND I.VIN=V.VIN AND I.VIN=Vehicle_Color.VIN";
+
+-------------------------------------------------------------------------
+salespeople_view_vehicle.php
+$sql = "SELECT V.VIN, type_name,model_year, manu_name,model_name,color,sales_price,mileage,V.optional_desc FROM inventoryvehicle AS I,Vehicle AS V, Vehicle_Color WHERE  V.VIN ='$ID' AND I.VIN=V.VIN AND I.VIN=Vehicle_Color.VIN";
+
+-------------------------------------------------------------------------
+clerk_view_vehicle.php
+$sql = "SELECT V.VIN, type_name,model_year, manu_name,model_name,color,sales_price,mileage,V.optional_desc FROM Vehicle AS V LEFT OUTER JOIN inventoryvehicle AS I ON I.VIN=V.VIN LEFT OUTER JOIN Vehicle_Color ON V.VIN=Vehicle_Color.VIN WHERE  V.VIN ='$ID'";
+$sql_p = "SELECT kbb_price FROM p_transaction WHERE VIN = '$ID'";
+
+-------------------------------------------------------------------------
+manager_burdell_view_vehicle.php
+$sql = "SELECT V.VIN, type_name,model_year, manu_name,model_name,color,sales_price,mileage,V.optional_desc FROM Vehicle AS V LEFT OUTER JOIN inventoryvehicle AS I ON I.VIN=V.VIN LEFT OUTER JOIN Vehicle_Color ON V.VIN=Vehicle_Color.VIN WHERE  V.VIN ='$ID'";
+$sql_p = "SELECT kbb_price FROM p_transaction WHERE VIN = '$ID'";
+$sql_clerk = "SELECT Users .first_name, Users .last_name, purchase_date FROM P_Transaction INNER JOIN Users ON
+P_Transaction . inventory_clerk_username= Users .username
+WHERE P_Transaction .VIN= '$ID'";
+$sql_individual = "SELECT I.first_name, I.last_name, C.phone, C.street, C.city, C.state,
+C.postal_code, C.email FROM customer AS C INNER JOIN P_Transaction AS P ON
+P.customerID= C.customerID INNER JOIN individual AS I ON P.customerID= I.customerID WHERE P.VIN= '$ID'";
+$sql_business = "SELECT B.b_name, B.c_last_name, B.c_first_name, B.title, C.phone, C.street, C.city, C.state,
+C.postal_code, C.email FROM customer AS C INNER JOIN P_Transaction AS P ON
+P.customerID= C.customerID INNER JOIN business AS B ON P.customerID= B.customerID WHERE P.VIN= '$ID'";
+
+-------------------------------------------------------------------------
+vehicle_add.php
+$insert1 = "INSERT INTO Vehicle (VIN, type_name, manu_name, model_name, model_year, mileage, optional_desc) " . "VALUES ('$VIN', '$type_name', '$manu_name', '$model_name', '$model_year','$mileage', '$description')";
+$inserth = "INSERT INTO RepairVehicle (VIN)" . "VALUES ('$VIN')";
+$insert2 = "INSERT INTO Vehicle_Color(VIN, color)" . "VALUES ( '$VIN', '$color')";
+$custID = "SELECT customerID FROM Individual WHERE driver_license LIKE '$license'";
+$custID = "SELECT customerID FROM Business WHERE TIN LIKE  '$TIN'";
+$insert3 = "INSERT INTO P_transaction(purchase_date, VIN, customerID, vehicle_condition, kbb_price, inventory_clerk_username)" . "VALUES ( '$p_date', '$VIN', '$customerID', '$condition', '$price', '$clerk')";
+$query1 = "SELECT color FROM colors";
+$query2 = "SELECT color FROM colors";
+$query3 = "SELECT type_name FROM VehicleType";
+$query4 = "SELECT manu_name FROM Manufacturer";
+
+-------------------------------------------------------------------------
+lookup_customer.php
+$sql1= "SELECT Individual. driver_license, Individual. first_name, Individual. last_name, phone, street, city, state, postal_code, Individual. customerID FROM Individual INNER JOIN Customer ON Individual. customerID= Customer .customerID WHERE Individual .driver_license= '$license'";
+$sql2= "SELECT TIN, b_name, c_last_name, c_first_name,title, phone, street, city, state, postal_code, Business .customerID FROM Business INNER JOIN Customer ON Business .customerID=Customer .customerID WHERE Business . TIN= '$TIN'" ;
+
+-------------------------------------------------------------------------
+customer_add.php
+$insert1= "INSERT INTO Customer(phone, email, street, city, state, postal_code)" . "VALUES 
+( '$phone', '$email', '$street', '$city', '$state', '$postal_code' )";
+$insert2= "INSERT INTO Individual(driver_license, first_name, last_name, customerID)" . "VALUES
+( '$driver_license','$first_name','$last_name', LAST_INSERT_ID() )";
+$insert3= "INSERT INTO Business(TIN, b_name, c_name,title, customerID)" . "VALUES
+( '$TIN', '$b_name', '$c_name', '$title', LAST_INSERT_ID() )";
+
+-------------------------------------------------------------------------
+add_repair.php
+$insert1= "INSERT INTO Determine (VIN, inventory_clerk_username)" . "VALUES 
+( '$VIN', '$clerk')";
+$sql_query = "SELECT LAST_INSERT_ID() as repairID";
+$insert2= "INSERT INTO  Recall (NHTSA_recall_number, manu_name, recall_description ) SELECT '$NHTSA', '$manu_name', '$recall_description' FROM dual WHERE NOT EXISTS(SELECT NHTSA_recall_number FROM Recall WHERE NHTSA_recall_number='$NHTSA')";
+$insert3= "INSERT INTO Repairs (repairID, start_date, end_date, repair_status, total_cost, repair_description, vendor_name, NHTSA_recall_number)" . "VALUES
+( '$repairID', '$start_date', '$end_date', '$status',  '$total_cost', '$repair_desc, ‘$v_name', '$NHTSA')";
+$insert3= "INSERT INTO Repairs (repairID, start_date, end_date, repair_status, total_cost, repair_description, vendor_name, NHTSA_recall_number)" . "VALUES
+( '$repairID', '$start_date', '$end_date', '$status',  '$total_cost', '$repair_desc, ‘$v_name1', '$NHTSA')";
+$insert3= "INSERT INTO Repairs (repairID, start_date, end_date, repair_status, total_cost, repair_description, vendor_name, NHTSA_recall_number)" . "VALUES
+( '$repairID', '$start_date', '$end_date', '$status',  '$total_cost', '$repair_desc, ‘$v_name1', '$NHTSA')";
+$insert3= "INSERT INTO Repairs (repairID, start_date, end_date, repair_status, total_cost, repair_description, vendor_name, NHTSA_recall_number)" . "VALUES
+( '$repairID', '$start_date', '$end_date', '$status',  '$total_cost', '$repair_desc, ‘$v_name1', '$NHTSA')";
+$insert4= "INSERT INTO Vendor(vendor_name, vendor_phone, street, city, state, postal_code) SELECT '$v_name', '$phone', '$street', '$city', '$state', '$postal_code' FROM dual WHERE NOT EXISTS(  SELECT vendor_name FROM Vendor WHERE vendor_name like '$v_name')";
+$query1 = "SELECT NHTSA_recall_number FROM Recall";
+$query2 = "SELECT vendor_name FROM Vendor";
+
+-------------------------------------------------------------------------
+repair_edit.php
+$query1 = "SELECT repairID, vendor_name, start_date, end_date, repair_status, repair_description, total_cost, NHTSA_recall_number FROM Repairs WHERE repair_status NOT LIKE 'completed' AND repairID IN (SELECT repairID FROM Determine WHERE VIN ='" . $VIN . "')";
+$queryn = "SELECT recall_description FROM Recall WHERE NHTSA_recall_number  ='" . $row1['NHTSA_recall_number'] . "')";
+$query1 = "SELECT repairID, vendor_name, start_date, end_date, repair_status, repair_description, total_cost, NHTSA_recall_number FROM Repairs WHERE repair_status NOT LIKE 'completed' AND repairID IN (SELECT repairID FROM Determine WHERE VIN ='" . $VIN . "')";
+$update = "UPDATE repairs SET repair_status ='" . $latest_status . "' where repairID = " . $repairID;
+$query2 = "SELECT repairID, vendor_name, start_date, end_date, repair_status, repair_description, total_cost, NHTSA_recall_number FROM Repairs WHERE repair_status NOT LIKE 'completed' AND repairID IN (SELECT repairID FROM Determine WHERE VIN ='" . $VIN . "')";
+$query3 = "SELECT sum(total_cost) AS total_repair_cost FROM Repairs WHERE repairID IN (SELECT repairID FROM Determine WHERE VIN ='" . $VIN . "')";
+$query4 = "SELECT kbb_price FROM P_Transaction WHERE VIN ='" . $VIN . "'";
+$insert1 = "INSERT INTO InventoryVehicle(VIN, repair_vehicle_VIN, sales_price,inventory_clerk_username) VALUES ('" . $VIN . "','" . $VIN . "'," .  $sales_price . ",'" . $clerk . "')" ;
+$delete1 = "DELETE FROM RepairVehicle WHERE VIN = '" . $VIN . "')" ;
+
+-------------------------------------------------------------------------
+perform_sale.php
+$insert = "INSERT INTO salestransaction (sales_date, VIN, customerID, salespeople_username)" . "VALUES('$input_date', '{$VIN4Sell}', '$customerID','$username')";
+$delete = "DELETE FROM InventoryVehicle WHERE VIN='$VIN4Sell'";
+
+-------------------------------------------------------------------------
+inventory_age.php
+$query = "SELECT type_name, MIN(DATEDIFF(CURDATE(),purchase_date)) AS min_inventory_age, MAX(DATEDIFF(CURDATE(),purchase_date)) AS max_inventory_age, AVG(DATEDIFF(CURDATE(),purchase_date)) AS average_inventory_age FROM Vehicle AS V , InventoryVehicle AS I , P_Transaction AS P WHERE V .VIN = I .VIN AND I .VIN = P .VIN GROUP BY type_name;"   ; 
+$query1 = "SELECT type_name FROM Vehicle WHERE type_name NOT IN (SELECT type_name FROM InventoryVehicle) GROUP BY type_name  ;" ;
+-------------------------------------------------------------------------
+
+average_time_in_inventory.php
+$query = "SELECT type_name FROM Vehicle WHERE type_name NOT IN (SELECT type_name FROM Vehicle AS V , P_Transaction AS P , SalesTransaction AS S WHERE V .VIN = P .VIN AND S .VIN = P .VIN  ) GROUP BY type_name  ;" ; 
+$query1 = "SELECT type_name, SUM(DATEDIFF(sales_date , purchase_date)) / COUNT(*) AS average_time_in_inventory FROM Vehicle AS V , P_Transaction AS P , SalesTransaction AS S WHERE V .VIN = P .VIN AND S .VIN = P .VIN GROUP BY type_name;" ;
+
+-------------------------------------------------------------------------
+price_per_condition
+$query = "SELECT type_condition.type_name, type_condition.vehicle_condition, COALESCE(a.condition_price,'0 (N/A)') AS condition_price
+FROM (SELECT type_name, vehicle_condition FROM  Vehicle , P_Transaction GROUP BY type_name,vehicle_condition) type_condition
+LEFT JOIN  (SELECT type_name, vehicle_condition, SUM(kbb_price)/COUNT(*) AS condition_price 
+FROM  Vehicle AS V , P_Transaction AS P
+WHERE V .VIN= P .VIN  GROUP BY type_name,vehicle_condition) a
+ON type_condition.type_name=a.type_name AND type_condition.vehicle_condition=a.vehicle_condition;" ;
+
+-------------------------------------------------------------------------
+repair_statistics.php
+$query = "SELECT vendor_name, COUNT(*) AS number_of_repairs, sum(total_cost) AS grand_cost, (count(*)/(SELECT COUNT(DISTINCT VIN)
+FROM Determine )) AS number_of_repairs_per_vehicle, (AVG(DATEDIFF(end_date , start_date))) AS average_length_of_time FROM Repairs
+GROUP BY vendor_name;" ; 
+
+-------------------------------------------------------------------------
+seller_history.php
+$query = "SELECT b_name, COUNT(DISTINCT P .VIN) AS number_of_vehicle, AVG(kbb_price) AS average_purchase_price, (COUNT(repairID) / COUNT(DISTINCT P .VIN)) AS average_number_repairs_per_vehicle
+FROM P_Transaction AS P , Determine AS D , Customer AS C , Business AS B
+WHERE P .VIN = D .VIN AND P .customerID = C .customerID AND C .customerID = B .customerID
+GROUP BY b_name HAVING   (COUNT(repairID) / COUNT(DISTINCT P .VIN)  < 5.0) ORDER BY COUNT(DISTINCT P .VIN) DESC, AVG(kbb_price) ASC;
+
+$query = "SELECT b_name, COUNT(DISTINCT P .VIN) AS number_of_vehicle, AVG(kbb_price) AS average_purchase_price, (COUNT(repairID) / COUNT(DISTINCT P .VIN)) AS average_number_repairs_per_vehicle
+FROM P_Transaction AS P , Determine AS D , Customer AS C , Business AS B
+WHERE P .VIN = D .VIN AND P .customerID = C .customerID AND C .customerID = B .customerID
+GROUP BY b_name HAVING   (COUNT(repairID) / COUNT(DISTINCT P .VIN)   >= 5.0)   ORDER BY COUNT(DISTINCT P .VIN) DESC, AVG(kbb_price) ASC;
+
+$query = "SELECT first_name, last_name, COUNT(*) AS number_of_vehicle, AVG(kbb_price) AS average_purchase_price, COUNT(repairID) / COUNT(*) AS average_number_repairs_per_vehicle
+FROM P_Transaction AS P , Determine AS D , Customer AS C , Individual AS I
+WHERE P .VIN = D .VIN AND P .customerID = C .customerID AND P .customerID = I .customerID
+GROUP BY first_name, last_name HAVING   (COUNT(repairID) / COUNT(DISTINCT P .VIN)  < 5.0) ORDER BY COUNT( P .VIN) DESC, AVG(kbb_price) ASC;"  ;
+
+$query = "SELECT first_name, last_name, COUNT(*) AS number_of_vehicle, AVG(kbb_price) AS average_purchase_price, COUNT(repairID) / COUNT(*) AS average_number_repairs_per_vehicle 
+FROM P_Transaction AS P , Determine AS D , Customer AS C , Individual AS I
+WHERE P .VIN = D .VIN AND P .customerID = C .customerID AND P .customerID = I .customerID
+GROUP BY first_name, last_name HAVING   (COUNT(repairID) / COUNT(DISTINCT P .VIN)  < 5.0) ORDER BY COUNT( P .VIN) DESC, AVG(kbb_price) ASC;"  ;
+
+-------------------------------------------------------------------------
+monthly_sales_report.php
+$query = "SELECT sales_date, VIN FROM SalesTransaction ORDER BY sales_date DESC";
+$query1 = "SELECT YEAR(S.sales_date) AS YEAR, MONTH(S.sales_date) as MONTH, COUNT(S.VIN) AS Total_Sold, SUM(S.sales_price) AS Total_Sales_Income, total_R_COST, sum(S.sales_price-kbb_price) as netincome FROM salestransaction  AS S INNER JOIN P_Transaction AS P ON P .VIN=S .VIN INNER JOIN Determine AS D ON D .VIN= S .VIN 
+,(SELECT year(s.sales_date) AS YEAR, month(s.sales_date) AS MONTH, SUM(R.total_cost) AS Total_R_Cost FROM determine AS D INNER JOIN repairs AS R ON D.repairID = R.repairID  inner join SalesTransaction as s on s.vin =d.vin GROUP BY year,month) AS RP WHERE RP.MONTH=MONTH(S.SALES_DATE) AND RP.YEAR=YEAR(S.SALES_DATE) GROUP BY YEAR(sales_date), MONTH(sales_date),Total_R_Cost ORDER BY YEAR DESC, MONTH DESC";
+
+-------------------------------------------------------------------------
+view_top_sales_person_info.php
+$sql= "SELECT first_name, last_name, COUNT(S.VIN) AS NumofVeh, SUM(sales_price) AS TotalSale FROM salestransaction AS S INNER JOIN InventoryVehicle AS I
+ON S.VIN= I.VIN INNER JOIN users AS U 
+ON U.username= S.salespeople_username  where YEAR(S.sales_date)=$YEAR AND MONTH(S.sales_date)=$MONTH group by first_name,last_name ORDER BY NumofVeh DESC, TotalSale DESC
+LIMIT 1";
+
+
+
+

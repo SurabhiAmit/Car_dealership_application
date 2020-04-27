@@ -1,0 +1,819 @@
+1,2019-01-02,2019-01-03,completed,58.17,adjust block heater; replace brake pedal spring; ,Rundofase,
+2,2019-01-06,2019-01-06,pending,29.08,repair direct injection system; fix cylinder head bolts; ,Rundofase,
+3,2019-01-06,2019-01-08,completed,25.78,change memory settings of the onboard computer; reduce fuel consumption; ,Zoomit,19V035000
+4,2019-01-08,2019-02-02,in progress,163.11,replace water pump; change steering rack; ,Cancity,
+5,2019-01-08,2019-01-08,completed,29.08,adjust adaptive cruise control; add knee airbags; ,Toughzap,
+6,2019-01-09,2019-01-18,in progress,235.7,reduce carbon footprint; adjust retractable mirrors; ,Cancity,
+7,2019-01-09,2019-01-10,completed,58.17,change suspension fluid; replace catalytic converter; ,Newex,14V624000
+8,2019-01-10,2019-01-17,in progress,547.42,repair seatbelt force limiters; replace tail lights; ,Zoomit,
+9,2019-01-13,2019-01-13,in progress,29.08,adjust accelerator pedal linkage; ,Zencorporation,
+10,2019-01-14,2019-01-15,completed,32.57,adjust turn signals; change memory settings of the onboard computer; ,Rundofase,
+11,2019-01-14,2019-01-18,in progress,51.26,install curtain airbags; install smoked glass; ,Zoomit,06V445000
+12,2019-01-14,2019-01-17,pending,29.08,configure universal remote control; adjust turn signals; ,Zoomit,
+13,2019-01-16,2019-01-19,pending,118.73,repair direct injection system; install anti-theft alarm; ,Zoomit,
+14,2019-01-17,2019-01-19,completed,16.29,repair seatbelt force limiters; ,Fasehatice,
+15,2019-01-17,2019-03-25,completed,4118.68,improve engine performance; adjust adaptive cruise control; ,Newex,
+16,2019-01-17,2019-01-17,pending,51.03,fix a-pillar; ,Zumgoity,15V504000
+17,2019-01-19,2019-02-11,pending,1073,replace radiator hoses; replace radiator core & ac condenser; ,Zencorporation,09E012000
+18,2019-01-19,2019-01-19,in progress,47.64,install smoked glass; adjust low fuel warning indicator; ,Zoomit,
+19,2019-01-19,2019-01-22,completed,204.13,fix rear defroster; reduce blind spot; ,Zumgoity,
+20,2019-01-20,2019-02-27,pending,664.32,replace catalytic converter; replace diverter valve; ,Fasehatice,
+21,2019-01-20,2019-01-20,in progress,16.29,install dusk-sensing headlights; install on-board diagnosis system; ,Toughzap,09V428000
+22,2019-01-22,2019-01-28,pending,333.51,adjust traction control system; adjust retractable mirrors; ,Fasehatice,
+23,2019-01-23,2019-01-25,in progress,79.15,prevent fuel pump shutoff; reduce blind spot; ,Toughzap,
+24,2019-01-24,2019-01-26,in progress,153.1,replace ace filter; replace ace filter; ,Zoomit,06E064000
+25,2019-01-24,2019-01-28,in progress,81.43,change speaker configuration; change timing belt; ,Zoomit,06V205000
+26,2019-01-24,2019-03-29,in progress,235.3,change brake linings; replace crankcase ventilation filter; ,Zoomit,
+27,2019-01-25,2019-01-27,pending,102.78,change brake linings; install curtain airbags; ,Fasehatice,
+28,2019-01-25,2019-02-14,pending,57.06,check drive axle boots; change timing belt; ,Zencorporation,
+29,2019-01-25,2019-02-14,pending,117.85,adjust running boards; replace catalytic converter; ,Zoomit,
+30,2019-01-25,2019-02-01,completed,154.42,attach spoiler; fix a-pillar; ,Zumgoity,
+31,2019-01-26,2019-02-28,pending,340.05,change oil filter; repair shiftable automatic transmission; ,Fasehatice,
+32,2019-01-26,2019-04-20,completed,17.42,attach spoiler; set up satellite radio; ,Zoomit,
+33,2019-01-26,2019-02-01,completed,132.53,set up satellite radio; change suspension fluid; ,Zumgoity,
+34,2019-01-27,2019-02-12,pending,17.42,add knee airbags; adjust low fuel warning indicator; ,Cancity,
+35,2019-01-28,2019-01-29,completed,102.07,fix sunroof; adjust regenerative braking; ,Cancity,12V524000
+36,2019-01-28,2019-02-01,completed,18.86,improve cylinder configuration; attach seat extension; ,Cancity,
+37,2019-01-28,2019-01-31,pending,79.15,reduce carbon footprint; fix rear hvac; ,Rundofase,
+38,2019-01-29,2019-01-29,completed,25.63,replace crankcase ventilation filter; change suspension fluid; ,Fasehatice,17V359000
+39,2019-01-30,2019-02-15,pending,205.28,change wheel cylinders; repair direct injection system; ,Fasehatice,
+40,2019-01-30,2019-01-30,in progress,51.03,replace tail lights; change pcv filter/pcv valve; ,Toughzap,
+41,2019-01-30,2019-02-18,completed,486.95,adjust retractable mirrors; adjust ignition timing; ,Zoomit,
+42,2019-01-31,2019-02-02,completed,87.25,repair seatbelt force limiters; fix solar sunroof; ,Toughzap,
+43,2019-02-01,2019-02-02,pending,68.52,attach seat extension; reduce blind spot; ,Rundofase,17V389000
+44,2019-02-02,2019-02-03,completed,51.03,change wheel cylinders; replace brake pedal spring; ,Newex,
+45,2019-02-03,2019-02-09,in progress,37.72,adjust hybrid performance; fix broken tow hooks; ,Rundofase,19V090000
+46,2019-02-03,2019-02-16,pending,381.69,add knee airbags; adjust climate control; ,Toughzap,
+47,2019-02-03,2019-02-05,completed,158.6,fix external temperature display; reduce fuel consumption; ,Zoomit,00V371000
+48,2019-02-04,2019-02-10,completed,205.57,install dusk-sensing headlights; repair direct injection system; ,Rundofase,
+49,2019-02-04,2019-02-04,pending,29.08,attach exterior camera; replace crankcase ventilation filter; ,Toughzap,
+50,2019-02-05,2019-02-19,pending,58.17,install intelligent alternator; adjust block heater; ,Newex,
+51,2019-02-06,2019-06-18,completed,761.97,fix deceleration system; replace stabilizer bar; ,Cancity,
+52,2019-02-06,2019-02-18,in progress,177.94,check drive axle boots; install turbocharger; ,Toughzap,
+53,2019-02-06,2019-02-06,pending,39.58,install optional equipment; change speaker configuration; ,Zencorporation,03V509000
+54,2019-02-07,2019-02-18,completed,386.05,fix nvh dampening system; ,Toughzap,
+55,2019-02-07,2019-02-21,completed,142.41,fix power activated release; change timing belt; ,Zoomit,
+56,2019-02-09,2019-02-11,pending,161.04,reduce carbon footprint; install separate rear audio; ,Cancity,
+57,2019-02-10,2019-02-12,in progress,17.5,change brake linings; adjust climate control; ,Newex,13V114000
+58,2019-02-10,2019-02-10,in progress,41.57,change speaker configuration; adjust retractable mirrors; ,Zumgoity,
+59,2019-02-10,2019-02-12,completed,14.72,attach exterior camera; change wheel cylinders; ,Zumgoity,14V753000
+60,2019-02-11,2019-02-24,completed,278.93,fix external temperature display; correct abs; ,Toughzap,
+61,2019-02-12,2019-02-17,in progress,90.05,fix broken tow hooks; refurbish power steering; ,Cancity,
+62,2019-02-12,2019-02-23,completed,83.15,replace catalytic converter; replace crankcase ventilation filter; ,Fasehatice,
+63,2019-02-12,2019-02-17,pending,107.95,install separate rear audio; adjust low fuel warning indicator; ,Zumgoity,
+64,2019-02-13,2019-03-13,completed,337.14,change purge valve; ,Toughzap,
+65,2019-02-13,2019-02-14,completed,158.6,fix sunroof; fix ventilated seats; ,Toughzap,
+66,2019-02-14,2019-02-17,in progress,137.05,fix nvh dampening system; fix steering damper; ,Zencorporation,
+67,2019-02-15,2019-02-16,pending,41.7,change purge valve; configure audio remote control; ,Cancity,11V510000
+68,2019-02-15,2019-02-17,pending,34.84,adjust retractable mirrors; fix ventilated seats; ,Toughzap,
+69,2019-02-15,2019-02-17,in progress,25.78,repair cooled seats; set up auto-delay headlights; ,Zencorporation,04V133000
+70,2019-02-16,2019-02-20,pending,90.1,attach seat extension; set up satellite radio; ,Cancity,
+71,2019-02-16,2019-02-23,in progress,166.85,change memory settings of the onboard computer; correct abs; ,Rundofase,
+72,2019-02-16,2019-02-24,completed,444.9,change pcv filter/pcv valve; install smoked glass; ,Zumgoity,
+73,2019-02-17,2019-03-20,pending,366.73,set up auto-delay headlights; ,Newex,
+74,2019-02-18,2019-02-18,in progress,20.85,install dusk-sensing headlights; install active pedestrian protection system; ,Newex,
+75,2019-02-18,2019-02-18,in progress,79.3,install vanity mirrors; repair shiftable automatic transmission; ,Toughzap,
+76,2019-02-18,2019-02-25,pending,10.13,replace stabilizer bar; change oil filter; ,Zencorporation,06V328000
+77,2019-02-19,2019-02-24,completed,396.5,repair direct injection system; set up gyro sensor; ,Fasehatice,
+78,2019-02-19,2019-02-20,pending,34.84,repair seatbelt force limiters; fix external temperature display; ,Rundofase,
+79,2019-02-19,2019-02-21,completed,68.52,adjust adaptive cruise control; install optional equipment; ,Zencorporation,
+80,2019-02-20,2019-02-23,completed,87.25,change speaker configuration; attach seat extension; ,Rundofase,
+81,2019-02-20,2019-03-14,pending,715.07,change pcv filter/pcv valve; set up auto-delay headlights; ,Toughzap,
+82,2019-02-21,2019-02-23,completed,47.43,refurbish power steering; fix rear defroster; ,Cancity,
+83,2019-02-21,2019-03-03,completed,684.28,prevent fuel pump shutoff; ,Newex,
+84,2019-02-21,2019-02-28,pending,14.56,fix nvh dampening system; make polarization coating; ,Zencorporation,
+85,2019-02-22,2019-02-26,pending,89.95,replace crankcase ventilation filter; ,Newex,
+86,2019-02-22,2019-02-24,completed,24.15,fix cylinder head bolts; change purge valve; ,Rundofase,
+87,2019-02-22,2019-02-26,pending,22.51,improve engine performance; adjust reverse tilt mirrors; ,Zencorporation,
+88,2019-02-22,2019-03-03,pending,141.32,correct abs; replace radiator core & ac condenser; ,Zoomit,
+89,2019-02-23,2019-02-23,pending,17.42,adjust turn signals; change speaker configuration; ,Cancity,
+90,2019-02-23,2019-02-25,completed,20.85,install on-board diagnosis system; ,Fasehatice,
+91,2019-02-23,2019-03-01,completed,128.15,improve cylinder configuration; ,Zencorporation,
+92,2019-02-23,2019-02-28,completed,35.6,install vanity mirrors; set up gyro sensor; ,Zumgoity,
+93,2019-02-24,2019-02-24,completed,17.42,reconfigure service reminder light; adjust adaptive cruise control; ,Cancity,
+94,2019-02-24,2019-03-01,in progress,167.91,adjust adaptive cruise control; adjust seat belts tension; ,Fasehatice,
+95,2019-02-24,2019-02-24,completed,29.08,refurbish power steering; install optional equipment; ,Fasehatice,
+96,2019-02-24,2019-03-01,in progress,68.52,install dusk-sensing headlights; adjust ignition timing; ,Newex,14V753000
+97,2019-02-25,2019-03-29,in progress,1430.67,replace liftgate window; refurbish power steering; ,Cancity,
+98,2019-02-25,2019-03-09,completed,444.9,reduce carbon footprint; replace stabilizer bar; ,Zencorporation,09V277000
+99,2019-02-25,2019-03-01,completed,57.06,reduce fuel consumption; adjust block heater; ,Zencorporation,05V353000
+100,2019-02-25,2019-02-25,pending,29.08,replace liftgate window; adjust traction control system; ,Zencorporation,
+101,2019-02-25,2019-02-27,completed,41.57,change purge valve; add knee airbags; ,Zoomit,
+102,2019-02-25,2019-03-02,in progress,237.9,repair seatbelt force limiters; change coolant; ,Zoomit,
+103,2019-02-25,2019-02-26,completed,17.42,adjust accelerator pedal linkage; ,Zoomit,
+104,2019-02-25,2019-03-02,in progress,268.39,replace crankcase ventilation filter; adjust climate control; ,Zoomit,
+105,2019-02-25,2019-02-26,pending,66.74,replace crankcase ventilation filter; install intelligent alternator; ,Zumgoity,
+106,2019-02-26,2019-02-26,completed,20.85,adjust ignition timing; install active pedestrian protection system; ,Fasehatice,
+107,2019-02-26,2019-02-27,completed,37.72,adjust climate control; adjust low fuel warning indicator; ,Rundofase,
+108,2019-02-26,2019-04-19,completed,31.81,configure universal remote control; adjust adaptive cruise control; ,Zoomit,
+109,2019-02-26,2019-02-26,pending,24.15,improve cylinder configuration; improve engine performance; ,Zoomit,
+110,2019-02-26,2019-03-04,completed,154.42,change timing belt; ,Zoomit,
+111,2019-02-27,2019-03-05,pending,65.17,change steering rack; fix external temperature display; ,Rundofase,
+112,2019-02-27,2019-03-02,completed,55.79,adjust retractable mirrors; add knee airbags; ,Rundofase,09V357000
+113,2019-02-27,2019-04-04,pending,2242.78,adjust climate control; repair cooled seats; ,Rundofase,
+114,2019-02-27,2019-02-28,completed,66.74,change speaker configuration; attach spoiler; ,Toughzap,08V016000
+115,2019-02-27,2019-03-13,pending,131.65,refurbish power steering; set up auto-delay headlights; ,Toughzap,
+116,2019-02-27,2019-03-09,completed,117.85,replace diverter valve; change memory settings of the onboard computer; ,Zumgoity,
+117,2019-02-27,2019-03-04,completed,52.51,repair seatbelt force limiters; ,Zumgoity,
+118,2019-02-28,2019-03-08,completed,125.94,fix cylinder head bolts; attach seat extension; ,Fasehatice,
+119,2019-02-28,2019-02-28,in progress,136.73,change memory settings of the onboard computer; make polarization coating; ,Toughzap,
+120,2019-02-28,2019-03-01,in progress,17.42,prevent fuel pump shutoff; fix broken tow hooks; ,Zumgoity,
+121,2019-03-01,2019-03-02,in progress,14.56,fix power activated release; ,Rundofase,18V042000
+122,2019-03-02,2019-03-02,in progress,44.29,change steering rack; make polarization coating; ,Fasehatice,
+123,2019-03-02,2019-03-02,in progress,18.86,fix air filter restriction indicator; add knee airbags; ,Rundofase,18V188000
+124,2019-03-02,2019-03-02,in progress,17.42,change air conditioner refrigerant; adjust retractable mirrors; ,Rundofase,
+125,2019-03-03,2019-03-06,pending,34.26,replace ace filter; replace serpentine belt; ,Fasehatice,
+126,2019-03-03,2019-03-06,pending,67.54,change pcv filter/pcv valve; upgrade navigation system; ,Fasehatice,
+127,2019-03-03,2019-03-05,completed,66.74,fix steering damper; make polarization coating; ,Newex,05V248000
+128,2019-03-03,2019-03-04,pending,18.86,fix rear hvac; install smoked glass; ,Zumgoity,
+129,2019-03-04,2019-03-04,completed,53.68,change timing belt; change oil filter; ,Cancity,
+130,2019-03-04,2019-03-05,pending,158.6,add knee airbags; install dusk-sensing headlights; ,Fasehatice,
+131,2019-03-04,2019-03-11,in progress,45.34,adjust traction control system; replace tail lights; ,Zencorporation,02V238000
+132,2019-03-04,2019-03-20,completed,265.73,install turbocharger; improve cylinder configuration; ,Zumgoity,
+133,2019-03-04,2019-03-05,pending,27.89,replace timing belt tensioner; fix external temperature display; ,Zumgoity,
+134,2019-03-04,2019-03-28,completed,1287.98,replace water pump; ,Zumgoity,
+135,2019-03-05,2019-03-19,completed,459.95,adjust climate control; install roof spoiler; ,Fasehatice,
+136,2019-03-05,2019-03-05,pending,37.89,fix cylinder head bolts; adjust reverse tilt mirrors; ,Fasehatice,
+137,2019-03-05,2019-03-05,in progress,53.68,adjust traction control system; install separate rear audio; ,Zoomit,16V836000
+138,2019-03-05,2019-03-05,in progress,14.56,replace serpentine belt; install separate rear audio; ,Zumgoity,
+139,2019-03-06,2019-03-09,in progress,136.73,adjust seat belts tension; ,Cancity,
+140,2019-03-06,2019-04-25,pending,216.42,attach seat extension; replace radiator core & ac condenser; ,Zencorporation,
+141,2019-03-06,2019-03-07,pending,14.83,change purge valve; ,Zumgoity,18V229000
+142,2019-03-08,2019-03-25,in progress,132.02,install curtain airbags; install optional equipment; ,Cancity,
+143,2019-03-08,2019-03-10,completed,38.61,install dusk-sensing headlights; set up satellite radio; ,Toughzap,
+144,2019-03-09,2019-04-07,completed,242.58,change pcv filter/pcv valve; adjust block heater; ,Zencorporation,
+145,2019-03-09,2019-03-16,in progress,140.33,replace stabilizer bar; improve engine performance; ,Zoomit,18V844000
+146,2019-03-10,2019-03-10,pending,136.73,prevent fuel pump shutoff; fix steering damper; ,Cancity,
+147,2019-03-10,2019-03-13,in progress,99.18,reduce fuel consumption; change air conditioner refrigerant; ,Fasehatice,
+148,2019-03-10,2019-03-12,completed,14.56,change oil filter; adjust climate control; ,Toughzap,
+149,2019-03-10,2019-03-11,completed,79.3,replace fuel filter; replace steering column lock; ,Zencorporation,
+150,2019-03-10,2019-04-09,pending,1300.13,replace ace filter; replace radiator core & ac condenser; ,Zumgoity,
+151,2019-03-11,2019-03-12,pending,66.74,add knee airbags; fix broken tow hooks; ,Fasehatice,
+152,2019-03-11,2019-03-12,pending,136.73,repair cooled seats; replace brake pedal spring; ,Fasehatice,19V115000
+153,2019-03-11,2019-03-19,in progress,333.68,change purge valve; fix cylinder head bolts; ,Newex,17V014000
+154,2019-03-12,2019-04-04,in progress,59.31,replace serpentine belt; fix broken tow hooks; ,Zencorporation,
+155,2019-03-13,2019-04-29,completed,1462.36,fix external temperature display; add knee airbags; ,Fasehatice,13V228000
+156,2019-03-13,2019-03-17,pending,102.52,fix ventilated seats; ,Fasehatice,
+157,2019-03-13,2019-03-18,pending,157.13,add knee airbags; refurbish power steering; ,Newex,
+158,2019-03-13,2019-03-24,completed,334.21,adjust accelerator pedal linkage; upgrade navigation system; ,Zumgoity,19V006000
+159,2019-03-14,2019-04-04,in progress,75.78,adjust seat belts tension; repair direct injection system; ,Newex,
+160,2019-03-14,2019-03-15,in progress,27.89,set up satellite radio; replace ace filter; ,Zoomit,18V525000
+161,2019-03-14,2019-03-21,in progress,90.68,add heated windshield; fix broken tow hooks; ,Zumgoity,
+162,2019-03-15,2019-03-15,completed,36.42,reduce blind spot; adjust climate control; ,Fasehatice,
+163,2019-03-15,2019-03-16,completed,57.85,replace stabilizer bar; install smoked glass; ,Zencorporation,08V137000
+164,2019-03-17,2019-03-20,completed,55.79,remove oversteer; install on-board diagnosis system; ,Newex,
+165,2019-03-17,2019-03-18,completed,14.56,change air conditioner refrigerant; change timing belt; ,Zoomit,
+166,2019-03-17,2019-03-19,in progress,52.51,add knee airbags; adjust hybrid performance; ,Zoomit,
+167,2019-03-18,2019-03-20,completed,35.98,fix sunroof; ,Rundofase,
+168,2019-03-18,2019-03-22,pending,132.86,fix deceleration system; adjust seat belts tension; ,Toughzap,
+169,2019-03-18,2019-03-19,completed,57.85,adjust traction control system; ,Zencorporation,11V330000
+170,2019-03-19,2019-03-19,completed,62.05,change coolant; fix ventilated seats; ,Zoomit,
+171,2019-03-20,2019-03-28,in progress,167.91,attach spoiler; improve cylinder configuration; ,Cancity,
+172,2019-03-20,2019-03-29,in progress,70.01,replace water pump; add heated windshield; ,Newex,
+173,2019-03-20,2019-03-23,completed,115.69,correct abs; replace catalytic converter; ,Toughzap,09V357000
+174,2019-03-21,2019-03-25,completed,33.37,install separate rear audio; install roof spoiler; ,Fasehatice,
+175,2019-03-21,2019-04-22,in progress,50.63,adjust accelerator pedal linkage; add knee airbags; ,Fasehatice,
+176,2019-03-21,2019-03-21,pending,14.72,install active pedestrian protection system; reduce blind spot; ,Newex,
+177,2019-03-21,2019-03-22,completed,62.05,adjust reverse tilt mirrors; improve engine performance; ,Toughzap,
+178,2019-03-21,2019-03-27,in progress,96.6,fix solar sunroof; reconfigure service reminder light; ,Zoomit,19V149000
+179,2019-03-21,2019-04-30,pending,1494.83,set up gyro sensor; install active pedestrian protection system; ,Zumgoity,
+180,2019-03-21,2019-03-22,pending,77.21,replace radiator core & ac condenser; add knee airbags; ,Zumgoity,
+181,2019-03-22,2019-03-23,completed,38.04,replace ace filter; ,Cancity,13V114000
+182,2019-03-22,2019-03-23,pending,14.56,repair shiftable automatic transmission; install vanity mirrors; ,Fasehatice,14E012000
+183,2019-03-22,2019-03-24,pending,107.36,fix a-pillar; ,Toughzap,
+184,2019-03-22,2019-04-26,in progress,612.65,change wheel cylinders; fix ventilated seats; ,Zencorporation,
+185,2019-03-24,2019-03-25,pending,124.09,adjust block heater; install active pedestrian protection system; ,Cancity,
+186,2019-03-24,2019-03-27,pending,43.68,fix deceleration system; install intelligent alternator; ,Cancity,09E025000
+187,2019-03-24,2019-04-10,in progress,178.77,add knee airbags; adjust climate control; ,Rundofase,
+188,2019-03-24,2019-04-04,in progress,316.87,install active pedestrian protection system; fix nvh dampening system; ,Zumgoity,
+189,2019-03-24,2019-03-27,completed,115.69,repair direct injection system; change brake linings; ,Zumgoity,
+190,2019-03-25,2019-04-15,in progress,735.02,replace tail lights; ,Zoomit,
+191,2019-03-26,2019-04-13,completed,753.71,replace ace filter; install roof spoiler; ,Cancity,
+192,2019-03-26,2019-03-28,in progress,46.86,install parking sensors; fix nvh dampening system; ,Fasehatice,
+193,2019-03-26,2019-03-30,pending,90.68,change memory settings of the onboard computer; fix sunroof; ,Fasehatice,
+194,2019-03-26,2019-04-19,pending,67.5,add knee airbags; set up satellite radio; ,Newex,
+195,2019-03-26,2019-04-22,completed,988.45,change memory settings of the onboard computer; replace diverter valve; ,Rundofase,
+196,2019-03-26,2019-03-30,pending,56.58,adjust accelerator pedal linkage; fix ventilated seats; ,Rundofase,08V214000
+197,2019-03-26,2019-03-27,in progress,70.16,replace brake pedal spring; repair shiftable automatic transmission; ,Zoomit,
+198,2019-03-27,2019-04-10,completed,54.06,attach exterior camera; replace radiator hoses; ,Cancity,
+199,2019-03-27,2019-03-28,completed,15.28,reduce fuel consumption; replace radiator hoses; ,Fasehatice,
+200,2019-03-27,2019-03-27,in progress,44.29,adjust climate control; fix external temperature display; ,Rundofase,
+201,2019-03-28,2019-03-30,in progress,124.09,set up satellite radio; ,Fasehatice,
+202,2019-03-28,2019-03-31,completed,105.25,fix ventilated seats; change memory settings of the onboard computer; ,Zoomit,
+203,2019-03-28,2019-03-31,completed,27.89,adjust accelerator pedal linkage; repair cooled seats; ,Zumgoity,
+204,2019-03-29,2019-03-31,completed,36.42,fix steering damper; change wheel cylinders; ,Cancity,
+205,2019-03-29,2019-03-29,pending,38.61,replace crankcase ventilation filter; replace liftgate window; ,Fasehatice,
+206,2019-03-29,2019-03-30,pending,29.12,replace crankcase ventilation filter; improve engine performance; ,Zencorporation,
+207,2019-03-30,2019-04-01,completed,107.36,install turbocharger; ,Fasehatice,
+208,2019-03-30,2019-03-31,in progress,28.92,fix sunroof; replace radiator hoses; ,Zencorporation,15V586000
+209,2019-03-30,2019-03-31,pending,23.43,install anti-theft alarm; install parking sensors; ,Zumgoity,10V553000
+210,2019-03-31,2019-04-01,in progress,124.09,replace fuel filter; fix nvh dampening system; ,Zencorporation,
+211,2019-03-31,2019-04-07,pending,115.82,install separate rear audio; fix a-pillar; ,Zencorporation,
+212,2019-04-01,2019-04-04,in progress,28.92,refurbish power steering; change coolant; ,Cancity,
+213,2019-04-01,2019-04-07,in progress,127.23,adjust climate control; ,Newex,
+214,2019-04-01,2019-04-04,in progress,30.38,adjust seat belts tension; refurbish power steering; ,Toughzap,
+215,2019-04-02,2019-04-09,in progress,214.71,fix air filter restriction indicator; fix cylinder head bolts; ,Newex,
+216,2019-04-02,2019-04-06,pending,61.39,replace fuel filter; repair seatbelt force limiters; ,Zencorporation,
+217,2019-04-02,2019-05-02,pending,325.59,adjust adaptive cruise control; reduce blind spot; ,Zoomit,17V448000
+218,2019-04-03,2019-07-05,completed,473.32,fix steering damper; change pcv filter/pcv valve; ,Rundofase,
+219,2019-04-03,2019-04-04,pending,62.05,fix ventilated seats; set up gyro sensor; ,Toughzap,18V248000
+220,2019-04-03,2019-04-13,in progress,778.58,replace fuel filter; fix deceleration system; ,Zencorporation,16V358000
+221,2019-04-03,2019-04-08,in progress,70.29,fix power activated release; install separate rear audio; ,Zoomit,
+222,2019-04-04,2019-04-08,completed,56.38,repair shiftable automatic transmission; fix a-pillar; ,Cancity,
+223,2019-04-04,2019-04-14,in progress,132.45,install anti-theft alarm; replace steering column lock; ,Newex,
+224,2019-04-04,2019-04-06,completed,15.28,change suspension fluid; adjust adaptive cruise control; ,Zumgoity,
+225,2019-04-05,2019-04-15,completed,133.48,prevent fuel pump shutoff; change purge valve; ,Rundofase,
+226,2019-04-05,2019-04-06,completed,75.78,fix nvh dampening system; add knee airbags; ,Toughzap,
+227,2019-04-05,2019-04-16,pending,46.67,adjust retractable mirrors; repair direct injection system; ,Zumgoity,09E025000
+228,2019-04-06,2019-04-09,completed,60.77,replace fuel filter; repair direct injection system; ,Newex,00V099000
+229,2019-04-06,2019-04-06,in progress,46.14,install intelligent alternator; adjust hybrid performance; ,Zoomit,
+230,2019-04-06,2019-04-06,pending,27.89,install vanity mirrors; fix external temperature display; ,Zumgoity,
+231,2019-04-07,2019-04-07,pending,22.67,configure universal remote control; attach seat extension; ,Newex,
+232,2019-04-07,2019-04-09,in progress,138.41,attach seat extension; attach spoiler; ,Zencorporation,
+233,2019-04-08,2019-04-22,in progress,96.6,install smoked glass; ,Cancity,
+234,2019-04-08,2019-04-11,completed,35.08,attach seat extension; remove oversteer; ,Fasehatice,
+235,2019-04-08,2019-04-18,completed,551.51,set up auto-delay headlights; ,Zencorporation,07E021000
+236,2019-04-08,2019-04-15,pending,76.08,fix sunroof; adjust accelerator pedal linkage; ,Zencorporation,
+237,2019-04-09,2019-04-19,pending,75.43,adjust regenerative braking; adjust retractable mirrors; ,Zumgoity,
+238,2019-04-09,2019-04-11,completed,142.37,install active pedestrian protection system; ,Zumgoity,
+239,2019-04-10,2019-04-11,pending,88.58,reduce carbon footprint; reduce fuel consumption; ,Toughzap,
+240,2019-04-11,2019-06-21,pending,2677,replace brake pedal spring; ,Zoomit,
+241,2019-04-12,2019-09-21,in progress,824.81,replace fuel filter; upgrade navigation system; ,Cancity,
+242,2019-04-12,2019-04-17,in progress,83.39,fix ventilated seats; ,Newex,13V314000
+243,2019-04-12,2019-04-18,in progress,238.95,fix external temperature display; change purge valve; ,Toughzap,
+244,2019-04-12,2019-04-13,in progress,37.72,remove oversteer; attach seat extension; ,Zencorporation,
+245,2019-04-12,2019-04-22,completed,263.98,adjust adaptive cruise control; ,Zencorporation,05V303000
+246,2019-04-12,2019-04-14,completed,89.39,change air conditioner refrigerant; fix a-pillar; ,Zumgoity,18V268000
+247,2019-04-12,2019-04-15,completed,154.42,repair shiftable automatic transmission; change purge valve; ,Zumgoity,08V217000
+248,2019-04-13,2019-04-15,pending,92.27,replace timing belt tensioner; install roof spoiler; ,Cancity,
+249,2019-04-13,2019-04-16,completed,45.34,prevent fuel pump shutoff; adjust block heater; ,Toughzap,
+250,2019-04-14,2019-05-09,in progress,667.35,adjust block heater; ,Zoomit,11V464000
+251,2019-04-14,2019-04-15,pending,18.86,install turbocharger; ,Zoomit,
+252,2019-04-15,2019-04-16,pending,30.38,change suspension fluid; change timing belt; ,Cancity,
+253,2019-04-15,2019-05-01,completed,87.25,set up auto-delay headlights; ,Rundofase,
+254,2019-04-15,2019-04-18,in progress,142.54,fix solar sunroof; repair shiftable automatic transmission; ,Toughzap,11V536000
+255,2019-04-16,2019-04-20,completed,205.28,install curtain airbags; reduce blind spot; ,Newex,18V800000
+256,2019-04-16,2019-04-16,completed,18.86,adjust ignition timing; adjust traction control system; ,Rundofase,
+257,2019-04-16,2019-04-16,completed,15.28,adjust climate control; upgrade navigation system; ,Toughzap,
+258,2019-04-16,2019-04-16,pending,47.46,install intelligent alternator; fix rear defroster; ,Zencorporation,19V188000
+259,2019-04-16,2019-05-11,in progress,310.01,adjust hybrid performance; ,Zencorporation,
+260,2019-04-17,2019-04-20,in progress,35.6,adjust seat belts tension; ,Fasehatice,06E043000
+261,2019-04-17,2019-04-27,completed,65.12,install separate rear audio; replace brake pedal spring; ,Toughzap,
+262,2019-04-17,2019-04-18,completed,25.79,configure audio remote control; change steering rack; ,Zencorporation,
+263,2019-04-17,2019-04-24,completed,30.38,install separate rear audio; replace catalytic converter; ,Zumgoity,
+264,2019-04-18,2019-04-22,in progress,94.91,adjust hybrid performance; install dusk-sensing headlights; ,Fasehatice,
+265,2019-04-18,2019-04-18,pending,15.28,fix power activated release; repair cooled seats; ,Rundofase,19V052000
+266,2019-04-18,2019-04-24,pending,133.48,replace ace filter; install roof spoiler; ,Zencorporation,05V222000
+267,2019-04-19,2019-04-24,completed,54.46,replace radiator hoses; change wheel cylinders; ,Newex,
+268,2019-04-19,2019-05-03,pending,563.76,adjust retractable mirrors; attach exterior camera; ,Newex,
+269,2019-04-20,2019-04-24,pending,15.28,fix external temperature display; replace tail lights; ,Cancity,
+270,2019-04-20,2019-05-05,pending,789.27,refurbish power steering; fix rear hvac; ,Fasehatice,
+271,2019-04-20,2019-04-21,pending,45.61,change speaker configuration; ,Rundofase,
+272,2019-04-20,2019-04-21,pending,14.71,install turbocharger; ,Toughzap,19V461000
+273,2019-04-21,2019-04-22,pending,18.86,replace water pump; repair cooled seats; ,Fasehatice,
+274,2019-04-21,2019-04-26,completed,137.54,replace serpentine belt; replace steering column lock; ,Newex,
+275,2019-04-21,2019-04-26,pending,51.58,change air conditioner refrigerant; replace catalytic converter; ,Rundofase,
+276,2019-04-21,2019-04-24,completed,56.58,fix a-pillar; change coolant; ,Toughzap,
+277,2019-04-21,2019-05-01,in progress,145.67,install optional equipment; fix sunroof; ,Zoomit,04V046000
+278,2019-04-21,2019-04-26,in progress,154.42,repair shiftable automatic transmission; fix rear hvac; ,Zumgoity,
+279,2019-04-22,2019-05-20,in progress,625.92,adjust hybrid performance; configure universal remote control; ,Fasehatice,
+280,2019-04-22,2019-04-22,pending,22.81,fix ventilated seats; fix deceleration system; ,Fasehatice,
+281,2019-04-22,2019-04-22,pending,20.85,fix power activated release; ,Newex,
+282,2019-04-22,2019-05-03,completed,407.78,fix ventilated seats; change timing belt; ,Zoomit,
+283,2019-04-23,2019-05-17,in progress,381.69,configure universal remote control; ,Cancity,
+284,2019-04-23,2019-04-23,pending,17.01,attach spoiler; adjust ignition timing; ,Toughzap,08V217000
+285,2019-04-23,2019-04-28,completed,63.62,fix cylinder head bolts; ,Zumgoity,
+286,2019-04-24,2019-04-25,in progress,22.81,replace ace filter; change wheel cylinders; ,Zencorporation,01V362000
+287,2019-04-24,2019-04-28,in progress,18.86,replace fuel filter; ,Zoomit,
+288,2019-04-24,2019-04-24,pending,11.2,replace ace filter; replace diverter valve; ,Zoomit,
+289,2019-04-24,2019-04-29,in progress,235.7,replace crankcase ventilation filter; replace radiator core & ac condenser; ,Zumgoity,14V435000
+290,2019-04-25,2019-04-27,completed,33.37,install intelligent alternator; ,Fasehatice,
+291,2019-04-25,2019-04-27,pending,52.57,reconfigure service reminder light; add knee airbags; ,Zencorporation,
+292,2019-04-25,2019-05-19,pending,103.02,fix ventilated seats; repair cooled seats; ,Zoomit,
+293,2019-04-25,2019-05-01,in progress,15.28,set up gyro sensor; fix deceleration system; ,Zoomit,
+294,2019-04-25,2019-04-25,pending,11.2,replace radiator hoses; replace water pump; ,Zumgoity,05V103000
+295,2019-04-26,2019-04-26,in progress,22.81,reconfigure service reminder light; fix deceleration system; ,Cancity,
+296,2019-04-26,2019-04-26,completed,32.57,change speaker configuration; ,Cancity,
+297,2019-04-26,2019-04-26,pending,18.86,add knee airbags; fix external temperature display; ,Fasehatice,
+298,2019-04-26,2019-04-27,completed,20.25,install dusk-sensing headlights; install anti-theft alarm; ,Zencorporation,
+299,2019-04-26,2019-04-27,in progress,22.39,change oil filter; replace crankcase ventilation filter; ,Zoomit,
+300,2019-04-27,2019-04-29,pending,56.58,adjust traction control system; ,Cancity,
+301,2019-04-27,2019-04-28,completed,59.2,repair seatbelt force limiters; adjust ignition timing; ,Rundofase,
+302,2019-04-27,2019-04-29,completed,68.42,upgrade navigation system; install optional equipment; ,Rundofase,02V111000
+303,2019-04-27,2019-04-29,pending,61.33,set up gyro sensor; adjust block heater; ,Rundofase,00V198000
+304,2019-04-27,2019-04-27,completed,32.57,install dusk-sensing headlights; configure audio remote control; ,Zoomit,
+305,2019-04-27,2019-04-28,completed,115.74,set up satellite radio; adjust climate control; ,Zumgoity,
+306,2019-04-28,2019-04-28,in progress,14.71,reduce blind spot; change coolant; ,Cancity,03V529000
+307,2019-04-28,2019-05-05,pending,115.82,adjust running boards; adjust reverse tilt mirrors; ,Cancity,
+308,2019-04-28,2019-04-28,in progress,32.57,replace tail lights; set up auto-delay headlights; ,Fasehatice,10V309000
+309,2019-04-28,2019-04-29,completed,11.2,repair direct injection system; remove oversteer; ,Fasehatice,
+310,2019-04-28,2019-05-03,completed,41.98,replace water pump; repair seatbelt force limiters; ,Zumgoity,
+311,2019-04-29,2019-05-01,pending,54.46,install turbocharger; add heated windshield; ,Cancity,
+312,2019-04-29,2019-05-03,in progress,32.56,refurbish power steering; configure audio remote control; ,Fasehatice,
+313,2019-04-29,2019-04-30,in progress,37.72,install separate rear audio; fix broken tow hooks; ,Newex,
+314,2019-04-29,2019-04-29,in progress,13.06,install curtain airbags; fix broken tow hooks; ,Newex,
+315,2019-04-29,2019-05-03,completed,62.54,change purge valve; install roof spoiler; ,Rundofase,12V477000
+316,2019-04-29,2019-05-01,completed,45.27,fix broken tow hooks; adjust running boards; ,Rundofase,15V871000
+317,2019-04-29,2019-04-29,in progress,26.28,adjust seat belts tension; adjust block heater; ,Zencorporation,
+318,2019-04-29,2019-05-01,completed,33.11,install parking sensors; adjust traction control system; ,Zoomit,
+319,2019-04-29,2019-04-30,pending,32.57,install roof spoiler; change pcv filter/pcv valve; ,Zoomit,
+320,2019-04-30,2019-05-01,pending,45.61,adjust retractable mirrors; ,Toughzap,
+321,2019-04-30,2019-05-01,pending,41.32,attach seat extension; install dusk-sensing headlights; ,Zoomit,
+322,2019-04-30,2019-05-01,in progress,26.28,repair shiftable automatic transmission; change wheel cylinders; ,Zumgoity,05V574000
+323,2019-04-30,2019-04-30,completed,13.06,replace steering column lock; reduce blind spot; ,Zumgoity,
+324,2019-05-01,2019-05-05,in progress,93.35,install roof spoiler; install smoked glass; ,Fasehatice,
+325,2019-05-01,2019-05-02,completed,18.86,change speaker configuration; fix solar sunroof; ,Rundofase,
+326,2019-05-01,2019-05-16,completed,342.14,change brake linings; replace brake pedal spring; ,Toughzap,
+327,2019-05-01,2019-05-23,pending,282.64,set up satellite radio; install curtain airbags; ,Zencorporation,
+328,2019-05-02,2019-05-02,in progress,26.28,adjust low fuel warning indicator; replace ace filter; ,Zencorporation,
+329,2019-05-02,2019-05-20,pending,301.71,configure universal remote control; replace catalytic converter; ,Zoomit,
+330,2019-05-02,2019-05-03,pending,18.15,reduce blind spot; replace radiator hoses; ,Zumgoity,
+331,2019-05-02,2019-05-13,pending,245.33,repair seatbelt force limiters; replace crankcase ventilation filter; ,Zumgoity,
+332,2019-05-03,2019-05-04,pending,20.66,add heated windshield; adjust retractable mirrors; ,Cancity,15V846000
+333,2019-05-03,2019-05-04,completed,10.13,replace tail lights; ,Rundofase,
+334,2019-05-03,2019-05-07,pending,30.55,install anti-theft alarm; reduce carbon footprint; ,Zencorporation,
+335,2019-05-03,2019-05-09,in progress,51.03,replace radiator core & ac condenser; ,Zencorporation,
+336,2019-05-04,2019-05-05,completed,41.7,change oil filter; fix cylinder head bolts; ,Cancity,
+337,2019-05-04,2019-05-04,in progress,33.28,replace diverter valve; configure universal remote control; ,Newex,
+338,2019-05-04,2019-05-12,in progress,264.84,change air conditioner refrigerant; ,Rundofase,18V170000
+339,2019-05-04,2019-06-27,in progress,472.52,change purge valve; install anti-theft alarm; ,Zumgoity,
+340,2019-05-05,2019-05-08,in progress,26.15,replace liftgate window; install separate rear audio; ,Cancity,
+341,2019-05-05,2019-05-09,in progress,33.28,attach seat extension; install smoked glass; ,Fasehatice,
+342,2019-05-05,2019-05-10,in progress,55.34,replace catalytic converter; ,Newex,
+343,2019-05-05,2019-05-16,pending,254.92,fix rear defroster; install roof spoiler; ,Rundofase,
+344,2019-05-05,2019-05-07,pending,19.02,replace timing belt tensioner; adjust turn signals; ,Zoomit,
+345,2019-05-06,2019-05-06,in progress,18.15,replace liftgate window; replace steering column lock; ,Fasehatice,
+346,2019-05-06,2019-05-24,in progress,117.85,adjust seat belts tension; ,Fasehatice,10V426000
+347,2019-05-06,2019-05-22,in progress,448.46,adjust hybrid performance; fix solar sunroof; ,Fasehatice,03E045000
+348,2019-05-06,2019-05-06,in progress,20.66,correct abs; install separate rear audio; ,Newex,14V753000
+349,2019-05-06,2019-05-16,in progress,136.02,adjust accelerator pedal linkage; change memory settings of the onboard computer; ,Newex,
+350,2019-05-06,2019-05-09,completed,48.84,change wheel cylinders; set up auto-delay headlights; ,Newex,
+351,2019-05-06,2019-05-10,in progress,41.7,adjust low fuel warning indicator; install curtain airbags; ,Rundofase,11V510000
+352,2019-05-06,2019-05-14,completed,91.15,add knee airbags; adjust block heater; ,Rundofase,
+353,2019-05-06,2019-05-12,in progress,14.97,set up auto-delay headlights; upgrade navigation system; ,Rundofase,
+354,2019-05-06,2019-05-07,completed,20.66,fix nvh dampening system; adjust seat belts tension; ,Rundofase,
+355,2019-05-06,2019-05-14,pending,273.09,prevent fuel pump shutoff; ,Zencorporation,12V305000
+356,2019-05-06,2019-05-09,in progress,216.88,correct abs; install smoked glass; ,Zoomit,
+357,2019-05-07,2019-05-26,in progress,211.44,replace radiator hoses; ,Cancity,
+358,2019-05-07,2019-05-07,completed,43.24,add heated windshield; configure audio remote control; ,Newex,
+359,2019-05-08,2019-05-28,in progress,483,change wheel cylinders; configure universal remote control; ,Cancity,
+360,2019-05-08,2019-07-03,in progress,723.91,reduce blind spot; install intelligent alternator; ,Fasehatice,14V404000
+361,2019-05-08,2019-05-25,completed,679.02,repair cooled seats; attach spoiler; ,Newex,
+362,2019-05-08,2019-05-21,in progress,312.84,change coolant; fix rear hvac; ,Newex,08V156000
+363,2019-05-08,2019-05-09,pending,41.32,replace diverter valve; set up auto-delay headlights; ,Toughzap,
+364,2019-05-08,2019-05-09,in progress,47.26,reconfigure service reminder light; ,Zoomit,
+365,2019-05-08,2019-05-13,completed,57.04,install smoked glass; improve engine performance; ,Zumgoity,
+366,2019-05-09,2019-05-15,in progress,76.08,install parking sensors; fix broken tow hooks; ,Zencorporation,
+367,2019-05-09,2019-05-17,in progress,281.88,adjust turn signals; install curtain airbags; ,Zoomit,
+368,2019-05-10,2019-05-14,completed,46.67,install anti-theft alarm; improve engine performance; ,Fasehatice,19V008000
+369,2019-05-10,2019-05-16,completed,271.1,adjust traction control system; adjust retractable mirrors; ,Toughzap,17V328000
+370,2019-05-10,2019-05-10,completed,43.24,fix steering damper; check drive axle boots; ,Zencorporation,
+371,2019-05-11,2019-05-11,pending,26.28,change purge valve; set up gyro sensor; ,Toughzap,
+372,2019-05-11,2019-05-23,in progress,579.13,replace water pump; configure universal remote control; ,Toughzap,
+373,2019-05-11,2019-05-13,completed,18.15,add knee airbags; fix rear hvac; ,Zencorporation,
+374,2019-05-11,2019-05-13,pending,34.04,add knee airbags; reduce blind spot; ,Zencorporation,
+375,2019-05-11,2019-05-13,in progress,86.47,fix deceleration system; reduce fuel consumption; ,Zumgoity,
+376,2019-05-12,2019-05-16,completed,43.81,replace liftgate window; attach spoiler; ,Fasehatice,
+377,2019-05-12,2019-05-16,in progress,61.98,change oil filter; reduce carbon footprint; ,Fasehatice,15V846000
+378,2019-05-12,2019-06-12,pending,590.73,install smoked glass; fix external temperature display; ,Newex,
+379,2019-05-12,2019-05-14,completed,33.28,adjust reverse tilt mirrors; adjust turn signals; ,Newex,
+380,2019-05-12,2019-05-28,completed,389.56,reduce carbon footprint; adjust adaptive cruise control; ,Toughzap,
+381,2019-05-12,2019-05-21,in progress,177.15,replace serpentine belt; fix a-pillar; ,Toughzap,
+382,2019-05-12,2019-06-03,pending,798.36,repair direct injection system; configure audio remote control; ,Zoomit,
+383,2019-05-12,2019-06-03,pending,452.68,replace liftgate window; fix ventilated seats; ,Zoomit,16V580000
+384,2019-05-12,2019-05-30,pending,536.94,set up auto-delay headlights; adjust seat belts tension; ,Zumgoity,
+385,2019-05-12,2019-05-16,completed,231.48,adjust turn signals; install separate rear audio; ,Zumgoity,
+386,2019-05-12,2019-05-14,pending,35.01,adjust adaptive cruise control; install parking sensors; ,Zumgoity,
+387,2019-05-13,2019-05-15,completed,99.32,replace stabilizer bar; ,Toughzap,
+388,2019-05-13,2019-05-29,in progress,628.68,fix a-pillar; change speaker configuration; ,Zoomit,
+389,2019-05-14,2019-05-17,in progress,444.9,adjust turn signals; change coolant; ,Toughzap,
+390,2019-05-14,2019-05-19,in progress,18.15,fix sunroof; check drive axle boots; ,Toughzap,
+391,2019-05-14,2019-07-17,pending,3434.63,configure universal remote control; upgrade navigation system; ,Toughzap,
+392,2019-05-14,2019-05-19,in progress,22.82,repair seatbelt force limiters; ,Toughzap,16V183000
+393,2019-05-14,2019-05-22,in progress,123.95,install turbocharger; reconfigure service reminder light; ,Toughzap,
+394,2019-05-15,2019-06-19,in progress,596.39,correct abs; fix steering damper; ,Rundofase,
+395,2019-05-15,2019-05-23,in progress,110.68,install vanity mirrors; refurbish power steering; ,Toughzap,
+396,2019-05-16,2019-05-16,in progress,13.07,fix rear hvac; fix deceleration system; ,Zoomit,14V010000
+397,2019-05-17,2019-06-07,completed,755.6,install intelligent alternator; replace water pump; ,Fasehatice,
+398,2019-05-17,2019-05-17,completed,13.07,fix steering damper; improve engine performance; ,Newex,17V389000
+399,2019-05-17,2019-05-22,in progress,61.14,prevent fuel pump shutoff; configure universal remote control; ,Rundofase,
+400,2019-05-17,2019-05-24,completed,87.63,adjust adaptive cruise control; adjust turn signals; ,Rundofase,
+401,2019-05-17,2019-07-28,in progress,1047.03,install roof spoiler; adjust accelerator pedal linkage; ,Zoomit,
+402,2019-05-17,2019-05-22,pending,116.68,fix sunroof; install on-board diagnosis system; ,Zoomit,
+403,2019-05-17,2019-05-19,in progress,20.66,change speaker configuration; change steering rack; ,Zoomit,15V846000
+404,2019-05-17,2019-05-17,in progress,17.87,fix nvh dampening system; install vanity mirrors; ,Zumgoity,05V555000
+405,2019-05-18,2019-05-19,completed,17.87,adjust hybrid performance; correct abs; ,Cancity,
+406,2019-05-18,2019-06-15,completed,390.7,change brake linings; adjust adaptive cruise control; ,Newex,11V106000
+407,2019-05-18,2019-05-20,pending,173.61,fix rear defroster; fix rear defroster; ,Rundofase,
+408,2019-05-18,2019-05-18,pending,13.07,make polarization coating; install anti-theft alarm; ,Rundofase,
+409,2019-05-18,2019-05-21,completed,66.56,install smoked glass; replace fuel filter; ,Zoomit,08V108000
+410,2019-05-18,2019-05-20,pending,33.35,configure audio remote control; change coolant; ,Zumgoity,
+411,2019-05-19,2019-05-20,in progress,222.45,make polarization coating; adjust block heater; ,Fasehatice,16V576000
+412,2019-05-19,2019-05-19,pending,16.86,change speaker configuration; replace steering column lock; ,Fasehatice,
+413,2019-05-19,2019-06-22,completed,1006.45,install vanity mirrors; install anti-theft alarm; ,Newex,
+414,2019-05-19,2019-05-22,in progress,216.88,fix nvh dampening system; fix air filter restriction indicator; ,Rundofase,
+415,2019-05-19,2019-05-28,pending,130.3,attach exterior camera; adjust running boards; ,Zencorporation,14V758000
+416,2019-05-19,2019-05-19,pending,15.28,replace radiator core & ac condenser; add heated windshield; ,Zoomit,
+417,2019-05-19,2019-05-21,completed,18.45,install on-board diagnosis system; ,Zoomit,
+418,2019-05-19,2019-06-10,completed,694.26,reduce fuel consumption; fix solar sunroof; ,Zumgoity,
+419,2019-05-19,2019-05-19,pending,13.07,replace crankcase ventilation filter; fix deceleration system; ,Zumgoity,
+420,2019-05-20,2019-05-21,pending,15.28,change wheel cylinders; reduce blind spot; ,Fasehatice,
+421,2019-05-20,2019-05-21,completed,33.71,set up auto-delay headlights; add heated windshield; ,Fasehatice,
+422,2019-05-20,2019-05-24,in progress,34.14,replace serpentine belt; replace water pump; ,Newex,07E023000
+423,2019-05-20,2019-05-22,completed,20.25,install turbocharger; install anti-theft alarm; ,Newex,03V476000
+424,2019-05-20,2019-05-30,in progress,68.08,fix sunroof; install on-board diagnosis system; ,Toughzap,
+425,2019-05-21,2019-05-25,completed,101.94,attach spoiler; replace timing belt tensioner; ,Cancity,11V221000
+426,2019-05-21,2019-05-22,pending,33.11,repair direct injection system; replace ace filter; ,Newex,
+427,2019-05-21,2019-05-27,in progress,125.12,set up auto-delay headlights; replace serpentine belt; ,Zumgoity,16V029000
+428,2019-05-22,2019-05-22,in progress,16.86,change oil filter; adjust hybrid performance; ,Fasehatice,
+429,2019-05-22,2019-05-22,completed,15.28,install on-board diagnosis system; ,Newex,
+430,2019-05-22,2019-05-22,completed,11.12,repair shiftable automatic transmission; change memory settings of the onboard computer; ,Newex,
+431,2019-05-22,2019-05-25,completed,20.66,adjust regenerative braking; ,Newex,
+432,2019-05-22,2019-05-22,in progress,37.89,improve cylinder configuration; replace water pump; ,Toughzap,
+433,2019-05-22,2019-05-24,completed,57.06,attach exterior camera; ,Zencorporation,18V907000
+434,2019-05-22,2019-06-01,pending,430.31,fix steering damper; replace crankcase ventilation filter; ,Zumgoity,
+435,2019-05-23,2019-06-02,pending,313.18,adjust block heater; attach seat extension; ,Cancity,
+436,2019-05-23,2019-06-26,completed,344.22,replace crankcase ventilation filter; install turbocharger; ,Rundofase,
+437,2019-05-23,2019-05-23,completed,16.12,attach seat extension; adjust hybrid performance; ,Toughzap,
+438,2019-05-23,2019-05-27,in progress,57.04,attach spoiler; adjust regenerative braking; ,Toughzap,
+439,2019-05-23,2019-06-05,completed,103.3,repair seatbelt force limiters; adjust running boards; ,Zumgoity,
+440,2019-05-24,2019-06-09,pending,250.19,replace stabilizer bar; install parking sensors; ,Toughzap,
+441,2019-05-24,2019-05-24,in progress,56.38,fix cylinder head bolts; replace tail lights; ,Toughzap,
+442,2019-05-24,2019-05-24,in progress,18.15,replace ace filter; adjust block heater; ,Zoomit,16V137000
+443,2019-05-24,2019-05-25,completed,20.25,change memory settings of the onboard computer; fix solar sunroof; ,Zoomit,11V592000
+444,2019-05-25,2019-06-12,pending,507.39,replace brake pedal spring; change coolant; ,Cancity,00V157002
+445,2019-05-25,2019-06-09,in progress,279.31,adjust regenerative braking; remove oversteer; ,Fasehatice,
+446,2019-05-25,2019-06-13,pending,117.85,repair shiftable automatic transmission; change brake linings; ,Zencorporation,
+447,2019-05-25,2019-06-14,pending,762.4,change steering rack; replace steering column lock; ,Zoomit,18E016000
+448,2019-05-25,2019-05-26,completed,61.51,change suspension fluid; reduce blind spot; ,Zoomit,19V148000
+449,2019-05-25,2019-05-30,completed,110.72,fix nvh dampening system; ,Zumgoity,
+450,2019-05-26,2019-05-30,pending,58.42,install dusk-sensing headlights; configure universal remote control; ,Cancity,
+451,2019-05-26,2019-05-27,in progress,59.75,adjust traction control system; reduce blind spot; ,Fasehatice,08V390000
+452,2019-05-26,2019-05-26,completed,24.43,adjust climate control; change air conditioner refrigerant; ,Fasehatice,
+453,2019-05-26,2019-06-01,completed,281.88,replace ace filter; fix steering damper; ,Rundofase,
+454,2019-05-26,2019-06-03,pending,33.28,adjust block heater; install vanity mirrors; ,Zencorporation,
+455,2019-05-26,2019-05-29,completed,54.46,attach seat extension; improve cylinder configuration; ,Zoomit,
+456,2019-05-26,2019-07-01,in progress,92.02,fix external temperature display; fix nvh dampening system; ,Zumgoity,18V268000
+457,2019-05-26,2019-06-04,completed,203.85,replace water pump; replace fuel filter; ,Zumgoity,
+458,2019-05-27,2019-06-22,in progress,679.02,repair shiftable automatic transmission; reduce fuel consumption; ,Cancity,
+459,2019-05-27,2019-06-02,completed,75.43,reduce fuel consumption; ,Toughzap,
+460,2019-05-27,2019-06-03,pending,138.41,add heated windshield; replace radiator core & ac condenser; ,Toughzap,
+461,2019-05-27,2019-05-28,pending,28.85,fix air filter restriction indicator; install on-board diagnosis system; ,Zencorporation,
+462,2019-05-27,2019-05-31,completed,30.57,change wheel cylinders; install parking sensors; ,Zencorporation,
+463,2019-05-27,2019-05-28,pending,66.21,replace steering column lock; install curtain airbags; ,Zoomit,
+464,2019-05-27,2019-06-17,completed,667.96,improve cylinder configuration; refurbish power steering; ,Zumgoity,18V828000
+465,2019-05-28,2019-05-31,completed,44.47,fix ventilated seats; repair direct injection system; ,Fasehatice,
+466,2019-05-28,2019-05-28,pending,18.97,make polarization coating; attach exterior camera; ,Newex,
+467,2019-05-28,2019-06-04,in progress,246.04,prevent fuel pump shutoff; replace crankcase ventilation filter; ,Rundofase,
+468,2019-05-28,2019-05-31,pending,154.42,install anti-theft alarm; replace steering column lock; ,Zumgoity,
+469,2019-05-29,2019-05-31,in progress,18.97,change brake linings; change timing belt; ,Cancity,14E007000
+470,2019-05-29,2019-06-01,completed,53.62,adjust seat belts tension; install parking sensors; ,Cancity,
+471,2019-05-29,2019-06-03,in progress,34.22,attach exterior camera; replace diverter valve; ,Rundofase,
+472,2019-05-29,2019-05-30,pending,54.22,fix solar sunroof; install intelligent alternator; ,Rundofase,
+473,2019-05-29,2019-05-30,pending,19.02,adjust turn signals; install anti-theft alarm; ,Zoomit,
+474,2019-05-30,2019-06-02,pending,177.74,replace crankcase ventilation filter; replace tail lights; ,Newex,
+475,2019-05-30,2019-06-28,in progress,766.58,fix external temperature display; adjust reverse tilt mirrors; ,Newex,
+476,2019-05-31,2019-06-12,in progress,51.26,replace radiator hoses; repair seatbelt force limiters; ,Cancity,15V629000
+477,2019-05-31,2019-06-02,pending,187.44,upgrade navigation system; install parking sensors; ,Cancity,09V091000
+478,2019-05-31,2019-06-03,pending,134.08,change steering rack; configure audio remote control; ,Cancity,15V483000
+479,2019-05-31,2019-06-03,in progress,57.7,replace radiator hoses; change purge valve; ,Fasehatice,
+480,2019-05-31,2019-06-20,completed,94.21,adjust turn signals; adjust accelerator pedal linkage; ,Fasehatice,
+481,2019-05-31,2019-06-20,in progress,74.14,make polarization coating; change speaker configuration; ,Rundofase,
+482,2019-05-31,2019-06-04,completed,68.08,change memory settings of the onboard computer; replace crankcase ventilation filter; ,Toughzap,
+483,2019-06-01,2019-06-02,pending,77.21,install turbocharger; change purge valve; ,Fasehatice,
+484,2019-06-01,2019-06-11,completed,131.44,reconfigure service reminder light; change brake linings; ,Fasehatice,
+485,2019-06-01,2019-06-03,pending,20.25,repair direct injection system; ,Newex,06V328000
+486,2019-06-01,2019-06-02,completed,84.27,replace timing belt tensioner; change oil filter; ,Toughzap,
+487,2019-06-01,2019-06-01,in progress,18.97,add knee airbags; adjust running boards; ,Zencorporation,
+488,2019-06-01,2019-06-08,pending,64.99,replace ace filter; ,Zumgoity,
+489,2019-06-02,2019-06-04,pending,53.62,fix power activated release; replace crankcase ventilation filter; ,Cancity,13V094000
+490,2019-06-02,2019-06-05,in progress,184.14,replace radiator core & ac condenser; change pcv filter/pcv valve; ,Newex,
+491,2019-06-02,2019-06-06,pending,169.13,install separate rear audio; prevent fuel pump shutoff; ,Rundofase,
+492,2019-06-02,2019-06-08,pending,146.18,adjust regenerative braking; ,Toughzap,
+493,2019-06-02,2019-06-03,pending,30.57,replace stabilizer bar; replace brake pedal spring; ,Zoomit,
+494,2019-06-03,2019-06-06,in progress,73.3,fix power activated release; install on-board diagnosis system; ,Cancity,
+495,2019-06-03,2019-06-11,in progress,178.96,set up auto-delay headlights; adjust adaptive cruise control; ,Fasehatice,
+496,2019-06-03,2019-06-19,pending,128.94,install intelligent alternator; adjust traction control system; ,Rundofase,05V338000
+497,2019-06-03,2019-06-03,in progress,84.27,fix a-pillar; change air conditioner refrigerant; ,Zencorporation,
+498,2019-06-03,2019-06-04,pending,30.71,replace water pump; repair cooled seats; ,Zumgoity,
+499,2019-06-03,2019-07-15,pending,523,install intelligent alternator; change coolant; ,Zumgoity,
+500,2019-06-04,2019-06-09,pending,100.45,fix external temperature display; ,Newex,11E022000
+501,2019-06-04,2019-06-05,pending,18.97,replace timing belt tensioner; configure universal remote control; ,Rundofase,19V188000
+502,2019-06-04,2019-06-04,in progress,84.27,install optional equipment; install intelligent alternator; ,Toughzap,
+503,2019-06-05,2019-06-06,pending,30.71,change pcv filter/pcv valve; fix sunroof; ,Fasehatice,18V432000
+504,2019-06-05,2019-06-07,in progress,255.31,change timing belt; install active pedestrian protection system; ,Fasehatice,
+505,2019-06-05,2019-06-09,completed,72.12,reduce fuel consumption; ,Rundofase,
+506,2019-06-05,2019-06-06,pending,36.91,install curtain airbags; change pcv filter/pcv valve; ,Rundofase,
+507,2019-06-05,2019-06-08,pending,61.14,replace ace filter; fix broken tow hooks; ,Zencorporation,
+508,2019-06-06,2019-06-07,pending,11.12,replace liftgate window; add heated windshield; ,Newex,
+509,2019-06-06,2019-06-08,pending,46.03,attach exterior camera; repair seatbelt force limiters; ,Newex,18V047000
+510,2019-06-07,2019-06-11,pending,38.02,install on-board diagnosis system; install curtain airbags; ,Cancity,
+511,2019-06-07,2019-06-07,in progress,84.27,replace crankcase ventilation filter; install smoked glass; ,Cancity,
+512,2019-06-07,2019-06-28,completed,740.04,fix broken tow hooks; attach spoiler; ,Cancity,
+513,2019-06-07,2019-06-17,in progress,441.21,change purge valve; remove oversteer; ,Newex,
+514,2019-06-07,2019-06-12,in progress,30.71,replace fuel filter; install smoked glass; ,Rundofase,
+515,2019-06-07,2019-06-12,pending,92.27,replace radiator core & ac condenser; adjust block heater; ,Rundofase,
+516,2019-06-07,2019-06-09,in progress,16.29,adjust reverse tilt mirrors; check drive axle boots; ,Toughzap,
+517,2019-06-07,2019-06-09,pending,99.84,repair cooled seats; adjust turn signals; ,Zumgoity,
+518,2019-06-07,2019-06-09,in progress,48.87,change purge valve; make polarization coating; ,Zumgoity,
+519,2019-06-08,2019-06-16,in progress,119.15,replace diverter valve; attach exterior camera; ,Cancity,16V302000
+520,2019-06-08,2019-06-08,in progress,63.93,replace serpentine belt; fix rear defroster; ,Cancity,17V545000
+521,2019-06-08,2019-06-11,in progress,73.81,attach exterior camera; add knee airbags; ,Rundofase,
+522,2019-06-08,2019-06-11,pending,33.35,fix nvh dampening system; ,Toughzap,
+523,2019-06-08,2019-06-10,pending,170.2,install active pedestrian protection system; ,Toughzap,
+524,2019-06-08,2019-06-08,in progress,30.76,fix deceleration system; fix external temperature display; ,Zumgoity,06V316000
+525,2019-06-09,2019-06-10,completed,11.41,attach seat extension; upgrade navigation system; ,Cancity,98V322000
+526,2019-06-09,2019-07-11,completed,785.13,adjust regenerative braking; replace steering column lock; ,Newex,
+527,2019-06-09,2019-06-09,in progress,63.93,adjust low fuel warning indicator; adjust climate control; ,Toughzap,
+528,2019-06-09,2019-06-10,completed,56.38,replace stabilizer bar; fix sunroof; ,Zencorporation,
+529,2019-06-09,2019-06-09,pending,38.61,install smoked glass; adjust seat belts tension; ,Zoomit,
+530,2019-06-09,2019-06-10,pending,35.75,change timing belt; configure universal remote control; ,Zoomit,
+531,2019-06-10,2019-07-03,completed,324.97,fix deceleration system; adjust accelerator pedal linkage; ,Cancity,
+532,2019-06-10,2019-06-19,completed,70.34,adjust running boards; attach exterior camera; ,Fasehatice,
+533,2019-06-10,2019-06-10,completed,63.93,adjust ignition timing; set up satellite radio; ,Newex,
+534,2019-06-10,2019-06-18,in progress,123.02,adjust ignition timing; replace steering column lock; ,Zoomit,
+535,2019-06-10,2019-06-13,completed,100.45,improve cylinder configuration; upgrade navigation system; ,Zoomit,
+536,2019-06-10,2019-06-14,in progress,146.66,replace tail lights; adjust turn signals; ,Zumgoity,
+537,2019-06-11,2019-06-13,in progress,115.82,change air conditioner refrigerant; ,Cancity,
+538,2019-06-11,2019-06-11,completed,28.26,install on-board diagnosis system; upgrade navigation system; ,Fasehatice,
+539,2019-06-11,2019-06-12,pending,35.75,replace ace filter; ,Rundofase,
+540,2019-06-11,2019-06-29,completed,572.54,fix rear defroster; improve cylinder configuration; ,Zoomit,
+541,2019-06-11,2019-06-12,completed,14.42,configure audio remote control; change coolant; ,Zoomit,
+542,2019-06-11,2019-06-11,completed,114.87,install optional equipment; install vanity mirrors; ,Zumgoity,
+543,2019-06-11,2019-06-11,completed,63.93,adjust seat belts tension; set up auto-delay headlights; ,Zumgoity,
+544,2019-06-12,2019-06-15,completed,40.43,replace radiator core & ac condenser; refurbish power steering; ,Newex,19V148000
+545,2019-06-12,2019-06-13,in progress,58.47,replace fuel filter; replace steering column lock; ,Toughzap,
+546,2019-06-13,2019-06-20,pending,130.82,replace tail lights; ,Cancity,
+547,2019-06-13,2019-06-13,in progress,52.08,fix a-pillar; ,Newex,
+548,2019-06-13,2019-06-14,in progress,18.45,replace catalytic converter; replace brake pedal spring; ,Newex,17V457000
+549,2019-06-13,2019-06-17,pending,45.85,replace tail lights; ,Rundofase,
+550,2019-06-13,2019-07-05,completed,435.69,reduce blind spot; replace stabilizer bar; ,Rundofase,
+551,2019-06-13,2019-06-13,completed,62.48,replace crankcase ventilation filter; adjust adaptive cruise control; ,Zencorporation,
+552,2019-06-13,2019-06-17,pending,169.13,install curtain airbags; ,Zumgoity,
+553,2019-06-14,2019-06-15,pending,14.42,configure audio remote control; correct abs; ,Cancity,14V422000
+554,2019-06-14,2019-06-22,completed,91.26,attach spoiler; change brake linings; ,Fasehatice,
+555,2019-06-14,2019-06-17,in progress,63.93,replace crankcase ventilation filter; change brake linings; ,Rundofase,
+556,2019-06-14,2019-06-15,pending,114.87,adjust block heater; attach spoiler; ,Zoomit,
+557,2019-06-14,2019-06-14,pending,52.08,install roof spoiler; attach seat extension; ,Zoomit,
+558,2019-06-15,2019-06-16,completed,34.84,attach spoiler; replace radiator hoses; ,Cancity,
+559,2019-06-15,2019-06-17,completed,73.3,configure universal remote control; configure universal remote control; ,Cancity,
+560,2019-06-15,2019-06-15,completed,52.08,adjust seat belts tension; adjust turn signals; ,Newex,18V231000
+561,2019-06-15,2019-06-15,in progress,30.71,replace tail lights; replace steering column lock; ,Rundofase,
+562,2019-06-15,2019-07-03,pending,527.97,upgrade navigation system; reduce fuel consumption; ,Rundofase,
+563,2019-06-15,2019-07-16,in progress,984.27,fix nvh dampening system; change speaker configuration; ,Toughzap,
+564,2019-06-15,2019-06-18,pending,100.45,improve engine performance; adjust climate control; ,Zencorporation,
+565,2019-06-15,2019-06-19,in progress,36.91,upgrade navigation system; set up auto-delay headlights; ,Zumgoity,16V354000
+566,2019-06-16,2019-06-17,completed,77.21,install turbocharger; change oil filter; ,Newex,
+567,2019-06-16,2019-06-16,in progress,35.58,attach exterior camera; ,Newex,15V157000
+568,2019-06-16,2019-06-17,pending,80.87,adjust traction control system; install parking sensors; ,Toughzap,
+569,2019-06-16,2019-06-16,completed,24.15,install intelligent alternator; install separate rear audio; ,Zencorporation,
+570,2019-06-16,2019-06-26,completed,162.61,adjust regenerative braking; replace liftgate window; ,Zoomit,13V259000
+571,2019-06-16,2019-06-16,pending,52.08,change steering rack; adjust ignition timing; ,Zoomit,
+572,2019-06-17,2019-06-19,pending,52.08,change memory settings of the onboard computer; ,Toughzap,13V175000
+573,2019-06-17,2019-06-17,completed,35.58,install anti-theft alarm; fix sunroof; ,Toughzap,
+574,2019-06-17,2019-06-19,completed,229.74,adjust turn signals; adjust turn signals; ,Zoomit,16V842000
+575,2019-06-18,2019-06-18,completed,85.1,replace diverter valve; change timing belt; ,Cancity,
+576,2019-06-18,2019-06-19,completed,15.28,change timing belt; fix steering damper; ,Fasehatice,
+577,2019-06-18,2019-06-21,in progress,249.91,set up auto-delay headlights; replace radiator core & ac condenser; ,Fasehatice,02V253000
+578,2019-06-18,2019-06-20,pending,43.27,change air conditioner refrigerant; replace liftgate window; ,Rundofase,
+579,2019-06-18,2019-06-19,in progress,77.21,remove oversteer; change speaker configuration; ,Rundofase,
+580,2019-06-18,2019-06-18,pending,49.36,reduce fuel consumption; adjust ignition timing; ,Toughzap,
+581,2019-06-18,2019-07-02,pending,611.67,attach exterior camera; fix external temperature display; ,Toughzap,
+582,2019-06-18,2019-06-26,completed,169.56,add heated windshield; fix broken tow hooks; ,Zencorporation,13V489000
+583,2019-06-18,2019-06-24,in progress,150.86,fix ventilated seats; replace tail lights; ,Zencorporation,
+584,2019-06-18,2019-06-18,in progress,63.93,fix deceleration system; reduce blind spot; ,Zoomit,
+585,2019-06-18,2019-06-18,completed,35.58,replace water pump; make polarization coating; ,Zoomit,13V147000
+586,2019-06-18,2019-06-19,pending,80.87,change brake linings; ,Zumgoity,
+587,2019-06-19,2019-06-27,in progress,79.8,fix air filter restriction indicator; ,Cancity,
+588,2019-06-19,2019-06-20,pending,59.79,change purge valve; attach exterior camera; ,Newex,
+589,2019-06-19,2019-07-12,completed,330.98,install intelligent alternator; remove oversteer; ,Rundofase,
+590,2019-06-19,2019-06-21,pending,30.76,fix solar sunroof; replace brake pedal spring; ,Rundofase,07V220000
+591,2019-06-19,2019-06-20,completed,71.16,install roof spoiler; replace liftgate window; ,Rundofase,
+592,2019-06-19,2019-06-19,completed,49.36,install roof spoiler; configure audio remote control; ,Toughzap,
+593,2019-06-19,2019-06-23,pending,159.04,install on-board diagnosis system; install on-board diagnosis system; ,Zumgoity,
+594,2019-06-20,2019-06-20,completed,133,adjust hybrid performance; change purge valve; ,Fasehatice,
+595,2019-06-20,2019-06-20,completed,63.93,change brake linings; adjust turn signals; ,Fasehatice,
+596,2019-06-20,2019-06-21,in progress,104.15,attach exterior camera; ,Zencorporation,
+597,2019-06-20,2019-06-25,pending,48.84,adjust block heater; replace timing belt tensioner; ,Zencorporation,
+598,2019-06-20,2019-06-20,in progress,25.11,repair cooled seats; install dusk-sensing headlights; ,Zoomit,
+599,2019-06-20,2019-06-24,pending,56.38,replace brake pedal spring; change timing belt; ,Zoomit,
+600,2019-06-21,2019-07-06,in progress,114.05,install anti-theft alarm; adjust climate control; ,Fasehatice,
+601,2019-06-21,2019-06-22,in progress,28.85,change brake linings; add knee airbags; ,Rundofase,07V533000
+602,2019-06-21,2019-06-21,pending,35.58,change speaker configuration; install smoked glass; ,Rundofase,
+603,2019-06-21,2019-06-22,pending,133,change coolant; ,Toughzap,
+604,2019-06-21,2019-06-25,pending,281.37,fix sunroof; prevent fuel pump shutoff; ,Zencorporation,
+605,2019-06-21,2019-06-22,pending,86.47,replace brake pedal spring; repair seatbelt force limiters; ,Zumgoity,
+606,2019-06-22,2019-06-25,pending,34.04,change wheel cylinders; refurbish power steering; ,Newex,
+607,2019-06-22,2019-06-22,pending,52.08,adjust adaptive cruise control; improve engine performance; ,Zoomit,16V907000
+608,2019-06-23,2019-06-23,in progress,33.17,fix rear defroster; ,Cancity,
+609,2019-06-23,2019-07-10,completed,129.78,upgrade navigation system; reduce carbon footprint; ,Fasehatice,
+610,2019-06-23,2019-06-23,completed,43.24,change speaker configuration; replace serpentine belt; ,Fasehatice,
+611,2019-06-23,2019-06-23,in progress,40.43,replace diverter valve; check drive axle boots; ,Newex,
+612,2019-06-23,2019-06-23,in progress,52.08,adjust adaptive cruise control; change timing belt; ,Rundofase,13V289000
+613,2019-06-23,2019-07-10,pending,659.5,replace radiator core & ac condenser; change oil filter; ,Rundofase,
+614,2019-06-23,2019-07-01,completed,203.85,reconfigure service reminder light; change pcv filter/pcv valve; ,Rundofase,
+615,2019-06-23,2019-06-24,in progress,90.54,fix a-pillar; repair seatbelt force limiters; ,Zumgoity,13V113000
+616,2019-06-24,2019-06-25,pending,25.11,attach exterior camera; adjust turn signals; ,Fasehatice,
+617,2019-06-24,2019-07-13,completed,12.89,replace radiator core & ac condenser; change oil filter; ,Toughzap,
+618,2019-06-24,2019-06-27,completed,121.3,install separate rear audio; install optional equipment; ,Zencorporation,
+619,2019-06-24,2019-07-03,pending,161.16,add knee airbags; reconfigure service reminder light; ,Zoomit,
+620,2019-06-25,2019-06-25,in progress,11.12,replace water pump; change pcv filter/pcv valve; ,Cancity,
+621,2019-06-25,2019-06-25,pending,43.24,adjust low fuel warning indicator; adjust traction control system; ,Cancity,
+622,2019-06-25,2019-06-28,pending,19.23,configure audio remote control; change timing belt; ,Fasehatice,
+623,2019-06-25,2019-06-30,pending,243.98,attach seat extension; install optional equipment; ,Zencorporation,
+624,2019-06-25,2019-06-25,completed,33.17,adjust block heater; ,Zoomit,
+625,2019-06-25,2019-06-26,completed,83.96,configure audio remote control; adjust low fuel warning indicator; ,Zoomit,
+626,2019-06-25,2019-06-25,pending,14.42,attach seat extension; install optional equipment; ,Zumgoity,
+627,2019-06-25,2019-07-01,pending,261.63,change air conditioner refrigerant; set up satellite radio; ,Zumgoity,
+628,2019-06-26,2019-06-26,in progress,16.97,install dusk-sensing headlights; adjust accelerator pedal linkage; ,Cancity,18V576000
+629,2019-06-26,2019-07-11,in progress,148.28,configure audio remote control; replace steering column lock; ,Cancity,18V082000
+630,2019-06-26,2019-06-26,pending,47.87,adjust ignition timing; install smoked glass; ,Rundofase,
+631,2019-06-26,2019-06-26,completed,33.17,fix rear defroster; change suspension fluid; ,Zoomit,
+632,2019-06-26,2019-06-26,completed,46.83,improve cylinder configuration; fix solar sunroof; ,Zumgoity,16V812000
+633,2019-06-27,2019-06-29,completed,22.05,adjust turn signals; reduce fuel consumption; ,Newex,19V006000
+634,2019-06-27,2019-06-27,completed,11.41,repair seatbelt force limiters; configure audio remote control; ,Rundofase,
+635,2019-06-27,2019-06-27,in progress,43.24,change speaker configuration; replace ace filter; ,Zencorporation,
+636,2019-06-28,2019-07-05,in progress,210.49,fix deceleration system; fix cylinder head bolts; ,Toughzap,
+637,2019-06-28,2019-07-11,pending,715.34,adjust seat belts tension; repair seatbelt force limiters; ,Zencorporation,
+638,2019-06-28,2019-06-28,in progress,26.47,adjust adaptive cruise control; replace tail lights; ,Zoomit,
+639,2019-06-29,2019-07-18,completed,2091.25,fix air filter restriction indicator; fix steering damper; ,Cancity,
+640,2019-06-29,2019-07-14,in progress,204.25,install active pedestrian protection system; install separate rear audio; ,Fasehatice,16V303000
+641,2019-06-29,2019-06-29,in progress,31.81,replace brake pedal spring; change brake linings; ,Rundofase,
+642,2019-06-29,2019-07-03,in progress,16.88,adjust ignition timing; change steering rack; ,Toughzap,
+643,2019-06-29,2019-07-16,in progress,118.41,change pcv filter/pcv valve; fix rear defroster; ,Zumgoity,
+644,2019-06-30,2019-07-04,in progress,33.94,fix rear defroster; ,Cancity,
+645,2019-06-30,2019-07-02,completed,44.9,change timing belt; ,Rundofase,08V344000
+646,2019-07-01,2019-07-01,completed,34.77,fix cylinder head bolts; install smoked glass; ,Cancity,
+647,2019-07-03,2019-07-10,in progress,169.56,install vanity mirrors; install optional equipment; ,Toughzap,15V629000
+648,2019-07-03,2019-07-18,completed,54.27,replace fuel filter; fix cylinder head bolts; ,Zencorporation,
+649,2019-07-05,2019-07-27,in progress,356.39,replace catalytic converter; install dusk-sensing headlights; ,Rundofase,
+650,2019-07-05,2019-07-30,pending,1352.4,change speaker configuration; replace brake pedal spring; ,Zencorporation,
+651,2019-07-06,2019-07-29,in progress,1617.89,adjust ignition timing; add knee airbags; ,Newex,16V641000
+652,2019-07-06,2019-07-12,completed,173.83,check drive axle boots; ,Zencorporation,
+653,2019-07-06,2019-07-10,pending,32.23,adjust adaptive cruise control; ,Zumgoity,18V031000
+654,2019-07-07,2019-07-21,completed,333.18,adjust accelerator pedal linkage; change suspension fluid; ,Fasehatice,
+655,2019-07-08,2019-08-08,in progress,882.42,adjust low fuel warning indicator; replace water pump; ,Rundofase,
+656,2019-07-08,2019-07-08,in progress,37.77,refurbish power steering; add heated windshield; ,Toughzap,
+657,2019-07-08,2019-07-14,pending,126.7,attach exterior camera; replace radiator core & ac condenser; ,Zencorporation,
+658,2019-07-09,2019-07-14,in progress,289.35,fix rear hvac; reconfigure service reminder light; ,Zencorporation,
+659,2019-07-09,2019-07-11,in progress,44.1,install roof spoiler; reduce blind spot; ,Zumgoity,
+660,2019-07-10,2019-07-10,in progress,16.29,install on-board diagnosis system; adjust running boards; ,Fasehatice,09V024000
+661,2019-07-11,2019-07-13,completed,32.23,install vanity mirrors; check drive axle boots; ,Fasehatice,
+662,2019-07-11,2019-07-12,in progress,21.63,change coolant; fix broken tow hooks; ,Toughzap,
+663,2019-07-11,2019-07-11,in progress,43.61,install smoked glass; replace tail lights; ,Zoomit,
+664,2019-07-11,2019-07-20,completed,79.8,replace tail lights; fix rear defroster; ,Zumgoity,
+665,2019-07-12,2019-08-07,in progress,455.65,change air conditioner refrigerant; install intelligent alternator; ,Zencorporation,10V449000
+666,2019-07-12,2019-08-05,completed,118.63,fix air filter restriction indicator; ,Zoomit,
+667,2019-07-12,2019-07-14,completed,122.31,replace crankcase ventilation filter; replace serpentine belt; ,Zumgoity,
+668,2019-07-14,2019-07-17,pending,44.9,prevent fuel pump shutoff; set up auto-delay headlights; ,Zoomit,
+669,2019-07-15,2019-08-03,completed,167.91,install active pedestrian protection system; replace catalytic converter; ,Newex,
+670,2019-07-15,2019-07-30,pending,94.21,replace radiator hoses; ,Rundofase,
+671,2019-07-17,2019-07-20,pending,56.52,refurbish power steering; replace catalytic converter; ,Rundofase,
+672,2019-07-17,2019-07-25,in progress,347.22,replace timing belt tensioner; adjust traction control system; ,Rundofase,16V256000
+673,2019-07-17,2019-08-13,in progress,573.26,change steering rack; ,Rundofase,
+674,2019-07-18,2019-07-26,in progress,98.71,check drive axle boots; adjust accelerator pedal linkage; ,Fasehatice,16V651000
+675,2019-07-18,2019-09-16,pending,238.37,fix cylinder head bolts; replace brake pedal spring; ,Toughzap,11V395000
+676,2019-07-18,2019-07-22,completed,305.83,refurbish power steering; change timing belt; ,Zencorporation,14V261000
+677,2019-07-18,2019-07-24,completed,45.27,adjust reverse tilt mirrors; adjust climate control; ,Zumgoity,
+678,2019-07-19,2019-08-06,in progress,43.28,repair shiftable automatic transmission; refurbish power steering; ,Cancity,
+679,2019-07-19,2019-07-31,in progress,35.01,change wheel cylinders; correct abs; ,Toughzap,13V114000
+680,2019-07-20,2019-07-25,in progress,57.68,attach spoiler; ,Cancity,
+681,2019-07-20,2019-08-25,in progress,467.78,replace fuel filter; replace stabilizer bar; ,Newex,
+682,2019-07-21,2019-08-15,completed,159.04,replace ace filter; improve engine performance; ,Fasehatice,
+683,2019-07-21,2019-07-26,pending,338.26,upgrade navigation system; improve engine performance; ,Rundofase,
+684,2019-07-22,2019-07-24,in progress,39.22,install anti-theft alarm; add knee airbags; ,Fasehatice,15V846000
+685,2019-07-22,2019-09-05,completed,94.66,correct abs; fix cylinder head bolts; ,Zumgoity,
+686,2019-07-23,2019-07-30,completed,81.43,install separate rear audio; correct abs; ,Fasehatice,19V146000
+687,2019-07-23,2019-07-24,pending,26.29,install parking sensors; add knee airbags; ,Zoomit,
+688,2019-07-23,2019-07-30,completed,285.38,change suspension fluid; repair seatbelt force limiters; ,Zoomit,
+689,2019-07-24,2019-08-30,pending,1408.95,change suspension fluid; reduce blind spot; ,Fasehatice,
+690,2019-07-24,2019-08-13,completed,793.18,fix deceleration system; set up satellite radio; ,Fasehatice,
+691,2019-07-24,2019-09-26,in progress,452.57,upgrade navigation system; fix power activated release; ,Toughzap,
+692,2019-07-24,2019-07-31,pending,140.33,fix nvh dampening system; reduce fuel consumption; ,Toughzap,
+693,2019-07-24,2019-08-10,in progress,1121.39,replace crankcase ventilation filter; configure universal remote control; ,Zencorporation,
+694,2019-07-24,2019-08-04,completed,139.36,improve engine performance; add knee airbags; ,Zoomit,
+695,2019-07-24,2019-07-31,pending,44.74,reduce blind spot; replace crankcase ventilation filter; ,Zumgoity,
+696,2019-07-25,2019-08-19,in progress,1226.65,improve engine performance; configure audio remote control; ,Fasehatice,19V293000
+697,2019-07-25,2019-08-04,pending,94.52,install active pedestrian protection system; improve engine performance; ,Newex,
+698,2019-07-25,2019-08-06,completed,78.87,replace liftgate window; replace radiator core & ac condenser; ,Toughzap,15V439000
+699,2019-07-25,2019-08-21,in progress,1042.34,replace stabilizer bar; ,Zumgoity,
+700,2019-07-26,2019-07-27,completed,68.27,change pcv filter/pcv valve; prevent fuel pump shutoff; ,Cancity,10V035000
+701,2019-07-26,2019-07-27,in progress,13.07,change brake linings; adjust turn signals; ,Rundofase,
+702,2019-07-26,2019-08-19,completed,128.94,repair cooled seats; change steering rack; ,Zoomit,16V349000
+703,2019-07-26,2019-07-27,pending,29.93,adjust running boards; reduce blind spot; ,Zoomit,
+704,2019-07-27,2019-08-07,in progress,390.37,repair direct injection system; adjust low fuel warning indicator; ,Fasehatice,14V743000
+705,2019-07-27,2019-07-28,pending,59.75,replace steering column lock; reconfigure service reminder light; ,Zumgoity,
+706,2019-07-28,2019-08-13,pending,59.2,correct abs; install turbocharger; ,Cancity,
+707,2019-07-28,2019-08-05,completed,87.21,check drive axle boots; ,Zoomit,
+708,2019-07-28,2019-08-20,completed,338.44,improve engine performance; install parking sensors; ,Zumgoity,
+709,2019-07-29,2019-08-07,in progress,130.75,reduce carbon footprint; change speaker configuration; ,Fasehatice,15V846000
+710,2019-07-29,2019-07-30,completed,33.94,adjust regenerative braking; install dusk-sensing headlights; ,Newex,
+711,2019-07-29,2019-08-03,in progress,112.75,improve cylinder configuration; replace serpentine belt; ,Newex,
+712,2019-07-29,2019-08-02,in progress,76.89,repair shiftable automatic transmission; improve engine performance; ,Zumgoity,
+713,2019-07-30,2019-08-06,completed,211.03,fix cylinder head bolts; add heated windshield; ,Zumgoity,
+714,2019-07-31,2019-08-06,in progress,33.94,install intelligent alternator; change timing belt; ,Fasehatice,08E050000
+715,2019-07-31,2019-08-22,pending,682.43,change wheel cylinders; install intelligent alternator; ,Rundofase,
+716,2019-08-01,2019-08-24,in progress,99.76,install dusk-sensing headlights; fix rear defroster; ,Cancity,
+717,2019-08-01,2019-08-10,in progress,189.93,replace water pump; ,Fasehatice,
+718,2019-08-04,2019-08-22,in progress,652.31,replace ace filter; set up auto-delay headlights; ,Fasehatice,
+719,2019-08-04,2019-08-07,in progress,65.15,fix rear defroster; adjust accelerator pedal linkage; ,Rundofase,
+720,2019-08-04,2019-08-25,completed,905.35,adjust accelerator pedal linkage; improve engine performance; ,Zumgoity,17V769000
+721,2019-08-05,2019-08-05,in progress,44.74,improve engine performance; add knee airbags; ,Zencorporation,
+722,2019-08-06,2019-08-09,completed,87.21,install active pedestrian protection system; change speaker configuration; ,Newex,
+723,2019-08-06,2019-08-20,pending,448.13,install intelligent alternator; change speaker configuration; ,Toughzap,
+724,2019-08-07,2019-08-09,completed,34.14,improve cylinder configuration; prevent fuel pump shutoff; ,Zencorporation,
+725,2019-08-08,2019-08-14,in progress,134.6,adjust low fuel warning indicator; fix rear defroster; ,Zencorporation,
+726,2019-08-08,2019-09-11,completed,374.46,replace steering column lock; fix steering damper; ,Zoomit,
+727,2019-08-08,2019-09-03,pending,1899.26,add heated windshield; prevent fuel pump shutoff; ,Zumgoity,
+728,2019-08-09,2019-08-22,pending,357.67,replace radiator core & ac condenser; fix power activated release; ,Rundofase,
+729,2019-08-09,2019-09-03,completed,376.86,repair cooled seats; adjust reverse tilt mirrors; ,Toughzap,
+730,2019-08-09,2019-08-19,in progress,164.52,replace fuel filter; change coolant; ,Zencorporation,
+731,2019-08-09,2019-09-19,completed,407.51,correct abs; adjust low fuel warning indicator; ,Zencorporation,08E050000
+732,2019-08-09,2019-08-23,in progress,173.83,reduce fuel consumption; repair direct injection system; ,Zoomit,
+733,2019-08-09,2019-08-22,completed,25.63,repair direct injection system; replace liftgate window; ,Zoomit,
+734,2019-08-09,2019-08-11,completed,146.39,adjust climate control; repair cooled seats; ,Zoomit,
+735,2019-08-10,2019-09-05,completed,238.98,reconfigure service reminder light; fix sunroof; ,Zumgoity,
+736,2019-08-11,2019-08-18,pending,118.8,install turbocharger; ,Rundofase,
+737,2019-08-11,2019-08-17,pending,118.13,fix external temperature display; adjust reverse tilt mirrors; ,Zencorporation,
+738,2019-08-14,2019-08-18,in progress,146.39,set up auto-delay headlights; change speaker configuration; ,Newex,
+739,2019-08-14,2019-08-24,completed,496.36,adjust accelerator pedal linkage; add knee airbags; ,Toughzap,
+740,2019-08-14,2019-08-16,pending,37.77,check drive axle boots; remove oversteer; ,Zencorporation,
+741,2019-08-14,2019-09-09,pending,452.92,replace radiator hoses; replace steering column lock; ,Zoomit,
+742,2019-08-15,2019-09-13,pending,611.67,fix rear defroster; reduce carbon footprint; ,Cancity,
+743,2019-08-15,2019-08-29,completed,66.14,install turbocharger; ,Fasehatice,
+744,2019-08-15,2019-08-20,in progress,177.61,replace liftgate window; ,Rundofase,19V256000
+745,2019-08-16,2019-08-23,in progress,122.95,replace timing belt tensioner; replace crankcase ventilation filter; ,Rundofase,
+746,2019-08-17,2019-08-19,pending,112.75,change timing belt; replace catalytic converter; ,Zoomit,
+747,2019-08-18,2019-09-22,in progress,402.6,fix nvh dampening system; install separate rear audio; ,Cancity,
+748,2019-08-18,2019-09-03,pending,34.14,fix sunroof; install roof spoiler; ,Toughzap,18V025000
+749,2019-08-18,2019-09-20,completed,586.63,improve engine performance; ,Zencorporation,
+750,2019-08-18,2019-08-20,in progress,44.9,reconfigure service reminder light; reconfigure service reminder light; ,Zumgoity,
+751,2019-08-19,2019-09-05,pending,101.26,make polarization coating; change speaker configuration; ,Cancity,
+752,2019-08-19,2019-08-30,in progress,188.85,replace serpentine belt; install intelligent alternator; ,Cancity,
+753,2019-08-20,2019-08-24,completed,130.82,fix broken tow hooks; fix deceleration system; ,Cancity,
+754,2019-08-20,2019-08-25,completed,25.79,change oil filter; ,Zencorporation,
+755,2019-08-21,2019-09-08,completed,41.98,fix rear hvac; change memory settings of the onboard computer; ,Newex,
+756,2019-08-21,2019-08-25,completed,289.35,replace water pump; add knee airbags; ,Toughzap,
+757,2019-08-23,2019-08-26,completed,13.07,install dusk-sensing headlights; fix air filter restriction indicator; ,Newex,
+758,2019-08-24,2019-09-05,pending,179.4,upgrade navigation system; attach spoiler; ,Toughzap,
+759,2019-08-25,2019-08-28,pending,169.13,adjust adaptive cruise control; replace timing belt tensioner; ,Cancity,
+760,2019-08-25,2019-08-27,completed,29.6,fix steering damper; ,Fasehatice,
+761,2019-08-25,2019-08-27,in progress,16.29,adjust seat belts tension; replace crankcase ventilation filter; ,Fasehatice,17V761000
+762,2019-08-25,2019-08-26,in progress,32.23,reduce blind spot; replace ace filter; ,Zoomit,17V260000
+763,2019-08-26,2019-09-03,pending,135.77,change timing belt; replace steering column lock; ,Zencorporation,
+764,2019-08-27,2019-09-05,pending,115.82,install on-board diagnosis system; adjust traction control system; ,Newex,
+765,2019-08-27,2019-09-26,pending,1352.4,replace fuel filter; check drive axle boots; ,Toughzap,
+766,2019-08-27,2019-09-08,pending,89.42,replace radiator core & ac condenser; change oil filter; ,Toughzap,
+767,2019-08-27,2019-09-03,in progress,55.15,reduce blind spot; change wheel cylinders; ,Zoomit,
+768,2019-08-27,2019-08-28,in progress,31.81,fix nvh dampening system; ,Zumgoity,
+769,2019-08-27,2019-09-06,pending,70.16,replace steering column lock; adjust traction control system; ,Zumgoity,
+770,2019-08-28,2019-08-29,pending,43.61,adjust turn signals; install parking sensors; ,Rundofase,
+771,2019-08-28,2019-08-30,in progress,184,repair cooled seats; adjust seat belts tension; ,Rundofase,
+772,2019-08-29,2019-08-30,pending,16.12,change steering rack; fix deceleration system; ,Fasehatice,
+773,2019-08-29,2019-09-18,completed,154.73,replace tail lights; change oil filter; ,Zencorporation,
+774,2019-08-30,2019-09-03,completed,29.24,fix deceleration system; reduce fuel consumption; ,Toughzap,
+775,2019-08-30,2019-09-19,in progress,540.73,set up satellite radio; replace brake pedal spring; ,Zoomit,
+776,2019-08-31,2019-09-02,in progress,113.31,install active pedestrian protection system; install intelligent alternator; ,Rundofase,
+777,2019-09-01,2019-09-04,completed,44.9,improve cylinder configuration; install optional equipment; ,Zoomit,13V248000
+778,2019-09-01,2019-09-10,completed,146.39,replace liftgate window; fix broken tow hooks; ,Zoomit,
+779,2019-09-02,2019-09-06,pending,105.72,fix air filter restriction indicator; adjust retractable mirrors; ,Cancity,
+780,2019-09-02,2019-09-24,pending,950.62,replace diverter valve; replace brake pedal spring; ,Rundofase,
+781,2019-09-02,2019-09-23,completed,119.71,install anti-theft alarm; refurbish power steering; ,Toughzap,
+782,2019-09-02,2019-09-21,pending,156.9,install intelligent alternator; replace diverter valve; ,Zoomit,
+783,2019-09-03,2019-09-09,in progress,243.36,replace brake pedal spring; replace timing belt tensioner; ,Cancity,
+784,2019-09-03,2019-09-10,in progress,264.39,replace diverter valve; replace catalytic converter; ,Newex,
+785,2019-09-03,2019-09-13,pending,266.12,fix a-pillar; check drive axle boots; ,Rundofase,
+786,2019-09-04,2019-09-14,pending,79.05,reduce blind spot; adjust turn signals; ,Cancity,
+787,2019-09-04,2019-09-11,completed,64.89,prevent fuel pump shutoff; ,Fasehatice,
+788,2019-09-04,2019-09-22,in progress,562.43,make polarization coating; repair cooled seats; ,Rundofase,
+789,2019-09-05,2019-09-18,completed,174.42,replace fuel filter; adjust seat belts tension; ,Zencorporation,
+790,2019-09-06,2019-09-15,pending,165.41,fix deceleration system; replace ace filter; ,Cancity,
+791,2019-09-06,2019-09-12,completed,32.23,replace tail lights; replace fuel filter; ,Cancity,
+792,2019-09-06,2019-09-08,in progress,110.3,install curtain airbags; install separate rear audio; ,Fasehatice,
+793,2019-09-06,2019-09-09,completed,44.9,change pcv filter/pcv valve; ,Newex,
+794,2019-09-06,2019-09-19,in progress,169.71,install curtain airbags; replace catalytic converter; ,Toughzap,
+795,2019-09-06,2019-09-25,completed,694.44,replace brake pedal spring; adjust traction control system; ,Zumgoity,
+796,2019-09-08,2019-09-23,completed,286.27,change speaker configuration; prevent fuel pump shutoff; ,Newex,
+797,2019-09-08,2019-09-26,completed,195.44,install turbocharger; adjust climate control; ,Zumgoity,
+798,2019-09-09,2019-09-11,in progress,122.67,refurbish power steering; fix sunroof; ,Newex,18V332000
+799,2019-09-09,2019-09-21,completed,68.27,repair direct injection system; ,Toughzap,
+800,2019-09-11,2019-09-15,pending,357.67,fix rear hvac; reduce fuel consumption; ,Zoomit,
+801,2019-09-11,2019-09-19,in progress,154.42,replace fuel filter; ,Zumgoity,
+802,2019-09-13,2019-09-22,pending,110.3,replace steering column lock; ,Fasehatice,16V595000
+803,2019-09-13,2019-09-19,pending,103.8,change brake linings; fix solar sunroof; ,Newex,
+804,2019-09-14,2019-09-18,completed,80.58,add knee airbags; ,Cancity,
+805,2019-09-14,2019-09-16,in progress,34.77,change oil filter; adjust traction control system; ,Fasehatice,13V450000
+806,2019-09-14,2019-09-25,in progress,389.56,change coolant; adjust low fuel warning indicator; ,Newex,
+807,2019-09-14,2019-09-18,pending,74.83,fix rear defroster; change oil filter; ,Toughzap,
+808,2019-09-15,2019-09-23,pending,178.96,adjust adaptive cruise control; upgrade navigation system; ,Zencorporation,
+809,2019-09-17,2019-09-17,pending,34.77,fix air filter restriction indicator; replace steering column lock; ,Zencorporation,
+810,2019-09-17,2019-09-19,pending,34.84,replace diverter valve; adjust reverse tilt mirrors; ,Zumgoity,
+811,2019-09-17,2019-09-18,pending,37.77,fix steering damper; adjust low fuel warning indicator; ,Zumgoity,18V427000
+812,2019-09-19,2019-09-19,completed,35.08,add heated windshield; fix rear hvac; ,Cancity,
+813,2019-09-19,2019-09-26,in progress,56.38,adjust climate control; install anti-theft alarm; ,Zoomit,17V024000
+814,2019-09-20,2019-09-24,in progress,140.69,configure audio remote control; adjust seat belts tension; ,Rundofase,
+815,2019-09-21,2019-09-25,completed,77.21,add knee airbags; refurbish power steering; ,Zoomit,
+816,2019-09-22,2019-09-24,completed,61.33,reduce fuel consumption; replace diverter valve; ,Zoomit,
+817,2019-09-23,2019-09-25,in progress,39.22,change speaker configuration; change oil filter; ,Cancity,
+818,2019-09-25,2019-09-26,pending,32.23,adjust accelerator pedal linkage; replace fuel filter; ,Zoomit,18V204000
+819,2019-09-26,2019-09-26,in progress,48.8,adjust hybrid performance; install dusk-sensing headlights; ,Fasehatice,09E012000

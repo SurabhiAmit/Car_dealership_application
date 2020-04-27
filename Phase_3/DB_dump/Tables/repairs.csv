@@ -1,0 +1,820 @@
+﻿Start Date,End Date,VIN,Repair Description,Repair Cost,Repair Status,Vendor Name,Vendor Phone,Vendor Street Address,Vendor City,Vendor State,Vendor ZIP,Recall NTHSA,Recall Description,Manufacturer,
+1/2/2019,1/3/2019,VROU7UEWYWK097688,adjust block heater; replace brake pedal spring; ,58.17,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,1
+1/6/2019,1/6/2019,VROU7UEWYWK097688,repair direct injection system; fix cylinder head bolts; ,29.08,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,2
+1/6/2019,1/8/2019,H7PM7E5LCY5894305,change memory settings of the onboard computer; reduce fuel consumption; ,25.78,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,19V035000, Volkswagen Group of America  Inc. (Audi) is recalling certain 2016-2018 Q7  A6 and A7 vehicles ,Audi,3
+1/8/2019,2/2/2019,SGEAZM7OHRE981138,replace water pump; change steering rack; ,163.11,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,4
+1/8/2019,1/8/2019,VROU7UEWYWK097688,adjust adaptive cruise control; add knee airbags; ,29.08,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,5
+1/9/2019,1/18/2019,L2G40AKW0DV261314,reduce carbon footprint; adjust retractable mirrors; ,235.7,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,6
+1/9/2019,1/10/2019,VROU7UEWYWK097688,change suspension fluid; replace catalytic converter; ,58.17,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,14V624000, General Motors LLC (GM) is recalling certain model year 2015 Cadillac Escalade and Escalade ESV,Cadillac,7
+1/10/2019,1/17/2019,ZIYO5EKWDKS246902,repair seatbelt force limiters; replace tail lights; ,547.42,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,8
+1/13/2019,1/13/2019,VROU7UEWYWK097688,adjust accelerator pedal linkage; ,29.08,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,9
+1/14/2019,1/15/2019,EAJW0OF78HV386515,adjust turn signals; change memory settings of the onboard computer; ,32.57,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,10
+1/14/2019,1/18/2019,QNGJBXZ0ZPN690169,install curtain airbags; install smoked glass; ,51.26,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,06V445000, ON CERTAIN SPORT UTILITY VEHICLES  DURING STATIC AIR BAG DEPLOYMENT TESTING CONDUCTED BY NHTSA ,Hyundai,11
+1/14/2019,1/17/2019,VROU7UEWYWK097688,configure universal remote control; adjust turn signals; ,29.08,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,12
+1/16/2019,1/19/2019,C1OCSTQ1VP0823459,repair direct injection system; install anti-theft alarm; ,118.73,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,13
+1/17/2019,1/19/2019,EAJW0OF78HV386515,repair seatbelt force limiters; ,16.29,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,14
+1/17/2019,3/25/2019,2CEDOZQS3WI014174,improve engine performance; adjust adaptive cruise control; ,4118.68,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,15
+1/17/2019,1/17/2019,AKHFEO0D1D4893889,fix a-pillar; ,51.03,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,15V504000, Mitsubishi Fuso Truck of America  Inc. (MFTA) is recalling certain model year 2012-2016 FEC52 v,Mitsubishi,16
+1/19/2019,2/11/2019,7Y1EAHONCCS732936,replace radiator hoses; replace radiator core & ac condenser; ,1073,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,09E012000, SABERSPORT IS RECALLING 16 270 COMBINATION CORNER AND BUMPER LAMP ASSEMBLIES OF VARIOUS PART NU,Toyota,17
+1/19/2019,1/19/2019,RZ64Q4VF3EC682670,install smoked glass; adjust low fuel warning indicator; ,47.64,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,18
+1/19/2019,1/22/2019,AKHFEO0D1D4893889,fix rear defroster; reduce blind spot; ,204.13,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,19
+1/20/2019,2/27/2019,6HKQMAEQ5PA690783,replace catalytic converter; replace diverter valve; ,664.32,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,20
+1/20/2019,1/20/2019,EAJW0OF78HV386515,install dusk-sensing headlights; install on-board diagnosis system; ,16.29,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,09V428000, DAIMLER TRUCKS IS RECALLING MODEL YEAR 2009-2010 FREIGHTLINER  AND STERLING VEHICLES EQUIPPED D,Freightliner,21
+1/22/2019,1/28/2019,RZ64Q4VF3EC682670,adjust traction control system; adjust retractable mirrors; ,333.51,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,22
+1/23/2019,1/25/2019,C1OCSTQ1VP0823459,prevent fuel pump shutoff; reduce blind spot; ,79.15,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,23
+1/24/2019,1/26/2019,AKHFEO0D1D4893889,replace ace filter; replace ace filter; ,153.1,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,06E064000, CERTAIN TRADESONIC COMBINATION LAMPS SOLD AS REPLACEMENT LAMPS FOR USE ON THE ABOVE LISTED PASS,Mitsubishi,24
+1/24/2019,1/28/2019,EAJW0OF78HV386515,change speaker configuration; change timing belt; ,81.43,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,06V205000, CERTAIN HEAVY TRUCKS  SHUTTLE BUSES  AND  SCHOOL BUSES EQUIPPED WITH BENDIX MODULATED SPRING BR,Freightliner,25
+1/24/2019,3/29/2019,GB5EB3AIUD0242483,change brake linings; replace crankcase ventilation filter; ,235.3,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,26
+1/25/2019,1/27/2019,MW6HGX7M6O4186962,change brake linings; install curtain airbags; ,102.78,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,27
+1/25/2019,2/14/2019,XK51E6IAGWW949280,check drive axle boots; change timing belt; ,57.06,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,28
+1/25/2019,2/14/2019,L2G40AKW0DV261314,adjust running boards; replace catalytic converter; ,117.85,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,29
+1/25/2019,2/1/2019,EMARJQJLUEI221810,attach spoiler; fix a-pillar; ,154.42,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,30
+1/26/2019,2/28/2019,VSGK3RYW2TC911641,change oil filter; repair shiftable automatic transmission; ,340.05,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,31
+1/26/2019,4/20/2019,I7CVVBU08H1044370,attach spoiler; set up satellite radio; ,17.42,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,32
+1/26/2019,2/1/2019,8HJHTFE0FGU264640,set up satellite radio; change suspension fluid; ,132.53,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,33
+1/27/2019,2/12/2019,UEHE08QS622862172,add knee airbags; adjust low fuel warning indicator; ,17.42,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,34
+1/28/2019,1/29/2019,AKHFEO0D1D4893889,fix sunroof; adjust regenerative braking; ,102.07,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,12V524000, Mitsubishi Fuso Truck of America (MFTA) is recalling certain model year 2012-2013 FEC52  FEC72 ,Mitsubishi,35
+1/28/2019,2/1/2019,IB3FDW7VPTE357125,improve cylinder configuration; attach seat extension; ,18.86,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,36
+1/28/2019,1/31/2019,C1OCSTQ1VP0823459,reduce carbon footprint; fix rear hvac; ,79.15,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,37
+1/29/2019,1/29/2019,QNGJBXZ0ZPN690169,replace crankcase ventilation filter; change suspension fluid; ,25.63,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,17V359000, Hyundai Motor America (Hyundai) is recalling certain 2015-2016 Sonata and Genesis vehicles.  In,Hyundai,38
+1/30/2019,2/15/2019,ZIYO5EKWDKS246902,change wheel cylinders; repair direct injection system; ,205.28,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,39
+1/30/2019,1/30/2019,AKHFEO0D1D4893889,replace tail lights; change pcv filter/pcv valve; ,51.03,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,40
+1/30/2019,2/18/2019,QNGJBXZ0ZPN690169,adjust retractable mirrors; adjust ignition timing; ,486.95,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,41
+1/31/2019,2/2/2019,ZS1SXM3GTO8957023,repair seatbelt force limiters; fix solar sunroof; ,87.25,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,42
+2/1/2019,2/2/2019,MW6HGX7M6O4186962,attach seat extension; reduce blind spot; ,68.52,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,17V389000, Aston Martin The Americas (Aston Martin) is recalling certain 2011-2012 V8 Vantage vehicles.  T,Aston,43
+2/2/2019,2/3/2019,AKHFEO0D1D4893889,change wheel cylinders; replace brake pedal spring; ,51.03,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,44
+2/3/2019,2/9/2019,IB3FDW7VPTE357125,adjust hybrid performance; fix broken tow hooks; ,37.72,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,19V090000, Ferrari North America  Inc. (Ferrari) is recalling certain 2017 LaFerrari Aperta  2018-2019 488,Ferrari,45
+2/3/2019,2/16/2019,1D377TZAWSW801985,add knee airbags; adjust climate control; ,381.69,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,46
+2/3/2019,2/5/2019,H0SVSC0X1W0660350,fix external temperature display; reduce fuel consumption; ,158.6,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,00V371000,VEHICLE DESCRIPTION:  PASSENGER VEHICLES.  SOME OF THESE VEHICLES EXHIBIT A CONDITION IN WHICH T,Chevrolet,47
+2/4/2019,2/10/2019,MW6HGX7M6O4186962,install dusk-sensing headlights; repair direct injection system; ,205.57,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,48
+2/4/2019,2/4/2019,ZS1SXM3GTO8957023,attach exterior camera; replace crankcase ventilation filter; ,29.08,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,49
+2/5/2019,2/19/2019,ZS1SXM3GTO8957023,install intelligent alternator; adjust block heater; ,58.17,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,50
+2/6/2019,6/18/2019,23XI32P0M0K897737,fix deceleration system; replace stabilizer bar; ,761.97,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,51
+2/6/2019,2/18/2019,SGEAZM7OHRE981138,check drive axle boots; install turbocharger; ,177.94,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,52
+2/6/2019,2/6/2019,C1OCSTQ1VP0823459,install optional equipment; change speaker configuration; ,39.58,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,03V509000, ON CERTAIN VEHICLES  THE HEADLAMP ADJUSTMENT MECHANISM MAY BE OPERATED WITHOUT SUITABLE INSTRUC,Jaguar,53
+2/7/2019,2/18/2019,EMARJQJLUEI221810,fix nvh dampening system; ,386.05,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,54
+2/7/2019,2/21/2019,AI51SMWRVBH997689,fix power activated release; change timing belt; ,142.41,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,55
+2/9/2019,2/11/2019,XLHSC830B4B709486,reduce carbon footprint; install separate rear audio; ,161.04,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,56
+2/10/2019,2/12/2019,XG2F8AZ3DKK768039,change brake linings; adjust climate control; ,17.5,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,13V114000, Kia Motors Corporation (Kia) is recalling certain model year 2007-2010 Rondo  model year 2007-2,Kia,57
+2/10/2019,2/10/2019,2KANK83IC2A444270,change speaker configuration; adjust retractable mirrors; ,41.57,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,58
+2/10/2019,2/12/2019,38ZSAKVC20U930606,attach exterior camera; change wheel cylinders; ,14.72,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,14V753000, Aston Martin Lagonda of North America (Aston Martin) is recalling certain model year 2006-2014 ,Aston,59
+2/11/2019,2/24/2019,7FT34LPXEKD855738,fix external temperature display; correct abs; ,278.93,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,60
+2/12/2019,2/17/2019,XOBOW6AU18A917853,fix broken tow hooks; refurbish power steering; ,90.05,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,61
+2/12/2019,2/23/2019,2KANK83IC2A444270,replace catalytic converter; replace crankcase ventilation filter; ,83.15,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,62
+2/12/2019,2/17/2019,E64AFHYM7CM667399,install separate rear audio; adjust low fuel warning indicator; ,107.95,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,63
+2/13/2019,3/13/2019,22420XMJ47N471618,change purge valve; ,337.14,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,64
+2/13/2019,2/14/2019,H0SVSC0X1W0660350,fix sunroof; fix ventilated seats; ,158.6,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,65
+2/14/2019,2/17/2019,MW6HGX7M6O4186962,fix nvh dampening system; fix steering damper; ,137.05,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,66
+2/15/2019,2/16/2019,EFUWNBMO3TM316916,change purge valve; configure audio remote control; ,41.7,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,11V510000, LOTUS IS RECALLING CERTAIN MODEL YEAR 2005-2007 ELISE AND EXIGE VEHICLES MANUFACTURED FROM JUNE,Lotus,67
+2/15/2019,2/17/2019,SX73Y7QKKQF628146,adjust retractable mirrors; fix ventilated seats; ,34.84,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,68
+2/15/2019,2/17/2019,1EW5SWZMNBU661507,repair cooled seats; set up auto-delay headlights; ,25.78,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,04V133000, ON CERTAIN PASSENGER VEHICLES  IF A DRIVER'S KNEES PUSH AGAINST THE KNEE BOLSTER (CRASH ELEMENT,Audi,69
+2/16/2019,2/20/2019,WJENS213H4U188325,attach seat extension; set up satellite radio; ,90.1,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,70
+2/16/2019,2/23/2019,VP0U4FNOL1Q272112,change memory settings of the onboard computer; correct abs; ,166.85,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,71
+2/16/2019,2/24/2019,2TN1NJUXESG344969,change pcv filter/pcv valve; install smoked glass; ,444.9,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,72
+2/17/2019,3/20/2019,KIYTRMRZHSZ939929,set up auto-delay headlights; ,366.73,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,73
+2/18/2019,2/18/2019,EFUWNBMO3TM316916,install dusk-sensing headlights; install active pedestrian protection system; ,20.85,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,74
+2/18/2019,2/18/2019,H0SVSC0X1W0660350,install vanity mirrors; repair shiftable automatic transmission; ,79.3,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,75
+2/18/2019,2/25/2019,XUV6JR4Q8SX652578,replace stabilizer bar; change oil filter; ,10.13,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,06V328000, DURING A CANADIAN COMPLIANCE TEST  CERTAIN SPORT UTILITY VEHICLES FAIL TO COMPLY WITH THE REQUI,INFINITI,76
+2/19/2019,2/24/2019,H0SVSC0X1W0660350,repair direct injection system; set up gyro sensor; ,396.5,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,77
+2/19/2019,2/20/2019,SX73Y7QKKQF628146,repair seatbelt force limiters; fix external temperature display; ,34.84,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,78
+2/19/2019,2/21/2019,MW6HGX7M6O4186962,adjust adaptive cruise control; install optional equipment; ,68.52,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,79
+2/20/2019,2/23/2019,ZS1SXM3GTO8957023,change speaker configuration; attach seat extension; ,87.25,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,80
+2/20/2019,3/14/2019,V4JVFR4YRS7140562,change pcv filter/pcv valve; set up auto-delay headlights; ,715.07,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,81
+2/21/2019,2/23/2019,BNWE37HKK6A465562,refurbish power steering; fix rear defroster; ,47.43,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,82
+2/21/2019,3/3/2019,ZIYO5EKWDKS246902,prevent fuel pump shutoff; ,684.28,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,83
+2/21/2019,2/28/2019,LAW66TO51NY340329,fix nvh dampening system; make polarization coating; ,14.56,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,84
+2/22/2019,2/26/2019,E64AFHYM7CM667399,replace crankcase ventilation filter; ,89.95,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,85
+2/22/2019,2/24/2019,426W8PU85BH593514,fix cylinder head bolts; change purge valve; ,24.15,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,86
+2/22/2019,2/26/2019,XOBOW6AU18A917853,improve engine performance; adjust reverse tilt mirrors; ,22.51,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,87
+2/22/2019,3/3/2019,IOCT8QVK86C997015,correct abs; replace radiator core & ac condenser; ,141.32,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,88
+2/23/2019,2/23/2019,SX73Y7QKKQF628146,adjust turn signals; change speaker configuration; ,17.42,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,89
+2/23/2019,2/25/2019,EFUWNBMO3TM316916,install on-board diagnosis system; ,20.85,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,90
+2/23/2019,3/1/2019,QNGJBXZ0ZPN690169,improve cylinder configuration; ,128.15,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,91
+2/23/2019,2/28/2019,AI51SMWRVBH997689,install vanity mirrors; set up gyro sensor; ,35.6,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,92
+2/24/2019,2/24/2019,SX73Y7QKKQF628146,reconfigure service reminder light; adjust adaptive cruise control; ,17.42,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,93
+2/24/2019,3/1/2019,JVUFO2OOZH6501609,adjust adaptive cruise control; adjust seat belts tension; ,167.91,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,94
+2/24/2019,2/24/2019,ZS1SXM3GTO8957023,refurbish power steering; install optional equipment; ,29.08,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,95
+2/24/2019,3/1/2019,MW6HGX7M6O4186962,install dusk-sensing headlights; adjust ignition timing; ,68.52,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,14V753000, Aston Martin Lagonda of North America (Aston Martin) is recalling certain model year 2006-2014 ,Aston,96
+2/25/2019,3/29/2019,7Y1EAHONCCS732936,replace liftgate window; refurbish power steering; ,1430.67,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,97
+2/25/2019,3/9/2019,2TN1NJUXESG344969,reduce carbon footprint; replace stabilizer bar; ,444.9,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,09V277000, SUBARU IS RECALLING 15 761 MY 2005-2006 BAJA VEHICLES. CRACKS MAY DEVELOP IN THE FUEL HOSE CONN,Subaru,98
+2/25/2019,3/1/2019,XK51E6IAGWW949280,reduce fuel consumption; adjust block heater; ,57.06,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,05V353000,CERTAIN SPORT UTILITY VEHICLES MAY EXPERIENCE A FUEL LEAK FROM FUEL TUBES NEAR THE FUEL TANK DUE,Kia,99
+2/25/2019,2/25/2019,ZS1SXM3GTO8957023,replace liftgate window; adjust traction control system; ,29.08,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,100
+2/25/2019,2/27/2019,2KANK83IC2A444270,change purge valve; add knee airbags; ,41.57,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,101
+2/25/2019,3/2/2019,H0SVSC0X1W0660350,repair seatbelt force limiters; change coolant; ,237.9,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,102
+2/25/2019,2/26/2019,SX73Y7QKKQF628146,adjust accelerator pedal linkage; ,17.42,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,103
+2/25/2019,3/2/2019,XLHSC830B4B709486,replace crankcase ventilation filter; adjust climate control; ,268.39,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,104
+2/25/2019,2/26/2019,VP0U4FNOL1Q272112,replace crankcase ventilation filter; install intelligent alternator; ,66.74,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,105
+2/26/2019,2/26/2019,EFUWNBMO3TM316916,adjust ignition timing; install active pedestrian protection system; ,20.85,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,106
+2/26/2019,2/27/2019,IB3FDW7VPTE357125,adjust climate control; adjust low fuel warning indicator; ,37.72,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,107
+2/26/2019,4/19/2019,1D377TZAWSW801985,configure universal remote control; adjust adaptive cruise control; ,31.81,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,108
+2/26/2019,2/26/2019,426W8PU85BH593514,improve cylinder configuration; improve engine performance; ,24.15,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,109
+2/26/2019,3/4/2019,K23GQ1HYKID336715,change timing belt; ,154.42,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,110
+2/27/2019,3/5/2019,1RQR2NON75E373495,change steering rack; fix external temperature display; ,65.17,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,111
+2/27/2019,3/2/2019,7FT34LPXEKD855738,adjust retractable mirrors; add knee airbags; ,55.79,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,09V357000, DAIMLER TRUCKS IS RECALLING CERTAIN MODEL YEAR 2005 THROUGH 2010 HEAVY DUTY TRUCKS MANUFACTURED,Freightliner,112
+2/27/2019,4/4/2019,CHA3G8GE21K992177,adjust climate control; repair cooled seats; ,2242.78,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,113
+2/27/2019,2/28/2019,VP0U4FNOL1Q272112,change speaker configuration; attach spoiler; ,66.74,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,08V016000, CERTAIN MOTOR HOME CHASSIS BUILT ON FREIGHTLINER CHASSIS AND EQUIPPED WITH ZF MODEL 8018 STEERI,Alfa,114
+2/27/2019,3/13/2019,XUV6JR4Q8SX652578,refurbish power steering; set up auto-delay headlights; ,131.65,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,115
+2/27/2019,3/9/2019,L2G40AKW0DV261314,replace diverter valve; change memory settings of the onboard computer; ,117.85,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,116
+2/27/2019,3/4/2019,XG2F8AZ3DKK768039,repair seatbelt force limiters; ,52.51,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,117
+2/28/2019,3/8/2019,E64AFHYM7CM667399,fix cylinder head bolts; attach seat extension; ,125.94,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,118
+2/28/2019,2/28/2019,X7PFFGNBSQI524327,change memory settings of the onboard computer; make polarization coating; ,136.73,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,119
+2/28/2019,3/1/2019,SX73Y7QKKQF628146,prevent fuel pump shutoff; fix broken tow hooks; ,17.42,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,120
+3/1/2019,3/2/2019,LAW66TO51NY340329,fix power activated release; ,14.56,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,18V042000, Honda (American Honda Motor Co.) is recalling certain 2010-2013 Acura TSX  ZDX  Honda Accord Cr,Honda,121
+3/2/2019,3/2/2019,6HKQMAEQ5PA690783,change steering rack; make polarization coating; ,44.29,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,122
+3/2/2019,3/2/2019,IB3FDW7VPTE357125,fix air filter restriction indicator; add knee airbags; ,18.86,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,18V188000, Ferrari North America  Inc. (Ferrari) is recalling certain 2009-2011 Ferrari California  and 20,Ferrari,123
+3/2/2019,3/2/2019,SX73Y7QKKQF628146,change air conditioner refrigerant; adjust retractable mirrors; ,17.42,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,124
+3/3/2019,3/6/2019,MW6HGX7M6O4186962,replace ace filter; replace serpentine belt; ,34.26,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,125
+3/3/2019,3/6/2019,XOBOW6AU18A917853,change pcv filter/pcv valve; upgrade navigation system; ,67.54,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,126
+3/3/2019,3/5/2019,VP0U4FNOL1Q272112,fix steering damper; make polarization coating; ,66.74,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,05V248000, ON CERTAIN FIFTH WHEEL TRAILERS  THE EMERGENCY/BREAKAWAY BRAKE SYSTEM WIRING WAS CHANGED. ,Alfa,127
+3/3/2019,3/4/2019,IB3FDW7VPTE357125,fix rear hvac; install smoked glass; ,18.86,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,128
+3/4/2019,3/4/2019,XLHSC830B4B709486,change timing belt; change oil filter; ,53.68,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,129
+3/4/2019,3/5/2019,H0SVSC0X1W0660350,add knee airbags; install dusk-sensing headlights; ,158.6,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,130
+3/4/2019,3/11/2019,VSGK3RYW2TC911641,adjust traction control system; replace tail lights; ,45.34,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,02V238000, CERTAIN HEAVY DUTY CLASS 8 TRUCKS FAIL TO COMPLY WITH THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE,Volvo,131
+3/4/2019,3/20/2019,6HKQMAEQ5PA690783,install turbocharger; improve cylinder configuration; ,265.73,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,132
+3/4/2019,3/5/2019,7FT34LPXEKD855738,replace timing belt tensioner; fix external temperature display; ,27.89,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,133
+3/4/2019,3/28/2019,EBZZN84J0L1163524,replace water pump; ,1287.98,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,134
+3/5/2019,3/19/2019,6D300ABH65P725391,adjust climate control; install roof spoiler; ,459.95,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,135
+3/5/2019,3/5/2019,OOXPL1JMKRX336822,fix cylinder head bolts; adjust reverse tilt mirrors; ,37.89,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,136
+3/5/2019,3/5/2019,XLHSC830B4B709486,adjust traction control system; install separate rear audio; ,53.68,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,16V836000, Volvo Bus Corporation (Volvo Bus) is recalling certain model year 2008-2017 9700 buses manufact,Volvo,137
+3/5/2019,3/5/2019,LAW66TO51NY340329,replace serpentine belt; install separate rear audio; ,14.56,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,138
+3/6/2019,3/9/2019,X7PFFGNBSQI524327,adjust seat belts tension; ,136.73,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,139
+3/6/2019,4/25/2019,1WU1KQALZ75403546,attach seat extension; replace radiator core & ac condenser; ,216.42,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,140
+3/6/2019,3/7/2019,SGEAZM7OHRE981138,change purge valve; ,14.83,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,18V229000, Volkswagen Group of America  Inc. (Volkswagen) is recalling certain 2013-2017 Audi A5 Cabriolet,Audi,141
+3/8/2019,3/25/2019,IB3FDW7VPTE357125,install curtain airbags; install optional equipment; ,132.02,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,142
+3/8/2019,3/10/2019,K23GQ1HYKID336715,install dusk-sensing headlights; set up satellite radio; ,38.61,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,143
+3/9/2019,4/7/2019,Z4RBIUHHJZS859016,change pcv filter/pcv valve; adjust block heater; ,242.58,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,144
+3/9/2019,3/16/2019,GC225MTL5DF831250,replace stabilizer bar; improve engine performance; ,140.33,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,18V844000, Porsche Cars North America  Inc. (Porsche) is recalling certain 2017 Porsche Cayenne Turbo S  C,Porsche,145
+3/10/2019,3/10/2019,X7PFFGNBSQI524327,prevent fuel pump shutoff; fix steering damper; ,136.73,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,146
+3/10/2019,3/13/2019,LMC0DXV2F72475134,reduce fuel consumption; change air conditioner refrigerant; ,99.18,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,147
+3/10/2019,3/12/2019,LAW66TO51NY340329,change oil filter; adjust climate control; ,14.56,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,148
+3/10/2019,3/11/2019,H0SVSC0X1W0660350,replace fuel filter; replace steering column lock; ,79.3,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,149
+3/10/2019,4/9/2019,ZIYO5EKWDKS246902,replace ace filter; replace radiator core & ac condenser; ,1300.13,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,150
+3/11/2019,3/12/2019,VP0U4FNOL1Q272112,add knee airbags; fix broken tow hooks; ,66.74,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,151
+3/11/2019,3/12/2019,X7PFFGNBSQI524327,repair cooled seats; replace brake pedal spring; ,136.73,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,19V115000, Porsche Cars North America  Inc. (Porsche) is recalling certain 2018 Panamera 4 Executive  Pana,Porsche,152
+3/11/2019,3/19/2019,2TN1NJUXESG344969,change purge valve; fix cylinder head bolts; ,333.68,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,17V014000, Subaru of America  Inc. (Subaru) is recalling certain 2005-2006 Subaru Baja  2006-2011 Impreza ,Subaru,153
+3/12/2019,4/4/2019,SGEAZM7OHRE981138,replace serpentine belt; fix broken tow hooks; ,59.31,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,154
+3/13/2019,4/29/2019,GKTLIDKGMZ6109105,fix external temperature display; add knee airbags; ,1462.36,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,13V228000, Aston Martin is recalling certain model year DB9  Virage  V8 Vantage  V12 Vantage  and Rapide v,Aston,155
+3/13/2019,3/17/2019,QNGJBXZ0ZPN690169,fix ventilated seats; ,102.52,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,156
+3/13/2019,3/18/2019,L2G40AKW0DV261314,add knee airbags; refurbish power steering; ,157.13,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,157
+3/13/2019,3/24/2019,31ZQB40Z55B784788,adjust accelerator pedal linkage; upgrade navigation system; ,334.21,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,19V006000, Ferrari North America (Ferrari) is recalling certain 2014 Ferrari California  2014-2015 Ferrari,Ferrari,158
+3/14/2019,4/4/2019,OOXPL1JMKRX336822,adjust seat belts tension; repair direct injection system; ,75.78,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,159
+3/14/2019,3/15/2019,7FT34LPXEKD855738,set up satellite radio; replace ace filter; ,27.89,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,18V525000, Daimler Trucks North America  LLC (DTNA) is recalling certain 2018-2019 Freightliner 108SD  114,Freightliner,160
+3/14/2019,3/21/2019,VSGK3RYW2TC911641,add heated windshield; fix broken tow hooks; ,90.68,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,161
+3/15/2019,3/15/2019,3U3N6HS8K3V143011,reduce blind spot; adjust climate control; ,36.42,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,162
+3/15/2019,3/16/2019,NNLD761PGMY686484,replace stabilizer bar; install smoked glass; ,57.85,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,08V137000, DAIMLER TRUCKS IS RECALLING 28 764 MY 2001 THROUGH 2008 FCCC B2 AND FS65 SCHOOL BUS CHASSIS  FC,Freightliner,163
+3/17/2019,3/20/2019,7FT34LPXEKD855738,remove oversteer; install on-board diagnosis system; ,55.79,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,164
+3/17/2019,3/18/2019,LAW66TO51NY340329,change air conditioner refrigerant; change timing belt; ,14.56,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,165
+3/17/2019,3/19/2019,XG2F8AZ3DKK768039,add knee airbags; adjust hybrid performance; ,52.51,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,166
+3/18/2019,3/20/2019,E64AFHYM7CM667399,fix sunroof; ,35.98,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,167
+3/18/2019,3/22/2019,WJUY8SU2JR0730363,fix deceleration system; adjust seat belts tension; ,132.86,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,168
+3/18/2019,3/19/2019,NNLD761PGMY686484,adjust traction control system; ,57.85,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,11V330000, DTNA IS RECALLING CERTAIN MODEL YEAR 2008-2012 FREIGHTLINER; CASCADIA  CENTURY CLASS  COLUMBIA ,Freightliner,169
+3/19/2019,3/19/2019,CQCKR5VZRWO844951,change coolant; fix ventilated seats; ,62.05,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,170
+3/20/2019,3/28/2019,SJV51DZQ416158315,attach spoiler; improve cylinder configuration; ,167.91,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,171
+3/20/2019,3/29/2019,MXF3EGT2PAG490479,replace water pump; add heated windshield; ,70.01,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,172
+3/20/2019,3/23/2019,NNLD761PGMY686484,correct abs; replace catalytic converter; ,115.69,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,09V357000, DAIMLER TRUCKS IS RECALLING CERTAIN MODEL YEAR 2005 THROUGH 2010 HEAVY DUTY TRUCKS MANUFACTURED,Freightliner,173
+3/21/2019,3/25/2019,VP0U4FNOL1Q272112,install separate rear audio; install roof spoiler; ,33.37,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,174
+3/21/2019,4/22/2019,XUV6JR4Q8SX652578,adjust accelerator pedal linkage; add knee airbags; ,50.63,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,175
+3/21/2019,3/21/2019,38ZSAKVC20U930606,install active pedestrian protection system; reduce blind spot; ,14.72,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,176
+3/21/2019,3/22/2019,CQCKR5VZRWO844951,adjust reverse tilt mirrors; improve engine performance; ,62.05,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,177
+3/21/2019,3/27/2019,426W8PU85BH593514,fix solar sunroof; reconfigure service reminder light; ,96.6,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,19V149000, Subaru of America  Inc. (Subaru) is recalling certain 2014-2016 Forester  2008-2016 Impreza sed,Subaru,178
+3/21/2019,4/30/2019,6D300ABH65P725391,set up gyro sensor; install active pedestrian protection system; ,1494.83,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,179
+3/21/2019,3/22/2019,K23GQ1HYKID336715,replace radiator core & ac condenser; add knee airbags; ,77.21,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,180
+3/22/2019,3/23/2019,XK51E6IAGWW949280,replace ace filter; ,38.04,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,13V114000, Kia Motors Corporation (Kia) is recalling certain model year 2007-2010 Rondo  model year 2007-2,Kia,181
+3/22/2019,3/23/2019,LAW66TO51NY340329,repair shiftable automatic transmission; install vanity mirrors; ,14.56,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,14E012000, Ohlins Racing AB (Ohlins) is recalling certain steering dampers kits manufactured with an incor,Honda,182
+3/22/2019,3/24/2019,XLHSC830B4B709486,fix a-pillar; ,107.36,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,183
+3/22/2019,4/26/2019,XG2F8AZ3DKK768039,change wheel cylinders; fix ventilated seats; ,612.65,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,184
+3/24/2019,3/25/2019,CQCKR5VZRWO844951,adjust block heater; install active pedestrian protection system; ,124.09,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,185
+3/24/2019,3/27/2019,LAW66TO51NY340329,fix deceleration system; install intelligent alternator; ,43.68,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,09E025000, DOPE  INC. IS RECALLING 42 540 COMBINATION CORNER AND BUMPER LAMP ASSEMBLIES OF VARIOUS PART NU,Honda,186
+3/24/2019,4/10/2019,V4JVFR4YRS7140562,add knee airbags; adjust climate control; ,178.77,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,187
+3/24/2019,4/4/2019,8FX05ZAH64B316440,install active pedestrian protection system; fix nvh dampening system; ,316.87,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,188
+3/24/2019,3/27/2019,NNLD761PGMY686484,repair direct injection system; change brake linings; ,115.69,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,189
+3/25/2019,4/15/2019,CNXWEAHRICK569430,replace tail lights; ,735.02,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,190
+3/26/2019,4/13/2019,IOCT8QVK86C997015,replace ace filter; install roof spoiler; ,753.71,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,191
+3/26/2019,3/28/2019,0HJ3WSLKGZT340626,install parking sensors; fix nvh dampening system; ,46.86,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,192
+3/26/2019,3/30/2019,VSGK3RYW2TC911641,change memory settings of the onboard computer; fix sunroof; ,90.68,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,193
+3/26/2019,4/19/2019,41AHCTXZIUN699904,add knee airbags; set up satellite radio; ,67.5,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,194
+3/26/2019,4/22/2019,05AJ273ZM02946325,change memory settings of the onboard computer; replace diverter valve; ,988.45,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,195
+3/26/2019,3/30/2019,IB3FDW7VPTE357125,adjust accelerator pedal linkage; fix ventilated seats; ,56.58,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,08V214000,FERRARI IS RECALLING 366 MY 2005-2007 612 SCAGLIETTI VEHICLES EQUIPPED WITH F1 TRANSMISSIONS.  A,Ferrari,196
+3/26/2019,3/27/2019,GC225MTL5DF831250,replace brake pedal spring; repair shiftable automatic transmission; ,70.16,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,197
+3/27/2019,4/10/2019,WJENS213H4U188325,attach exterior camera; replace radiator hoses; ,54.06,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,198
+3/27/2019,3/28/2019,IKUQE1AIER1879688,reduce fuel consumption; replace radiator hoses; ,15.28,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,199
+3/27/2019,3/27/2019,WJUY8SU2JR0730363,adjust climate control; fix external temperature display; ,44.29,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,200
+3/28/2019,3/30/2019,CQCKR5VZRWO844951,set up satellite radio; ,124.09,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,201
+3/28/2019,3/31/2019,GC225MTL5DF831250,fix ventilated seats; change memory settings of the onboard computer; ,105.25,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,202
+3/28/2019,3/31/2019,7FT34LPXEKD855738,adjust accelerator pedal linkage; repair cooled seats; ,27.89,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,203
+3/29/2019,3/31/2019,3U3N6HS8K3V143011,fix steering damper; change wheel cylinders; ,36.42,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,204
+3/29/2019,3/29/2019,K23GQ1HYKID336715,replace crankcase ventilation filter; replace liftgate window; ,38.61,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,205
+3/29/2019,3/30/2019,LAW66TO51NY340329,replace crankcase ventilation filter; improve engine performance; ,29.12,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,206
+3/30/2019,4/1/2019,XLHSC830B4B709486,install turbocharger; ,107.36,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,207
+3/30/2019,3/31/2019,NNLD761PGMY686484,fix sunroof; replace radiator hoses; ,28.92,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,15V586000, Daimler Trucks North America LLC (DTNA) is recalling certain model year 2014-2016 Freightliner ,Freightliner,208
+3/30/2019,3/31/2019,0HJ3WSLKGZT340626,install anti-theft alarm; install parking sensors; ,23.43,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,10V553000, GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2010-2011 DTS AND BUICK LUCERNE VEHICLES EQUIPPE,Buick,209
+3/31/2019,4/1/2019,CQCKR5VZRWO844951,replace fuel filter; fix nvh dampening system; ,124.09,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,210
+3/31/2019,4/7/2019,K23GQ1HYKID336715,install separate rear audio; fix a-pillar; ,115.82,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,211
+4/1/2019,4/4/2019,NNLD761PGMY686484,refurbish power steering; change coolant; ,28.92,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,212
+4/1/2019,4/7/2019,5I71MA5PSO0445780,adjust climate control; ,127.23,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,213
+4/1/2019,4/4/2019,31ZQB40Z55B784788,adjust seat belts tension; refurbish power steering; ,30.38,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,214
+4/2/2019,4/9/2019,XLHSC830B4B709486,fix air filter restriction indicator; fix cylinder head bolts; ,214.71,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,215
+4/2/2019,4/6/2019,YSPKFT8VKW8617087,replace fuel filter; repair seatbelt force limiters; ,61.39,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,216
+4/2/2019,5/2/2019,AZCPHC4R1RY522608,adjust adaptive cruise control; reduce blind spot; ,325.59,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,17V448000, Mercedes-Benz USA  LLC (MBUSA) is recalling certain 2016 smart fortwo vehicles.  In these vehic,smart,217
+4/3/2019,7/5/2019,8HJHTFE0FGU264640,fix steering damper; change pcv filter/pcv valve; ,473.32,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,218
+4/3/2019,4/4/2019,CQCKR5VZRWO844951,fix ventilated seats; set up gyro sensor; ,62.05,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,18V248000, BMW of North America  LLC (BMW) is recalling certain 2011-2012 BMW 550i  550i xDrive  550i Gran,MINI,219
+4/3/2019,4/13/2019,2TN1NJUXESG344969,replace fuel filter; fix deceleration system; ,778.58,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,16V358000, Subaru of America  Inc. (Subaru) is recalling certain model year 2003-2004 Legacy  Outback  200,Subaru,220
+4/3/2019,4/8/2019,0HJ3WSLKGZT340626,fix power activated release; install separate rear audio; ,70.29,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,221
+4/4/2019,4/8/2019,8BPZY476GS8852305,repair shiftable automatic transmission; fix a-pillar; ,56.38,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,222
+4/4/2019,4/14/2019,38ZSAKVC20U930606,install anti-theft alarm; replace steering column lock; ,132.45,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,223
+4/4/2019,4/6/2019,IKUQE1AIER1879688,change suspension fluid; adjust adaptive cruise control; ,15.28,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,224
+4/5/2019,4/15/2019,VP0U4FNOL1Q272112,prevent fuel pump shutoff; change purge valve; ,133.48,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,225
+4/5/2019,4/6/2019,OOXPL1JMKRX336822,fix nvh dampening system; add knee airbags; ,75.78,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,226
+4/5/2019,4/16/2019,MXF3EGT2PAG490479,adjust retractable mirrors; repair direct injection system; ,46.67,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,09E025000, DOPE  INC. IS RECALLING 42 540 COMBINATION CORNER AND BUMPER LAMP ASSEMBLIES OF VARIOUS PART NU,Honda,227
+4/6/2019,4/9/2019,31ZQB40Z55B784788,replace fuel filter; repair direct injection system; ,60.77,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,00V099000,VEHICLE DESCRIPTION:  PASSENGER VEHICLES.  THE ABS (ANTI-LOCK BRAKING SYSTEM)/ASR (TRACTION CONT,Ferrari,228
+4/6/2019,4/6/2019,I6M6GMQGG7C407268,install intelligent alternator; adjust hybrid performance; ,46.14,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,229
+4/6/2019,4/6/2019,7FT34LPXEKD855738,install vanity mirrors; fix external temperature display; ,27.89,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,230
+4/7/2019,4/7/2019,VSGK3RYW2TC911641,configure universal remote control; attach seat extension; ,22.67,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,231
+4/7/2019,4/9/2019,I6M6GMQGG7C407268,attach seat extension; attach spoiler; ,138.41,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,232
+4/8/2019,4/22/2019,426W8PU85BH593514,install smoked glass; ,96.6,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,233
+4/8/2019,4/11/2019,GC225MTL5DF831250,attach seat extension; remove oversteer; ,35.08,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,234
+4/8/2019,4/18/2019,B3V53WEVPX7253102,set up auto-delay headlights; ,551.51,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,07E021000, CERTAIN DELPHI FUEL PRESSURE REGULATORS  P/NOS. FP10020-11B1  FP10026-11B1  AND FP10027-11B1  S,Buick,235
+4/8/2019,4/15/2019,XK51E6IAGWW949280,fix sunroof; adjust accelerator pedal linkage; ,76.08,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,236
+4/9/2019,4/19/2019,AFTWPBMU2TA534019,adjust regenerative braking; adjust retractable mirrors; ,75.43,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,237
+4/9/2019,4/11/2019,B2JQXKMCCJ3730138,install active pedestrian protection system; ,142.37,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,238
+4/10/2019,4/11/2019,WJUY8SU2JR0730363,reduce carbon footprint; reduce fuel consumption; ,88.58,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,239
+4/11/2019,6/21/2019,ABCX0O07N6F519334,replace brake pedal spring; ,2677,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,240
+4/12/2019,9/21/2019,WN6OY1F26X1741004,replace fuel filter; upgrade navigation system; ,824.81,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,241
+4/12/2019,4/17/2019,1U4MXLVV84A726331,fix ventilated seats; ,83.39,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,13V314000, Lotus Cars USA  Inc. is recalling certain model year 2011 Evora supercharged vehicles equipped ,Lotus,242
+4/12/2019,4/18/2019,ATWA3W65LU2848535,fix external temperature display; change purge valve; ,238.95,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,243
+4/12/2019,4/13/2019,4G40BAXEV4V936460,remove oversteer; attach seat extension; ,37.72,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,244
+4/12/2019,4/22/2019,WMXOWCZE1MO140134,adjust adaptive cruise control; ,263.98,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,05V303000, ON CERTAIN MEDIUM DUTY TRUCKS  THE REAR ENGINE SUPPORT BRACKET IS COMPOSED OF MATERIALS OF INSU,Mitsubishi,245
+4/12/2019,4/14/2019,58SXUC0BZIA446980,change air conditioner refrigerant; fix a-pillar; ,89.39,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,18V268000, Honda (American Honda Motor Co.) is recalling certain 2003-2012 Honda Accord and Pilot  2010 Ac,Honda,246
+4/12/2019,4/15/2019,K23GQ1HYKID336715,repair shiftable automatic transmission; change purge valve; ,154.42,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,08V217000, BENTLEY IS RECALLING 13 420 MY 2004-2008 CONTINENTAL GT  CONTINENTAL GT SPEED  CONTINENTAL FLYI,Bentley,247
+4/13/2019,4/15/2019,I6M6GMQGG7C407268,replace timing belt tensioner; install roof spoiler; ,92.27,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,248
+4/13/2019,4/16/2019,VSGK3RYW2TC911641,prevent fuel pump shutoff; adjust block heater; ,45.34,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,249
+4/14/2019,5/9/2019,2TN1NJUXESG344969,adjust block heater; ,667.35,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,11V464000, SUBARU IS RECALLING CERTAIN MODEL YEAR 2002-2007 IMPREZA  MODEL YEAR 2003-2008 FORESTER  AND MO,Subaru,250
+4/14/2019,4/15/2019,4G40BAXEV4V936460,install turbocharger; ,18.86,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,251
+4/15/2019,4/16/2019,31ZQB40Z55B784788,change suspension fluid; change timing belt; ,30.38,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,252
+4/15/2019,5/1/2019,7W7UDF3KP41966929,set up auto-delay headlights; ,87.25,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,253
+4/15/2019,4/18/2019,05WXEVLB5X8956206,fix solar sunroof; repair shiftable automatic transmission; ,142.54,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,11V536000, GM IS RECALLING CERTAIN MODEL YEAR 2012 CADILLAC CTS VEHICLES MANUFACTURED FROM OCTOBER 21  201,Cadillac,254
+4/16/2019,4/20/2019,ZIYO5EKWDKS246902,install curtain airbags; reduce blind spot; ,205.28,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,18V800000, Volvo Car USA LLC (Volvo) is recalling certain 2017-2019 Volvo XC90  S90  V60  V60 Cross Countr,Volvo,255
+4/16/2019,4/16/2019,4G40BAXEV4V936460,adjust ignition timing; adjust traction control system; ,18.86,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,256
+4/16/2019,4/16/2019,IKUQE1AIER1879688,adjust climate control; upgrade navigation system; ,15.28,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,257
+4/16/2019,4/16/2019,B2JQXKMCCJ3730138,install intelligent alternator; fix rear defroster; ,47.46,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,19V188000, Volkswagen Group of America  Inc. (Volkswagen) is recalling certain 2017-2019 Golf Sportwagen  ,Volkswagen,258
+4/16/2019,5/11/2019,WJUY8SU2JR0730363,adjust hybrid performance; ,310.01,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,259
+4/17/2019,4/20/2019,AI51SMWRVBH997689,adjust seat belts tension; ,35.6,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,06E043000, CERTAIN REPLACEMENT FUEL FILTERS  FRAM BRAND NAME P/N G3727  WITH DATE CODES X52911 THROUGH X60,Chevrolet,260
+4/17/2019,4/27/2019,Z8UDI7LAGS7164830,install separate rear audio; replace brake pedal spring; ,65.12,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,261
+4/17/2019,4/18/2019,A1NW00GFYRY803793,configure audio remote control; change steering rack; ,25.79,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,262
+4/17/2019,4/24/2019,31ZQB40Z55B784788,install separate rear audio; replace catalytic converter; ,30.38,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,263
+4/18/2019,4/22/2019,B2JQXKMCCJ3730138,adjust hybrid performance; install dusk-sensing headlights; ,94.91,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,264
+4/18/2019,4/18/2019,IKUQE1AIER1879688,fix power activated release; repair cooled seats; ,15.28,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,19V052000, Acura (American Honda Motor Co.) is recalling certain 2014-2019 Acura ILX vehicles.  The vehicl,Acura,265
+4/18/2019,4/24/2019,VP0U4FNOL1Q272112,replace ace filter; install roof spoiler; ,133.48,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,05V222000, ON CERTAIN CLASS A MOTOR HOMES EQUIPPED WITH VEHICLE SYSTEMS' AQUA-HOT AND HYDRO-HOT WATER HEAT,Alfa,266
+4/19/2019,4/24/2019,35TB5QWCJW0515619,replace radiator hoses; change wheel cylinders; ,54.46,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,267
+4/19/2019,5/3/2019,NQC3ODNRG8W618383,adjust retractable mirrors; attach exterior camera; ,563.76,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,268
+4/20/2019,4/24/2019,IKUQE1AIER1879688,fix external temperature display; replace tail lights; ,15.28,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,269
+4/20/2019,5/5/2019,8BPZY476GS8852305,refurbish power steering; fix rear hvac; ,789.27,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,270
+4/20/2019,4/21/2019,BX1OSN5TZYU191007,change speaker configuration; ,45.61,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,271
+4/20/2019,4/21/2019,GBA0V3Z00JI851102,install turbocharger; ,14.71,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,19V461000, Maserati North America  Inc. (Maserati) is recalling certain 2015-2018 Granturismo and 2016-201,Maserati,272
+4/21/2019,4/22/2019,4G40BAXEV4V936460,replace water pump; repair cooled seats; ,18.86,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,273
+4/21/2019,4/26/2019,ENHQ8WS125F354364,replace serpentine belt; replace steering column lock; ,137.54,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,274
+4/21/2019,4/26/2019,A1NW00GFYRY803793,change air conditioner refrigerant; replace catalytic converter; ,51.58,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,275
+4/21/2019,4/24/2019,ZIL5XS7BK6F565259,fix a-pillar; change coolant; ,56.58,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,276
+4/21/2019,5/1/2019,3U3N6HS8K3V143011,install optional equipment; fix sunroof; ,145.67,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,04V046000, CERTAIN SPORT UTILITY VEHICLES HAVE WINDSHIELD WIPER SYSTEMS THAT WILL NOT TURN ON  CEASE OPERA,GMC,277
+4/21/2019,4/26/2019,K23GQ1HYKID336715,repair shiftable automatic transmission; fix rear hvac; ,154.42,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,278
+4/22/2019,5/20/2019,7Y1EAHONCCS732936,adjust hybrid performance; configure universal remote control; ,625.92,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,279
+4/22/2019,4/22/2019,BX1OSN5TZYU191007,fix ventilated seats; fix deceleration system; ,22.81,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,280
+4/22/2019,4/22/2019,1U4MXLVV84A726331,fix power activated release; ,20.85,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,281
+4/22/2019,5/3/2019,CHA3G8GE21K992177,fix ventilated seats; change timing belt; ,407.78,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,282
+4/23/2019,5/17/2019,1D377TZAWSW801985,configure universal remote control; ,381.69,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,283
+4/23/2019,4/23/2019,SEXWGCZNLS4439650,attach spoiler; adjust ignition timing; ,17.01,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,08V217000, BENTLEY IS RECALLING 13 420 MY 2004-2008 CONTINENTAL GT  CONTINENTAL GT SPEED  CONTINENTAL FLYI,Bentley,284
+4/23/2019,4/28/2019,5I71MA5PSO0445780,fix cylinder head bolts; ,63.62,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,285
+4/24/2019,4/25/2019,BX1OSN5TZYU191007,replace ace filter; change wheel cylinders; ,22.81,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,01V362000,VEHICLE DESCRIPTION:  PASSENGER VEHICLES.  IMPROPERLY MANUFACTURED POWERTRAIN CONTROL MODULES (P,Hyundai,286
+4/24/2019,4/28/2019,4G40BAXEV4V936460,replace fuel filter; ,18.86,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,287
+4/24/2019,4/24/2019,LXLYHOV4G1Z722469,replace ace filter; replace diverter valve; ,11.2,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,288
+4/24/2019,4/29/2019,L2G40AKW0DV261314,replace crankcase ventilation filter; replace radiator core & ac condenser; ,235.7,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,14V435000, Hyundai Motor Company (Hyundai) is recalling certain model Year 2001-2006 Santa Fe vehicles man,Hyundai,289
+4/25/2019,4/27/2019,VP0U4FNOL1Q272112,install intelligent alternator; ,33.37,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,290
+4/25/2019,4/27/2019,U0PQOVOJXT2453885,reconfigure service reminder light; add knee airbags; ,52.57,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,291
+4/25/2019,5/19/2019,38ZSAKVC20U930606,fix ventilated seats; repair cooled seats; ,103.02,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,292
+4/25/2019,5/1/2019,IKUQE1AIER1879688,set up gyro sensor; fix deceleration system; ,15.28,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,293
+4/25/2019,4/25/2019,LXLYHOV4G1Z722469,replace radiator hoses; replace water pump; ,11.2,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,05V103000, ON CERTAIN SPORT UTILITY VEHICLES  THE BRAKE PEDAL PUSHROD RETAINER MAY BE MISSING.  IF THE RET,Chevrolet,294
+4/26/2019,4/26/2019,BX1OSN5TZYU191007,reconfigure service reminder light; fix deceleration system; ,22.81,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,295
+4/26/2019,4/26/2019,L8CKHAJ376Q732997,change speaker configuration; ,32.57,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,296
+4/26/2019,4/26/2019,ZIL5XS7BK6F565259,add knee airbags; fix external temperature display; ,18.86,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,297
+4/26/2019,4/27/2019,XUV6JR4Q8SX652578,install dusk-sensing headlights; install anti-theft alarm; ,20.25,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,298
+4/26/2019,4/27/2019,LXLYHOV4G1Z722469,change oil filter; replace crankcase ventilation filter; ,22.39,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,299
+4/27/2019,4/29/2019,ZIL5XS7BK6F565259,adjust traction control system; ,56.58,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,300
+4/27/2019,4/28/2019,0XHRC15HS5V123753,repair seatbelt force limiters; adjust ignition timing; ,59.2,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,301
+4/27/2019,4/29/2019,BX1OSN5TZYU191007,upgrade navigation system; install optional equipment; ,68.42,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,02V111000, ON CERTAIN SPORT UTILITY VEHICLES EQUIPPED WITH 2.7 LITER V-6 ENGINES    IMPROPERLY MANUFACTURE,Hyundai,302
+4/27/2019,4/29/2019,EBZZN84J0L1163524,set up gyro sensor; adjust block heater; ,61.33,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,00V198000,VEHICLE DESCRIPTION:  PICKUP TRUCKS.   SOME VEHICLES MAY HAVE BEEN BUILT WITH INADEQUATE CLEARAN,Dodge,303
+4/27/2019,4/27/2019,L8CKHAJ376Q732997,install dusk-sensing headlights; configure audio remote control; ,32.57,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,304
+4/27/2019,4/28/2019,8C76DYYDYJU989849,set up satellite radio; adjust climate control; ,115.74,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,305
+4/28/2019,4/28/2019,GBA0V3Z00JI851102,reduce blind spot; change coolant; ,14.71,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,03V529000, ON CERTAIN PASSENGER VEHICLES  THE FUEL LINES CAN DISCONNECT AND CAUSE LEAKAGE IN THE ENGINE CO,Maserati,306
+4/28/2019,5/5/2019,K23GQ1HYKID336715,adjust running boards; adjust reverse tilt mirrors; ,115.82,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,307
+4/28/2019,4/28/2019,L8CKHAJ376Q732997,replace tail lights; set up auto-delay headlights; ,32.57,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,10V309000, TOYOTA IS RECALLING CERTAIN MODEL YEAR 2006 THROUGH 2008 LEXUS PASSENGER CARS MANUFACTURED FROM,Toyota,308
+4/28/2019,4/29/2019,LXLYHOV4G1Z722469,repair direct injection system; remove oversteer; ,11.2,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,309
+4/28/2019,5/3/2019,SJV51DZQ416158315,replace water pump; repair seatbelt force limiters; ,41.98,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,310
+4/29/2019,5/1/2019,35TB5QWCJW0515619,install turbocharger; add heated windshield; ,54.46,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,311
+4/29/2019,5/3/2019,Z8UDI7LAGS7164830,refurbish power steering; configure audio remote control; ,32.56,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,312
+4/29/2019,4/30/2019,4G40BAXEV4V936460,install separate rear audio; fix broken tow hooks; ,37.72,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,313
+4/29/2019,4/29/2019,Z0Z206HDHO0103381,install curtain airbags; fix broken tow hooks; ,13.06,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,314
+4/29/2019,5/3/2019,1U4MXLVV84A726331,change purge valve; install roof spoiler; ,62.54,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,12V477000, Lotus is recalling certain model year 2011 Evora supercharged vehicles manufactured from Februa,Lotus,315
+4/29/2019,5/1/2019,8FX05ZAH64B316440,fix broken tow hooks; adjust running boards; ,45.27,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,15V871000, Hyundai Motor America (Hyundai) is recalling certain model year 2011-2012 Elantra vehicles manu,Hyundai,316
+4/29/2019,4/29/2019,U0PQOVOJXT2453885,adjust seat belts tension; adjust block heater; ,26.28,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,317
+4/29/2019,5/1/2019,7YCPTKZS5B3163969,install parking sensors; adjust traction control system; ,33.11,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,318
+4/29/2019,4/30/2019,L8CKHAJ376Q732997,install roof spoiler; change pcv filter/pcv valve; ,32.57,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,319
+4/30/2019,5/1/2019,BX1OSN5TZYU191007,adjust retractable mirrors; ,45.61,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,320
+4/30/2019,5/1/2019,PEXVHDHEYM7282767,attach seat extension; install dusk-sensing headlights; ,41.32,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,321
+4/30/2019,5/1/2019,U0PQOVOJXT2453885,repair shiftable automatic transmission; change wheel cylinders; ,26.28,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,05V574000, ON CERTAIN PASSENGER VEHICLES  THE POWER ASSIST DELIVERED BY THE STEERING RACK MAY NOT BE FULLY,Maserati,322
+4/30/2019,4/30/2019,Z0Z206HDHO0103381,replace steering column lock; reduce blind spot; ,13.06,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,323
+5/1/2019,5/5/2019,MXF3EGT2PAG490479,install roof spoiler; install smoked glass; ,93.35,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,324
+5/1/2019,5/2/2019,4G40BAXEV4V936460,change speaker configuration; fix solar sunroof; ,18.86,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,325
+5/1/2019,5/16/2019,ZIYO5EKWDKS246902,change brake linings; replace brake pedal spring; ,342.14,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,326
+5/1/2019,5/23/2019,IOCT8QVK86C997015,set up satellite radio; install curtain airbags; ,282.64,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,327
+5/2/2019,5/2/2019,U0PQOVOJXT2453885,adjust low fuel warning indicator; replace ace filter; ,26.28,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,328
+5/2/2019,5/20/2019,AFTWPBMU2TA534019,configure universal remote control; replace catalytic converter; ,301.71,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,329
+5/2/2019,5/3/2019,35TB5QWCJW0515619,reduce blind spot; replace radiator hoses; ,18.15,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,330
+5/2/2019,5/13/2019,EBZZN84J0L1163524,repair seatbelt force limiters; replace crankcase ventilation filter; ,245.33,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,331
+5/3/2019,5/4/2019,PEXVHDHEYM7282767,add heated windshield; adjust retractable mirrors; ,20.66,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,15V846000, Aston Martin Lagonda of North America (Aston Martin) is recalling certain model year 2010-2015 ,Martin,332
+5/3/2019,5/4/2019,XUV6JR4Q8SX652578,replace tail lights; ,10.13,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,333
+5/3/2019,5/7/2019,IKUQE1AIER1879688,install anti-theft alarm; reduce carbon footprint; ,30.55,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,334
+5/3/2019,5/9/2019,SEXWGCZNLS4439650,replace radiator core & ac condenser; ,51.03,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,335
+5/4/2019,5/5/2019,1U4MXLVV84A726331,change oil filter; fix cylinder head bolts; ,41.7,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,336
+5/4/2019,5/4/2019,K5ZQ65X47KU986899,replace diverter valve; configure universal remote control; ,33.28,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,337
+5/4/2019,5/12/2019,7YCPTKZS5B3163969,change air conditioner refrigerant; ,264.84,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,18V170000, Honda (American Honda Motor Co.) is recalling certain 2014-2016 Honda Odyssey vehicles.  The se,Honda,338
+5/4/2019,6/27/2019,41AHCTXZIUN699904,change purge valve; install anti-theft alarm; ,472.52,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,339
+5/5/2019,5/8/2019,MT0OEZQ7C5Q035531,replace liftgate window; install separate rear audio; ,26.15,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,340
+5/5/2019,5/9/2019,K5ZQ65X47KU986899,attach seat extension; install smoked glass; ,33.28,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,341
+5/5/2019,5/10/2019,NVDV1HTYNUU168147,replace catalytic converter; ,55.34,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,342
+5/5/2019,5/16/2019,3U3N6HS8K3V143011,fix rear defroster; install roof spoiler; ,254.92,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,343
+5/5/2019,5/7/2019,MBKMABQOONK563483,replace timing belt tensioner; adjust turn signals; ,19.02,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,344
+5/6/2019,5/6/2019,35TB5QWCJW0515619,replace liftgate window; replace steering column lock; ,18.15,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,345
+5/6/2019,5/24/2019,L2G40AKW0DV261314,adjust seat belts tension; ,117.85,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,10V426000, HYUNDAI IS RECALLING CERTAIN MODEL YEAR 2011 SONATA VEHICLES MANUFACTURED FROM DECEMBER 11  200,Hyundai,346
+5/6/2019,5/22/2019,ZS1M7DGNG0B708125,adjust hybrid performance; fix solar sunroof; ,448.46,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,03E045000, AFTERMARKET REPLACEMENT FUEL FILTERS MANUFACTURED BETWEEN SEPTEMBER 17  2002  AND JANUARY 20  2,Dodge,347
+5/6/2019,5/6/2019,PUVTYE6IVGN271318,correct abs; install separate rear audio; ,20.66,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,14V753000, Aston Martin Lagonda of North America (Aston Martin) is recalling certain model year 2006-2014 ,Aston,348
+5/6/2019,5/16/2019,VSGK3RYW2TC911641,adjust accelerator pedal linkage; change memory settings of the onboard computer; ,136.02,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,349
+5/6/2019,5/9/2019,Z8UDI7LAGS7164830,change wheel cylinders; set up auto-delay headlights; ,48.84,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,350
+5/6/2019,5/10/2019,1U4MXLVV84A726331,adjust low fuel warning indicator; install curtain airbags; ,41.7,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,11V510000, LOTUS IS RECALLING CERTAIN MODEL YEAR 2005-2007 ELISE AND EXIGE VEHICLES MANUFACTURED FROM JUNE,Lotus,351
+5/6/2019,5/14/2019,31ZQB40Z55B784788,add knee airbags; adjust block heater; ,91.15,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,352
+5/6/2019,5/12/2019,LN7ZMWGACVJ434473,set up auto-delay headlights; upgrade navigation system; ,14.97,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,353
+5/6/2019,5/7/2019,PEXVHDHEYM7282767,fix nvh dampening system; adjust seat belts tension; ,20.66,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,354
+5/6/2019,5/14/2019,ATWA3W65LU2848535,prevent fuel pump shutoff; ,273.09,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,12V305000, Toyota is recalling certain model year 2010 Lexus RX350 and RX450h vehicles  manufactured from ,Toyota,355
+5/6/2019,5/9/2019,OUXQFNQE2K7274854,correct abs; install smoked glass; ,216.88,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,356
+5/7/2019,5/26/2019,ZDR30CO5D6G733856,replace radiator hoses; ,211.44,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,357
+5/7/2019,5/7/2019,0Y8HTOZ7K6L112375,add heated windshield; configure audio remote control; ,43.24,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,358
+5/8/2019,5/28/2019,6KSCMBLK5DZ055754,change wheel cylinders; configure universal remote control; ,483,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,359
+5/8/2019,7/3/2019,27J2LRAE38R945176,reduce blind spot; install intelligent alternator; ,723.91,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,14V404000, General Motors LLC (GM) is recalling certain model year 2005-2007 SAAB 9-7x; 2006 Chevrolet Tra,Buick,360
+5/8/2019,5/25/2019,8FX05ZAH64B316440,repair cooled seats; attach spoiler; ,679.02,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,361
+5/8/2019,5/21/2019,V4JVFR4YRS7140562,change coolant; fix rear hvac; ,312.84,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,08V156000, VOLKSWAGEN IS RECALLING 412 000 MY 1999-2005 PASSAT (5TH GENERATION) VEHICLES EQUIPPED WITH AUT,Volkswagen,362
+5/8/2019,5/9/2019,PUVTYE6IVGN271318,replace diverter valve; set up auto-delay headlights; ,41.32,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,363
+5/8/2019,5/9/2019,F5BABPZQD3I737349,reconfigure service reminder light; ,47.26,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,364
+5/8/2019,5/13/2019,LEWHC17RSR2225266,install smoked glass; improve engine performance; ,57.04,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,365
+5/9/2019,5/15/2019,MBKMABQOONK563483,install parking sensors; fix broken tow hooks; ,76.08,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,366
+5/9/2019,5/17/2019,8BPZY476GS8852305,adjust turn signals; install curtain airbags; ,281.88,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,367
+5/10/2019,5/14/2019,MXF3EGT2PAG490479,install anti-theft alarm; improve engine performance; ,46.67,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,19V008000, Subaru of America  Inc. (Subaru) is recalling certain 2010-2014 Tribeca  WRX  Outback  and Lega,Subaru,368
+5/10/2019,5/16/2019,OUXQFNQE2K7274854,adjust traction control system; adjust retractable mirrors; ,271.1,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,17V328000, BMW of North America  LLC (BMW) is recalling certain 2005-2008 745i  745Li  750i  750Li  760i  ,BMW,369
+5/10/2019,5/10/2019,0Y8HTOZ7K6L112375,fix steering damper; check drive axle boots; ,43.24,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,370
+5/11/2019,5/11/2019,UVVEV0Y7R3V483738,change purge valve; set up gyro sensor; ,26.28,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,371
+5/11/2019,5/23/2019,ZXZP2ADJFMJ124788,replace water pump; configure universal remote control; ,579.13,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,372
+5/11/2019,5/13/2019,35TB5QWCJW0515619,add knee airbags; fix rear hvac; ,18.15,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,373
+5/11/2019,5/13/2019,E8MFMML51CM701156,add knee airbags; reduce blind spot; ,34.04,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,374
+5/11/2019,5/13/2019,0Y8HTOZ7K6L112375,fix deceleration system; reduce fuel consumption; ,86.47,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,375
+5/12/2019,5/16/2019,L075CLEGAGV332326,replace liftgate window; attach spoiler; ,43.81,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,376
+5/12/2019,5/16/2019,PUVTYE6IVGN271318,change oil filter; reduce carbon footprint; ,61.98,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,15V846000, Aston Martin Lagonda of North America (Aston Martin) is recalling certain model year 2010-2015 ,Martin,377
+5/12/2019,6/12/2019,F5BABPZQD3I737349,install smoked glass; fix external temperature display; ,590.73,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,378
+5/12/2019,5/14/2019,K5ZQ65X47KU986899,adjust reverse tilt mirrors; adjust turn signals; ,33.28,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,379
+5/12/2019,5/28/2019,1WU1KQALZ75403546,reduce carbon footprint; adjust adaptive cruise control; ,389.56,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,380
+5/12/2019,5/21/2019,WJUY8SU2JR0730363,replace serpentine belt; fix a-pillar; ,177.15,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,381
+5/12/2019,6/3/2019,05AJ273ZM02946325,repair direct injection system; configure audio remote control; ,798.36,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,382
+5/12/2019,6/3/2019,M6J2KWLLUKW587077,replace liftgate window; fix ventilated seats; ,452.68,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,16V580000, Hyundai Translead (HT) is recalling certain model year 2004-2016 Dry Van  Reefer Van  Chassis  ,Hyundai,383
+5/12/2019,5/30/2019,5U2302GFYRL619555,set up auto-delay headlights; adjust seat belts tension; ,536.94,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,384
+5/12/2019,5/16/2019,8C76DYYDYJU989849,adjust turn signals; install separate rear audio; ,231.48,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,385
+5/12/2019,5/14/2019,XG2F8AZ3DKK768039,adjust adaptive cruise control; install parking sensors; ,35.01,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,386
+5/13/2019,5/15/2019,7YCPTKZS5B3163969,replace stabilizer bar; ,99.32,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,387
+5/13/2019,5/29/2019,KIYTRMRZHSZ939929,fix a-pillar; change speaker configuration; ,628.68,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,388
+5/14/2019,5/17/2019,2TN1NJUXESG344969,adjust turn signals; change coolant; ,444.9,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,389
+5/14/2019,5/19/2019,35TB5QWCJW0515619,fix sunroof; check drive axle boots; ,18.15,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,390
+5/14/2019,7/17/2019,EBZZN84J0L1163524,configure universal remote control; upgrade navigation system; ,3434.63,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,391
+5/14/2019,5/19/2019,LEWHC17RSR2225266,repair seatbelt force limiters; ,22.82,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,16V183000, Ford Motor Company (Ford) is recalling certain model year 2015-2016 Lincoln MKC vehicles manufa,Lincoln,392
+5/14/2019,5/22/2019,PEXVHDHEYM7282767,install turbocharger; reconfigure service reminder light; ,123.95,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,393
+5/15/2019,6/19/2019,GC225MTL5DF831250,correct abs; fix steering damper; ,596.39,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,394
+5/15/2019,5/23/2019,NVDV1HTYNUU168147,install vanity mirrors; refurbish power steering; ,110.68,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,395
+5/16/2019,5/16/2019,QHUYKEFC12W678012,fix rear hvac; fix deceleration system; ,13.07,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,14V010000, Aston Martin Lagonda of North America (Aston Martin) is recalling certain model year 2008-2014 ,Martin,396
+5/17/2019,6/7/2019,SJV51DZQ416158315,install intelligent alternator; replace water pump; ,755.6,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,397
+5/17/2019,5/17/2019,QHUYKEFC12W678012,fix steering damper; improve engine performance; ,13.07,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,17V389000, Aston Martin The Americas (Aston Martin) is recalling certain 2011-2012 V8 Vantage vehicles.  T,Aston,398
+5/17/2019,5/22/2019,30KBYEYBKH5669910,prevent fuel pump shutoff; configure universal remote control; ,61.14,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,399
+5/17/2019,5/24/2019,L075CLEGAGV332326,adjust adaptive cruise control; adjust turn signals; ,87.63,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,400
+5/17/2019,7/28/2019,7W7UDF3KP41966929,install roof spoiler; adjust accelerator pedal linkage; ,1047.03,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,401
+5/17/2019,5/22/2019,MXF3EGT2PAG490479,fix sunroof; install on-board diagnosis system; ,116.68,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,402
+5/17/2019,5/19/2019,PUVTYE6IVGN271318,change speaker configuration; change steering rack; ,20.66,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,15V846000, Aston Martin Lagonda of North America (Aston Martin) is recalling certain model year 2010-2015 ,Martin,403
+5/17/2019,5/17/2019,RUAW8E8S2SA826885,fix nvh dampening system; install vanity mirrors; ,17.87,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,05V555000, ON CERTAIN PASSENGER AND SPORT UTILITY VEHICLES  THE FUEL FILLER HOSE MAY CRACK AND RESULT IN F,Nissan,404
+5/18/2019,5/19/2019,RUAW8E8S2SA826885,adjust hybrid performance; correct abs; ,17.87,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,405
+5/18/2019,6/15/2019,Z8UDI7LAGS7164830,change brake linings; adjust adaptive cruise control; ,390.7,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,11V106000,HONDA IS RECALLING CERTAIN MODEL YEAR 2006-2007 HONDA CIVIC HYBRID VEHICLES.  THERE IS A POTENTI,Honda,406
+5/18/2019,5/20/2019,8C76DYYDYJU989849,fix rear defroster; fix rear defroster; ,173.61,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,407
+5/18/2019,5/18/2019,QHUYKEFC12W678012,make polarization coating; install anti-theft alarm; ,13.07,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,408
+5/18/2019,5/21/2019,K5ZQ65X47KU986899,install smoked glass; replace fuel filter; ,66.56,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,08V108000, GM IS RECALLING 4 586 MY 2008 CADILLAC STS AND STS-V PASSENGER VEHICLES FOR FAILING TO CONFORM ,Cadillac,409
+5/18/2019,5/20/2019,3VWJ7G74MRP551283,configure audio remote control; change coolant; ,33.35,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,410
+5/19/2019,5/20/2019,2TN1NJUXESG344969,make polarization coating; adjust block heater; ,222.45,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,16V576000, Subaru of America  Inc. (Subaru) is recalling certain model year 2017 Outback vehicles manufact,Subaru,411
+5/19/2019,5/19/2019,S7OOZE7TI6U419267,change speaker configuration; replace steering column lock; ,16.86,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,412
+5/19/2019,6/22/2019,0XHRC15HS5V123753,install vanity mirrors; install anti-theft alarm; ,1006.45,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,413
+5/19/2019,5/22/2019,OUXQFNQE2K7274854,fix nvh dampening system; fix air filter restriction indicator; ,216.88,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,414
+5/19/2019,5/28/2019,FWOYW8SJUH7074597,attach exterior camera; adjust running boards; ,130.3,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,14V758000, Daimler Trucks North America LLC (DTNA) is recalling certain model year 2015 Freightliner Busin,Freightliner,415
+5/19/2019,5/19/2019,30IT6VOHPTN692600,replace radiator core & ac condenser; add heated windshield; ,15.28,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,416
+5/19/2019,5/21/2019,G33VJW8N2FY389186,install on-board diagnosis system; ,18.45,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,417
+5/19/2019,6/10/2019,LMC0DXV2F72475134,reduce fuel consumption; fix solar sunroof; ,694.26,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,418
+5/19/2019,5/19/2019,QHUYKEFC12W678012,replace crankcase ventilation filter; fix deceleration system; ,13.07,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,419
+5/20/2019,5/21/2019,30IT6VOHPTN692600,change wheel cylinders; reduce blind spot; ,15.28,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,420
+5/20/2019,5/21/2019,S7OOZE7TI6U419267,set up auto-delay headlights; add heated windshield; ,33.71,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,421
+5/20/2019,5/24/2019,ATWA3W65LU2848535,replace serpentine belt; replace water pump; ,34.14,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,07E023000, CERTAIN CARDONE MASTER CYLINDERS WITH PART NUMBERS 10-2925  10-2987  10-2987MZA  10-3083  11-30,Toyota,422
+5/20/2019,5/22/2019,XUV6JR4Q8SX652578,install turbocharger; install anti-theft alarm; ,20.25,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,03V476000, ON CERTAIN SPORT UTILITY VEHICLES  THE FRONT BRAKE CALIPER MOUNTING BOLTS MAY NOT BE ADEQUATELY,Nissan,423
+5/20/2019,5/30/2019,E8MFMML51CM701156,fix sunroof; install on-board diagnosis system; ,68.08,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,424
+5/21/2019,5/25/2019,CHA3G8GE21K992177,attach spoiler; replace timing belt tensioner; ,101.94,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,11V221000,GENERAL MOTORS IS RECALLING CERTAIN MODEL YEAR 2011 CHEVROLET CRUZE VEHICLES.  DURING MANUFACTUR,Chevrolet,425
+5/21/2019,5/22/2019,7YCPTKZS5B3163969,repair direct injection system; replace ace filter; ,33.11,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,426
+5/21/2019,5/27/2019,RUAW8E8S2SA826885,set up auto-delay headlights; replace serpentine belt; ,125.12,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,16V029000, Nissan North America  Inc. (Nissan) is recalling certain model year 2013-2015 Nissan Altima veh,Nissan,427
+5/22/2019,5/22/2019,S7OOZE7TI6U419267,change oil filter; adjust hybrid performance; ,16.86,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,428
+5/22/2019,5/22/2019,30IT6VOHPTN692600,install on-board diagnosis system; ,15.28,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,429
+5/22/2019,5/22/2019,3VWJ7G74MRP551283,repair shiftable automatic transmission; change memory settings of the onboard computer; ,11.12,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,430
+5/22/2019,5/25/2019,PUVTYE6IVGN271318,adjust regenerative braking; ,20.66,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,431
+5/22/2019,5/22/2019,OOXPL1JMKRX336822,improve cylinder configuration; replace water pump; ,37.89,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,432
+5/22/2019,5/24/2019,MBKMABQOONK563483,attach exterior camera; ,57.06,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,18V907000, Kia Motors America (Kia) is recalling certain 2011-2017 Optima  2012-2017 Sorento and 2011-2018,Kia,433
+5/22/2019,6/1/2019,2CEDOZQS3WI014174,fix steering damper; replace crankcase ventilation filter; ,430.31,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,434
+5/23/2019,6/2/2019,ZDIFPMGLJRT329921,adjust block heater; attach seat extension; ,313.18,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,435
+5/23/2019,6/26/2019,LN7ZMWGACVJ434473,replace crankcase ventilation filter; install turbocharger; ,344.22,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,436
+5/23/2019,5/23/2019,H130KLLOZLY973998,attach seat extension; adjust hybrid performance; ,16.12,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,437
+5/23/2019,5/27/2019,LEWHC17RSR2225266,attach spoiler; adjust regenerative braking; ,57.04,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,438
+5/23/2019,6/5/2019,PEXVHDHEYM7282767,repair seatbelt force limiters; adjust running boards; ,103.3,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,439
+5/24/2019,6/9/2019,38ZSAKVC20U930606,replace stabilizer bar; install parking sensors; ,250.19,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,440
+5/24/2019,5/24/2019,8BPZY476GS8852305,fix cylinder head bolts; replace tail lights; ,56.38,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,441
+5/24/2019,5/24/2019,35TB5QWCJW0515619,replace ace filter; adjust block heater; ,18.15,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,16V137000, Jaguar Land Rover North America  LLC (Jaguar) is recalling certain model year 2013-2015 Jaguar ,Jaguar,442
+5/24/2019,5/25/2019,XUV6JR4Q8SX652578,change memory settings of the onboard computer; fix solar sunroof; ,20.25,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,11V592000, NISSAN IS RECALLING CERTAIN MODEL YEAR 2011 INFINITI FX  MODEL YEAR 2012 INFINITI M  MODEL YEAR,INFINITI,443
+5/25/2019,6/12/2019,NQC3ODNRG8W618383,replace brake pedal spring; change coolant; ,507.39,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,00V157002, VEHICLE DESCRIPTION:  PASSENGER VEHICLES USING AFTERMARKET FRONT PASSENGER SIDE SEAT BELT ASSEM,Lincoln,444
+5/25/2019,6/9/2019,66BVP1UV1VM384215,adjust regenerative braking; remove oversteer; ,279.31,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,445
+5/25/2019,6/13/2019,L2G40AKW0DV261314,repair shiftable automatic transmission; change brake linings; ,117.85,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,446
+5/25/2019,6/14/2019,3HWBBE541KJ068668,change steering rack; replace steering column lock; ,762.4,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,18E016000, BMW of North America  LLC (BMW) is recalling certain Accessory Windscreens  sold for installati,BMW,447
+5/25/2019,5/26/2019,JVT2Q6U7HLH559100,change suspension fluid; reduce blind spot; ,61.51,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,19V148000,FCA US LLC (Alfa Romeo) is recalling certain 2018-2019 Alfa Romeo Stelvio and 2017-2019 Giulia v,Alfa,448
+5/25/2019,5/30/2019,G33VJW8N2FY389186,fix nvh dampening system; ,110.72,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,449
+5/26/2019,5/30/2019,L075CLEGAGV332326,install dusk-sensing headlights; configure universal remote control; ,58.42,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,450
+5/26/2019,5/27/2019,A2YAQD6KDWM503404,adjust traction control system; reduce blind spot; ,59.75,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,08V390000, SMART USA IS RECALLING 43 MY 2008 FORTWO 451 VEHICLES.    A SINGLE BATCH OF PAINT SENT TO THE C,smart,451
+5/26/2019,5/26/2019,SWME2EZ3HDD006687,adjust climate control; change air conditioner refrigerant; ,24.43,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,452
+5/26/2019,6/1/2019,8BPZY476GS8852305,replace ace filter; fix steering damper; ,281.88,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,453
+5/26/2019,6/3/2019,K5ZQ65X47KU986899,adjust block heater; install vanity mirrors; ,33.28,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,454
+5/26/2019,5/29/2019,35TB5QWCJW0515619,attach seat extension; improve cylinder configuration; ,54.46,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,455
+5/26/2019,7/1/2019,BHVL8OFSZ0G423785,fix external temperature display; fix nvh dampening system; ,92.02,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,18V268000, Honda (American Honda Motor Co.) is recalling certain 2003-2012 Honda Accord and Pilot  2010 Ac,Honda,456
+5/26/2019,6/4/2019,ZS1M7DGNG0B708125,replace water pump; replace fuel filter; ,203.85,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,457
+5/27/2019,6/22/2019,8FX05ZAH64B316440,repair shiftable automatic transmission; reduce fuel consumption; ,679.02,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,458
+5/27/2019,6/2/2019,AFTWPBMU2TA534019,reduce fuel consumption; ,75.43,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,459
+5/27/2019,6/3/2019,MW7W375RHHU707116,add heated windshield; replace radiator core & ac condenser; ,138.41,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,460
+5/27/2019,5/28/2019,1J1RMS1AO48718511,fix air filter restriction indicator; install on-board diagnosis system; ,28.85,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,461
+5/27/2019,5/31/2019,30KBYEYBKH5669910,change wheel cylinders; install parking sensors; ,30.57,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,462
+5/27/2019,5/28/2019,7YCPTKZS5B3163969,replace steering column lock; install curtain airbags; ,66.21,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,463
+5/27/2019,6/17/2019,5I71MA5PSO0445780,improve cylinder configuration; refurbish power steering; ,667.96,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,18V828000, Chrysler (FCA US LLC) is recalling certain 2017-2018 Alfa Romeo Giulia vehicles equipped with G,Romeo,464
+5/28/2019,5/31/2019,3VWJ7G74MRP551283,fix ventilated seats; repair direct injection system; ,44.47,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,465
+5/28/2019,5/28/2019,JAH4TXSVFRZ937654,make polarization coating; attach exterior camera; ,18.97,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,466
+5/28/2019,6/4/2019,JVT2Q6U7HLH559100,prevent fuel pump shutoff; replace crankcase ventilation filter; ,246.04,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,467
+5/28/2019,5/31/2019,C0VHQRA5CIO857811,install anti-theft alarm; replace steering column lock; ,154.42,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,468
+5/29/2019,5/31/2019,JAH4TXSVFRZ937654,change brake linings; change timing belt; ,18.97,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,14E007000, The Gates Corporation (Gates) is recalling certain aftermarket Tru-Flow Water Pumps  part numbe,Volkswagen,469
+5/29/2019,6/1/2019,RUAW8E8S2SA826885,adjust seat belts tension; install parking sensors; ,53.62,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,470
+5/29/2019,6/3/2019,LEWHC17RSR2225266,attach exterior camera; replace diverter valve; ,34.22,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,471
+5/29/2019,5/30/2019,OUXQFNQE2K7274854,fix solar sunroof; install intelligent alternator; ,54.22,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,472
+5/29/2019,5/30/2019,MBKMABQOONK563483,adjust turn signals; install anti-theft alarm; ,19.02,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,473
+5/30/2019,6/2/2019,1D75678DO43448008,replace crankcase ventilation filter; replace tail lights; ,177.74,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,474
+5/30/2019,6/28/2019,6D300ABH65P725391,fix external temperature display; adjust reverse tilt mirrors; ,766.58,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,475
+5/31/2019,6/12/2019,OUIFCWSPPHR650293,replace radiator hoses; repair seatbelt force limiters; ,51.26,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,15V629000, Hyundai Motor America (Hyundai) is recalling certain model year 2011 Elantra vehicles manufactu,Hyundai,476
+5/31/2019,6/2/2019,SROKG0OMKKQ394333,upgrade navigation system; install parking sensors; ,187.44,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,09V091000, LDV IS RECALLING 81 TRUCKS BUILT ON CHEVROLET AND FORD MY 2007-2009 C5500  MY 2008-2009 W5500  ,Chevrolet,477
+5/31/2019,6/3/2019,V4JVFR4YRS7140562,change steering rack; configure audio remote control; ,134.08,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,15V483000, Volkswagen Group of America  Inc. (Volkswagen) is recalling certain model year 2010-2014 Volksw,Volkswagen,478
+5/31/2019,6/3/2019,1J1RMS1AO48718511,replace radiator hoses; change purge valve; ,57.7,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,479
+5/31/2019,6/20/2019,IOCT8QVK86C997015,adjust turn signals; adjust accelerator pedal linkage; ,94.21,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,480
+5/31/2019,6/20/2019,SGEAZM7OHRE981138,make polarization coating; change speaker configuration; ,74.14,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,481
+5/31/2019,6/4/2019,E8MFMML51CM701156,change memory settings of the onboard computer; replace crankcase ventilation filter; ,68.08,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,482
+6/1/2019,6/2/2019,C0VHQRA5CIO857811,install turbocharger; change purge valve; ,77.21,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,483
+6/1/2019,6/11/2019,L075CLEGAGV332326,reconfigure service reminder light; change brake linings; ,131.44,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,484
+6/1/2019,6/3/2019,XUV6JR4Q8SX652578,repair direct injection system; ,20.25,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,06V328000, DURING A CANADIAN COMPLIANCE TEST  CERTAIN SPORT UTILITY VEHICLES FAIL TO COMPLY WITH THE REQUI,INFINITI,485
+6/1/2019,6/2/2019,M58W6OQD1J3561088,replace timing belt tensioner; change oil filter; ,84.27,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,486
+6/1/2019,6/1/2019,JAH4TXSVFRZ937654,add knee airbags; adjust running boards; ,18.97,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,487
+6/1/2019,6/8/2019,GKTLIDKGMZ6109105,replace ace filter; ,64.99,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,488
+6/2/2019,6/4/2019,RUAW8E8S2SA826885,fix power activated release; replace crankcase ventilation filter; ,53.62,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,13V094000, Nissan is recalling certain model year 2013 Titan trucks manufactured from January 22  2013  th,Nissan,489
+6/2/2019,6/5/2019,PC02G0A675B935953,replace radiator core & ac condenser; change pcv filter/pcv valve; ,184.14,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,490
+6/2/2019,6/6/2019,8BPZY476GS8852305,install separate rear audio; prevent fuel pump shutoff; ,169.13,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,491
+6/2/2019,6/8/2019,KSC5NS2WX0Q021711,adjust regenerative braking; ,146.18,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,492
+6/2/2019,6/3/2019,30KBYEYBKH5669910,replace stabilizer bar; replace brake pedal spring; ,30.57,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,493
+6/3/2019,6/6/2019,SWME2EZ3HDD006687,fix power activated release; install on-board diagnosis system; ,73.3,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,494
+6/3/2019,6/11/2019,ZDIFPMGLJRT329921,set up auto-delay headlights; adjust adaptive cruise control; ,178.96,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,495
+6/3/2019,6/19/2019,A1NW00GFYRY803793,install intelligent alternator; adjust traction control system; ,128.94,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,05V338000, CERTAIN VEHICLES FAIL TO CONFORM TO THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFETY STANDARD N,INFINITI,496
+6/3/2019,6/3/2019,M58W6OQD1J3561088,fix a-pillar; change air conditioner refrigerant; ,84.27,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,497
+6/3/2019,6/4/2019,1MF8O5K3V5X143850,replace water pump; repair cooled seats; ,30.71,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,498
+6/3/2019,7/15/2019,MT0OEZQ7C5Q035531,install intelligent alternator; change coolant; ,523,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,499
+6/4/2019,6/9/2019,K6NPKFWC2DG818634,fix external temperature display; ,100.45,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,11E022000, AFFINIA IS RECALLING CERTAIN AFTERMARKET FRONT SUSPENSION LOWER BALL JOINTS  NAPA PART NO. 2601,Acura,500
+6/4/2019,6/5/2019,JAH4TXSVFRZ937654,replace timing belt tensioner; configure universal remote control; ,18.97,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,19V188000, Volkswagen Group of America  Inc. (Volkswagen) is recalling certain 2017-2019 Golf Sportwagen  ,Volkswagen,501
+6/4/2019,6/4/2019,M58W6OQD1J3561088,install optional equipment; install intelligent alternator; ,84.27,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,502
+6/5/2019,6/6/2019,1MF8O5K3V5X143850,change pcv filter/pcv valve; fix sunroof; ,30.71,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,18V432000, Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2007-2011 Lexus GS350 an,Toyota,503
+6/5/2019,6/7/2019,FZ1HFZ585WR955503,change timing belt; install active pedestrian protection system; ,255.31,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,504
+6/5/2019,6/9/2019,1J1RMS1AO48718511,reduce fuel consumption; ,72.12,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,505
+6/5/2019,6/6/2019,G33VJW8N2FY389186,install curtain airbags; change pcv filter/pcv valve; ,36.91,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,506
+6/5/2019,6/8/2019,30KBYEYBKH5669910,replace ace filter; fix broken tow hooks; ,61.14,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,507
+6/6/2019,6/7/2019,3VWJ7G74MRP551283,replace liftgate window; add heated windshield; ,11.12,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,508
+6/6/2019,6/8/2019,PC02G0A675B935953,attach exterior camera; repair seatbelt force limiters; ,46.03,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,18V047000, Mitsubishi Fuso Truck of America  Inc. (MFTA) is recalling certain 2004-2017 FE84D  FE85D  FEC5,Mitsubishi,509
+6/7/2019,6/11/2019,05AJ273ZM02946325,install on-board diagnosis system; install curtain airbags; ,38.02,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,510
+6/7/2019,6/7/2019,M58W6OQD1J3561088,replace crankcase ventilation filter; install smoked glass; ,84.27,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,511
+6/7/2019,6/28/2019,ZDR30CO5D6G733856,fix broken tow hooks; attach spoiler; ,740.04,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,512
+6/7/2019,6/17/2019,B3V53WEVPX7253102,change purge valve; remove oversteer; ,441.21,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,513
+6/7/2019,6/12/2019,1MF8O5K3V5X143850,replace fuel filter; install smoked glass; ,30.71,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,514
+6/7/2019,6/12/2019,MW7W375RHHU707116,replace radiator core & ac condenser; adjust block heater; ,92.27,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,515
+6/7/2019,6/9/2019,FWOYW8SJUH7074597,adjust reverse tilt mirrors; check drive axle boots; ,16.29,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,516
+6/7/2019,6/9/2019,K5ZQ65X47KU986899,repair cooled seats; adjust turn signals; ,99.84,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,517
+6/7/2019,6/9/2019,SWME2EZ3HDD006687,change purge valve; make polarization coating; ,48.87,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,518
+6/8/2019,6/16/2019,E8MFMML51CM701156,replace diverter valve; attach exterior camera; ,119.15,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,16V302000, Chrysler (FCA US LLC) is recalling certain model year 2012-2016 Fiat 500 vehicles manufactured ,FIAT,519
+6/8/2019,6/8/2019,JB6TJOH3G13545501,replace serpentine belt; fix rear defroster; ,63.93,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,17V545000, Honda (American Honda Motor Co.) is recalling certain 2008-2012 Accord  2010-2012 Accord Crosst,Acura,520
+6/8/2019,6/11/2019,G33VJW8N2FY389186,attach exterior camera; add knee airbags; ,73.81,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,521
+6/8/2019,6/11/2019,3VWJ7G74MRP551283,fix nvh dampening system; ,33.35,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,522
+6/8/2019,6/10/2019,FZ1HFZ585WR955503,install active pedestrian protection system; ,170.2,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,523
+6/8/2019,6/8/2019,JVT2Q6U7HLH559100,fix deceleration system; fix external temperature display; ,30.76,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,06V316000, ON CERTAIN MOTOR HOMES  THE TOP FLANGE OF THE FRONT AXLE I-BEAM MAY FATIGUE AND FRACTURE.  ,Alfa,524
+6/9/2019,6/10/2019,LEWHC17RSR2225266,attach seat extension; upgrade navigation system; ,11.41,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,98V322000, VEHICLE DESCRIPTION:  CERTAIN 1996-1999 FORD CROWN VICTORIA POLICE  FLEET  NATURAL GAS  AND 199,Lincoln,525
+6/9/2019,7/11/2019,ATWA3W65LU2848535,adjust regenerative braking; replace steering column lock; ,785.13,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,526
+6/9/2019,6/9/2019,JB6TJOH3G13545501,adjust low fuel warning indicator; adjust climate control; ,63.93,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,527
+6/9/2019,6/10/2019,8BPZY476GS8852305,replace stabilizer bar; fix sunroof; ,56.38,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,528
+6/9/2019,6/9/2019,C0VHQRA5CIO857811,install smoked glass; adjust seat belts tension; ,38.61,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,529
+6/9/2019,6/10/2019,RUAW8E8S2SA826885,change timing belt; configure universal remote control; ,35.75,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,530
+6/10/2019,7/3/2019,GKTLIDKGMZ6109105,fix deceleration system; adjust accelerator pedal linkage; ,324.97,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,531
+6/10/2019,6/19/2019,WSHBRYQYDCI202435,adjust running boards; attach exterior camera; ,70.34,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,532
+6/10/2019,6/10/2019,JB6TJOH3G13545501,adjust ignition timing; set up satellite radio; ,63.93,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,533
+6/10/2019,6/18/2019,JVT2Q6U7HLH559100,adjust ignition timing; replace steering column lock; ,123.02,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,534
+6/10/2019,6/13/2019,K6NPKFWC2DG818634,improve cylinder configuration; upgrade navigation system; ,100.45,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,535
+6/10/2019,6/14/2019,WMXOWCZE1MO140134,replace tail lights; adjust turn signals; ,146.66,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,536
+6/11/2019,6/13/2019,C0VHQRA5CIO857811,change air conditioner refrigerant; ,115.82,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,537
+6/11/2019,6/11/2019,5U2302GFYRL619555,install on-board diagnosis system; upgrade navigation system; ,28.26,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,538
+6/11/2019,6/12/2019,RUAW8E8S2SA826885,replace ace filter; ,35.75,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,539
+6/11/2019,6/29/2019,1D377TZAWSW801985,fix rear defroster; improve cylinder configuration; ,572.54,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,540
+6/11/2019,6/12/2019,1J1RMS1AO48718511,configure audio remote control; change coolant; ,14.42,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,541
+6/11/2019,6/11/2019,1NVXI5JXG3Q330243,install optional equipment; install vanity mirrors; ,114.87,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,542
+6/11/2019,6/11/2019,JB6TJOH3G13545501,adjust seat belts tension; set up auto-delay headlights; ,63.93,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,543
+6/12/2019,6/15/2019,SZAJTDBI6IL561669,replace radiator core & ac condenser; refurbish power steering; ,40.43,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,19V148000,FCA US LLC (Alfa Romeo) is recalling certain 2018-2019 Alfa Romeo Stelvio and 2017-2019 Giulia v,Alfa,544
+6/12/2019,6/13/2019,KSC5NS2WX0Q021711,replace fuel filter; replace steering column lock; ,58.47,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,545
+6/13/2019,6/20/2019,3KYD25BMOB3101135,replace tail lights; ,130.82,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,546
+6/13/2019,6/13/2019,7T0CI3XEYJA004139,fix a-pillar; ,52.08,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,547
+6/13/2019,6/14/2019,G33VJW8N2FY389186,replace catalytic converter; replace brake pedal spring; ,18.45,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,17V457000, Mazda North America Operations (Mazda) is recalling certain 2012 CX-7  CX-9 and Mazda6 vehicles,MAZDA,548
+6/13/2019,6/17/2019,30KBYEYBKH5669910,replace tail lights; ,45.85,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,549
+6/13/2019,7/5/2019,OUIFCWSPPHR650293,reduce blind spot; replace stabilizer bar; ,435.69,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,550
+6/13/2019,6/13/2019,SROKG0OMKKQ394333,replace crankcase ventilation filter; adjust adaptive cruise control; ,62.48,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,551
+6/13/2019,6/17/2019,8BPZY476GS8852305,install curtain airbags; ,169.13,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,552
+6/14/2019,6/15/2019,1J1RMS1AO48718511,configure audio remote control; correct abs; ,14.42,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,14V422000, BMW of North America  LLC (BMW) is recalling a certain model year BMW i3 vehicle manufactured M,MINI,553
+6/14/2019,6/22/2019,LEWHC17RSR2225266,attach spoiler; change brake linings; ,91.26,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,554
+6/14/2019,6/17/2019,JB6TJOH3G13545501,replace crankcase ventilation filter; change brake linings; ,63.93,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,555
+6/14/2019,6/15/2019,1NVXI5JXG3Q330243,adjust block heater; attach spoiler; ,114.87,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,556
+6/14/2019,6/14/2019,7T0CI3XEYJA004139,install roof spoiler; attach seat extension; ,52.08,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,557
+6/15/2019,6/16/2019,0XJA8OD4GS2220202,attach spoiler; replace radiator hoses; ,34.84,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,558
+6/15/2019,6/17/2019,SWME2EZ3HDD006687,configure universal remote control; configure universal remote control; ,73.3,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,559
+6/15/2019,6/15/2019,7T0CI3XEYJA004139,adjust seat belts tension; adjust turn signals; ,52.08,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,18V231000, Chrysler (FCA US LLC) is recalling certain 2018 Jeep Wrangler vehicles.  The rear under body la,Jeep,560
+6/15/2019,6/15/2019,1MF8O5K3V5X143850,replace tail lights; replace steering column lock; ,30.71,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,561
+6/15/2019,7/3/2019,WMXOWCZE1MO140134,upgrade navigation system; reduce fuel consumption; ,527.97,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,562
+6/15/2019,7/16/2019,ZDIFPMGLJRT329921,fix nvh dampening system; change speaker configuration; ,984.27,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,563
+6/15/2019,6/18/2019,K6NPKFWC2DG818634,improve engine performance; adjust climate control; ,100.45,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,564
+6/15/2019,6/19/2019,G33VJW8N2FY389186,upgrade navigation system; set up auto-delay headlights; ,36.91,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,16V354000, Mazda North American Operations (Mazda) is recalling certain model year 2004-2011 RX-8  2004-20,MAZDA,565
+6/16/2019,6/17/2019,C0VHQRA5CIO857811,install turbocharger; change oil filter; ,77.21,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,566
+6/16/2019,6/16/2019,YB3M3MZEQ1J275307,attach exterior camera; ,35.58,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,15V157000, General Motors LLC (GM) is recalling certain model year 2015 Chevrolet Colorado vehicles manufa,GMC,567
+6/16/2019,6/17/2019,SZAJTDBI6IL561669,adjust traction control system; install parking sensors; ,80.87,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,568
+6/16/2019,6/16/2019,6KSCMBLK5DZ055754,install intelligent alternator; install separate rear audio; ,24.15,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,569
+6/16/2019,6/26/2019,7F3L3GAY4BB268957,adjust regenerative braking; replace liftgate window; ,162.61,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,13V259000, Isuzu Manufacturing Services of America  Inc. (Isuzu) is recalling certain model year 2001-2013,GMC,570
+6/16/2019,6/16/2019,7T0CI3XEYJA004139,change steering rack; adjust ignition timing; ,52.08,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,571
+6/17/2019,6/19/2019,7T0CI3XEYJA004139,change memory settings of the onboard computer; ,52.08,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,13V175000, Chrysler Group LLC (Chrysler) is recalling certain model year 2005-2010 Jeep Grand Cherokee veh,Jeep,572
+6/17/2019,6/17/2019,YB3M3MZEQ1J275307,install anti-theft alarm; fix sunroof; ,35.58,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,573
+6/17/2019,6/19/2019,1NVXI5JXG3Q330243,adjust turn signals; adjust turn signals; ,229.74,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,16V842000, Hyundai Motor America (Hyundai) is recalling certain model year 2016-2017 Tucson vehicles manuf,Hyundai,574
+6/18/2019,6/18/2019,FZ1HFZ585WR955503,replace diverter valve; change timing belt; ,85.1,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,575
+6/18/2019,6/19/2019,30KBYEYBKH5669910,change timing belt; fix steering damper; ,15.28,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,576
+6/18/2019,6/21/2019,SROKG0OMKKQ394333,set up auto-delay headlights; replace radiator core & ac condenser; ,249.91,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,02V253000, ON CERTAIN SPORT UTILITY VEHICLES EQUIPPED WITH REARWARD FOLDING HEAD RESTRAINTS ON THE SECOND ,Chevrolet,577
+6/18/2019,6/20/2019,1J1RMS1AO48718511,change air conditioner refrigerant; replace liftgate window; ,43.27,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,578
+6/18/2019,6/19/2019,C0VHQRA5CIO857811,remove oversteer; change speaker configuration; ,77.21,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,579
+6/18/2019,6/18/2019,0OZ6776OUA0065975,reduce fuel consumption; adjust ignition timing; ,49.36,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,580
+6/18/2019,7/2/2019,CHA3G8GE21K992177,attach exterior camera; fix external temperature display; ,611.67,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,581
+6/18/2019,6/26/2019,5U2302GFYRL619555,add heated windshield; fix broken tow hooks; ,169.56,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,13V489000, Hyundai is recalling certain model year 2009-2012 Genesis vehicles manufactured April 30  2008 ,Hyundai,582
+6/18/2019,6/24/2019,AFTWPBMU2TA534019,fix ventilated seats; replace tail lights; ,150.86,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,583
+6/18/2019,6/18/2019,JB6TJOH3G13545501,fix deceleration system; reduce blind spot; ,63.93,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,584
+6/18/2019,6/18/2019,YB3M3MZEQ1J275307,replace water pump; make polarization coating; ,35.58,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,13V147000, Explorer Van Company  Inc. is recalling certain model year 2013 Explorer and Explorer Limited S,GMC,585
+6/18/2019,6/19/2019,SZAJTDBI6IL561669,change brake linings; ,80.87,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,586
+6/19/2019,6/27/2019,66BVP1UV1VM384215,fix air filter restriction indicator; ,79.8,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,587
+6/19/2019,6/20/2019,IHCVQSL87UO415387,change purge valve; attach exterior camera; ,59.79,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,588
+6/19/2019,7/12/2019,0XJA8OD4GS2220202,install intelligent alternator; remove oversteer; ,330.98,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,589
+6/19/2019,6/21/2019,JVT2Q6U7HLH559100,fix solar sunroof; replace brake pedal spring; ,30.76,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,07V220000, CERTAIN FIFTH WHEEL TRAILERS EQUIPPED WITH A TWO-DOOR REFRIGERATOR  MANUFACTURED BY THE DOMETIC,Alfa,590
+6/19/2019,6/20/2019,YB3M3MZEQ1J275307,install roof spoiler; replace liftgate window; ,71.16,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,591
+6/19/2019,6/19/2019,0OZ6776OUA0065975,install roof spoiler; configure audio remote control; ,49.36,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,592
+6/19/2019,6/23/2019,5I71MA5PSO0445780,install on-board diagnosis system; install on-board diagnosis system; ,159.04,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,593
+6/20/2019,6/20/2019,6PSJQWZYS2J443879,adjust hybrid performance; change purge valve; ,133,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,594
+6/20/2019,6/20/2019,JB6TJOH3G13545501,change brake linings; adjust turn signals; ,63.93,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,595
+6/20/2019,6/21/2019,7T0CI3XEYJA004139,attach exterior camera; ,104.15,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,596
+6/20/2019,6/25/2019,Z8UDI7LAGS7164830,adjust block heater; replace timing belt tensioner; ,48.84,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,597
+6/20/2019,6/20/2019,K6NPKFWC2DG818634,repair cooled seats; install dusk-sensing headlights; ,25.11,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,598
+6/20/2019,6/24/2019,NQC3ODNRG8W618383,replace brake pedal spring; change timing belt; ,56.38,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,599
+6/21/2019,7/6/2019,05AJ273ZM02946325,install anti-theft alarm; adjust climate control; ,114.05,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,600
+6/21/2019,6/22/2019,1J1RMS1AO48718511,change brake linings; add knee airbags; ,28.85,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,07V533000, CERTAIN CONVERTIBLE VEHICLES FAIL TO CONFORM TO THE REQUIREMENTS OF FEDERAL MOTOR VEHICLE SAFET,MINI,601
+6/21/2019,6/21/2019,YB3M3MZEQ1J275307,change speaker configuration; install smoked glass; ,35.58,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,602
+6/21/2019,6/22/2019,6PSJQWZYS2J443879,change coolant; ,133,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,603
+6/21/2019,6/25/2019,WSHBRYQYDCI202435,fix sunroof; prevent fuel pump shutoff; ,281.37,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,604
+6/21/2019,6/22/2019,YR8K00OE58G720472,replace brake pedal spring; repair seatbelt force limiters; ,86.47,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,605
+6/22/2019,6/25/2019,E8MFMML51CM701156,change wheel cylinders; refurbish power steering; ,34.04,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,606
+6/22/2019,6/22/2019,7T0CI3XEYJA004139,adjust adaptive cruise control; improve engine performance; ,52.08,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,16V907000, Chrysler (FCA US LLC) is recalling certain model year 2016 Dodge Journey  Jeep Compass  and Jee,Jeep,607
+6/23/2019,6/23/2019,F6TVSMY2L2Z886673,fix rear defroster; ,33.17,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,608
+6/23/2019,7/10/2019,C4QIGI5R0PE739600,upgrade navigation system; reduce carbon footprint; ,129.78,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,609
+6/23/2019,6/23/2019,YR8K00OE58G720472,change speaker configuration; replace serpentine belt; ,43.24,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,610
+6/23/2019,6/23/2019,SZAJTDBI6IL561669,replace diverter valve; check drive axle boots; ,40.43,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,611
+6/23/2019,6/23/2019,7T0CI3XEYJA004139,adjust adaptive cruise control; change timing belt; ,52.08,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,13V289000, Chrysler is recalling certain model year 2014  non-SRT trimmed  Grand Cherokee vehicles manufac,Jeep,612
+6/23/2019,7/10/2019,IOCT8QVK86C997015,replace radiator core & ac condenser; change oil filter; ,659.5,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,613
+6/23/2019,7/1/2019,ZS1M7DGNG0B708125,reconfigure service reminder light; change pcv filter/pcv valve; ,203.85,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,614
+6/23/2019,6/24/2019,M6J2KWLLUKW587077,fix a-pillar; repair seatbelt force limiters; ,90.54,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,13V113000, Hyundai Motor Company (Hyundai) is recalling certain model year 2006-2009 Accent  model year 20,Hyundai,615
+6/24/2019,6/25/2019,K6NPKFWC2DG818634,attach exterior camera; adjust turn signals; ,25.11,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,616
+6/24/2019,7/13/2019,A1NW00GFYRY803793,replace radiator core & ac condenser; change oil filter; ,12.89,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,617
+6/24/2019,6/27/2019,SZAJTDBI6IL561669,install separate rear audio; install optional equipment; ,121.3,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,618
+6/24/2019,7/3/2019,Z4SH0SHZI01062444,add knee airbags; reconfigure service reminder light; ,161.16,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,619
+6/25/2019,6/25/2019,3VWJ7G74MRP551283,replace water pump; change pcv filter/pcv valve; ,11.12,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,620
+6/25/2019,6/25/2019,YR8K00OE58G720472,adjust low fuel warning indicator; adjust traction control system; ,43.24,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,621
+6/25/2019,6/28/2019,P7UUVOVKPTD080947,configure audio remote control; change timing belt; ,19.23,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,622
+6/25/2019,6/30/2019,U3HSV2KCE0Y319532,attach seat extension; install optional equipment; ,243.98,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,623
+6/25/2019,6/25/2019,F6TVSMY2L2Z886673,adjust block heater; ,33.17,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,624
+6/25/2019,6/26/2019,SJV51DZQ416158315,configure audio remote control; adjust low fuel warning indicator; ,83.96,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,625
+6/25/2019,6/25/2019,1J1RMS1AO48718511,attach seat extension; install optional equipment; ,14.42,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,626
+6/25/2019,7/1/2019,3KYD25BMOB3101135,change air conditioner refrigerant; set up satellite radio; ,261.63,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,627
+6/26/2019,6/26/2019,3S8JO5UMV1Y166789,install dusk-sensing headlights; adjust accelerator pedal linkage; ,16.97,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,18V576000, General Motors LLC (GM) is recalling certain 2018-2019 Chevrolet Equinox  Impala  Cruze  Volt a,Chevrolet,628
+6/26/2019,7/11/2019,SGEAZM7OHRE981138,configure audio remote control; replace steering column lock; ,148.28,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,18V082000, Volkswagen Group of America  Inc. (Volkswagen) is recalling certain 2006-2013 Audi A3  2007-200,Audi,629
+6/26/2019,6/26/2019,KG6S1KYGKY7383089,adjust ignition timing; install smoked glass; ,47.87,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,630
+6/26/2019,6/26/2019,F6TVSMY2L2Z886673,fix rear defroster; change suspension fluid; ,33.17,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,631
+6/26/2019,6/26/2019,0KQT4QWDSFO183874,improve cylinder configuration; fix solar sunroof; ,46.83,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,16V812000, Hyundai Translead is recalling certain model year 2012-2013 HT Hycube  HT Composite-XT  HT Orig,Hyundai,632
+6/27/2019,6/29/2019,PHTKITC5C1H921363,adjust turn signals; reduce fuel consumption; ,22.05,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,19V006000, Ferrari North America (Ferrari) is recalling certain 2014 Ferrari California  2014-2015 Ferrari,Ferrari,633
+6/27/2019,6/27/2019,LEWHC17RSR2225266,repair seatbelt force limiters; configure audio remote control; ,11.41,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,634
+6/27/2019,6/27/2019,YR8K00OE58G720472,change speaker configuration; replace ace filter; ,43.24,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,635
+6/28/2019,7/5/2019,GC225MTL5DF831250,fix deceleration system; fix cylinder head bolts; ,210.49,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,636
+6/28/2019,7/11/2019,7Y1EAHONCCS732936,adjust seat belts tension; repair seatbelt force limiters; ,715.34,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,637
+6/28/2019,6/28/2019,R56SEOUUT0R265399,adjust adaptive cruise control; replace tail lights; ,26.47,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,638
+6/29/2019,7/18/2019,ASBUY3C1GYP443816,fix air filter restriction indicator; fix steering damper; ,2091.25,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,639
+6/29/2019,7/14/2019,E8MFMML51CM701156,install active pedestrian protection system; install separate rear audio; ,204.25,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,16V303000, Chrysler (FCA US LLC) is recalling certain model year 2013-2016 Fiat 500e vehicles manufactured,FIAT,640
+6/29/2019,6/29/2019,TD5OFRN1LC8601752,replace brake pedal spring; change brake linings; ,31.81,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,641
+6/29/2019,7/3/2019,41AHCTXZIUN699904,adjust ignition timing; change steering rack; ,16.88,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,642
+6/29/2019,7/16/2019,0XHRC15HS5V123753,change pcv filter/pcv valve; fix rear defroster; ,118.41,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,643
+6/30/2019,7/4/2019,3S8JO5UMV1Y166789,fix rear defroster; ,33.94,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,644
+6/30/2019,7/2/2019,LN7ZMWGACVJ434473,change timing belt; ,44.9,completed,Rundofase,6976505267,175 12-street,Seattle,WA,8511,08V344000,KNAPHEIDE IS RECALLING 108 MY 2006-2008 PRO SERIES TRUCK BEDS EQUIPPED WITH AN ICC BUMPER WHICH ,GMC,645
+7/1/2019,7/1/2019,MYX14D30CZI581341,fix cylinder head bolts; install smoked glass; ,34.77,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,646
+7/3/2019,7/10/2019,5U2302GFYRL619555,install vanity mirrors; install optional equipment; ,169.56,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,15V629000, Hyundai Motor America (Hyundai) is recalling certain model year 2011 Elantra vehicles manufactu,Hyundai,647
+7/3/2019,7/18/2019,AZCPHC4R1RY522608,replace fuel filter; fix cylinder head bolts; ,54.27,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,648
+7/5/2019,7/27/2019,3S8JO5UMV1Y166789,replace catalytic converter; install dusk-sensing headlights; ,356.39,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,649
+7/5/2019,7/30/2019,2CEDOZQS3WI014174,change speaker configuration; replace brake pedal spring; ,1352.4,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,650
+7/6/2019,7/29/2019,WSHBRYQYDCI202435,adjust ignition timing; add knee airbags; ,1617.89,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,16V641000, Volkswagen Group of America  Inc. (Volkswagen) is recalling certain model year 2017 Audi Q7 veh,Audi,651
+7/6/2019,7/12/2019,MYX14D30CZI581341,check drive axle boots; ,173.83,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,652
+7/6/2019,7/10/2019,Z4SH0SHZI01062444,adjust adaptive cruise control; ,32.23,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,18V031000, Tesla  Inc. (Tesla) is recalling all 2013 Model S vehicles equipped with certain air bag inflat,Tesla,653
+7/7/2019,7/21/2019,OUIFCWSPPHR650293,adjust accelerator pedal linkage; change suspension fluid; ,333.18,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,654
+7/8/2019,8/8/2019,B3V53WEVPX7253102,adjust low fuel warning indicator; replace water pump; ,882.42,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,655
+7/8/2019,7/8/2019,AN86IKI83LD618280,refurbish power steering; add heated windshield; ,37.77,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,656
+7/8/2019,7/14/2019,GB5EB3AIUD0242483,attach exterior camera; replace radiator core & ac condenser; ,126.7,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,657
+7/9/2019,7/14/2019,8C76DYYDYJU989849,fix rear hvac; reconfigure service reminder light; ,289.35,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,658
+7/9/2019,7/11/2019,PHTKITC5C1H921363,install roof spoiler; reduce blind spot; ,44.1,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,659
+7/10/2019,7/10/2019,FWOYW8SJUH7074597,install on-board diagnosis system; adjust running boards; ,16.29,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,09V024000, DAIMLER TRUCKS IS RECALLING 14181 MY 2007-2009 FREIGHTLINER CASCADIA TRUCKS EQUIPPED WITH CAB S,Freightliner,660
+7/11/2019,7/13/2019,Z4SH0SHZI01062444,install vanity mirrors; check drive axle boots; ,32.23,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,661
+7/11/2019,7/12/2019,C4QIGI5R0PE739600,change coolant; fix broken tow hooks; ,21.63,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,662
+7/11/2019,7/11/2019,3KYD25BMOB3101135,install smoked glass; replace tail lights; ,43.61,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,663
+7/11/2019,7/20/2019,66BVP1UV1VM384215,replace tail lights; fix rear defroster; ,79.8,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,664
+7/12/2019,8/7/2019,41AHCTXZIUN699904,change air conditioner refrigerant; install intelligent alternator; ,455.65,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,10V449000, ASTON MARTIN IS RECALLING CERTAIN MODEL YEAR 2007-2008 DB9 COUPE  DB9 VOLANTE  V8 VANTAGE COUPE,Aston,665
+7/12/2019,8/5/2019,SGEAZM7OHRE981138,fix air filter restriction indicator; ,118.63,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,666
+7/12/2019,7/14/2019,ZS1M7DGNG0B708125,replace crankcase ventilation filter; replace serpentine belt; ,122.31,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,667
+7/14/2019,7/17/2019,LN7ZMWGACVJ434473,prevent fuel pump shutoff; set up auto-delay headlights; ,44.9,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,668
+7/15/2019,8/3/2019,SJV51DZQ416158315,install active pedestrian protection system; replace catalytic converter; ,167.91,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,669
+7/15/2019,7/30/2019,IOCT8QVK86C997015,replace radiator hoses; ,94.21,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,670
+7/17/2019,7/20/2019,5U2302GFYRL619555,refurbish power steering; replace catalytic converter; ,56.52,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,671
+7/17/2019,7/25/2019,8C76DYYDYJU989849,replace timing belt tensioner; adjust traction control system; ,347.22,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,16V256000, General Motors LLC (GM) is recalling certain model year 2016-2017 Chevrolet Silverado 1500 and ,Cadillac,672
+7/17/2019,8/13/2019,PHTKITC5C1H921363,change steering rack; ,573.26,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,673
+7/18/2019,7/26/2019,27J2LRAE38R945176,check drive axle boots; adjust accelerator pedal linkage; ,98.71,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,16V651000, General Motors LLC (GM) is recalling certain model year 2015-2017 Chevrolet Silverado 2500 HD  ,Buick,674
+7/18/2019,9/16/2019,58SXUC0BZIA446980,fix cylinder head bolts; replace brake pedal spring; ,238.37,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,11V395000, HONDA IS RECALLING CERTAIN MODEL YEAR 2005-2010 ACCORD  2007-2010 CR-V  AND 2005-2008 ELEMENT P,Honda,675
+7/18/2019,7/22/2019,CHA3G8GE21K992177,refurbish power steering; change timing belt; ,305.83,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,14V261000, General Motors is recalling certain model year 2004-2008 Chevrolet Aveo vehicles equipped with ,Chevrolet,676
+7/18/2019,7/24/2019,8FX05ZAH64B316440,adjust reverse tilt mirrors; adjust climate control; ,45.27,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,677
+7/19/2019,8/6/2019,1WU1KQALZ75403546,repair shiftable automatic transmission; refurbish power steering; ,43.28,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,678
+7/19/2019,7/31/2019,XG2F8AZ3DKK768039,change wheel cylinders; correct abs; ,35.01,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,13V114000, Kia Motors Corporation (Kia) is recalling certain model year 2007-2010 Rondo  model year 2007-2,Kia,679
+7/20/2019,7/25/2019,P7UUVOVKPTD080947,attach spoiler; ,57.68,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,680
+7/20/2019,8/25/2019,KSC5NS2WX0Q021711,replace fuel filter; replace stabilizer bar; ,467.78,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,681
+7/21/2019,8/15/2019,5I71MA5PSO0445780,replace ace filter; improve engine performance; ,159.04,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,682
+7/21/2019,7/26/2019,NQC3ODNRG8W618383,upgrade navigation system; improve engine performance; ,338.26,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,683
+7/22/2019,7/24/2019,MT0OEZQ7C5Q035531,install anti-theft alarm; add knee airbags; ,39.22,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,15V846000, Aston Martin Lagonda of North America (Aston Martin) is recalling certain model year 2010-2015 ,Martin,684
+7/22/2019,9/5/2019,8HJHTFE0FGU264640,correct abs; fix cylinder head bolts; ,94.66,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,685
+7/23/2019,7/30/2019,FWOYW8SJUH7074597,install separate rear audio; correct abs; ,81.43,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,19V146000, A-1 Auto Electric (A-1) is recalling certain 2015 Freightliner Refuse vehicles modified to be p,Freightliner,686
+7/23/2019,7/24/2019,BHVL8OFSZ0G423785,install parking sensors; add knee airbags; ,26.29,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,687
+7/23/2019,7/30/2019,ZS1M7DGNG0B708125,change suspension fluid; repair seatbelt force limiters; ,285.38,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,688
+7/24/2019,8/30/2019,ABCX0O07N6F519334,change suspension fluid; reduce blind spot; ,1408.95,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,689
+7/24/2019,8/13/2019,AN86IKI83LD618280,fix deceleration system; set up satellite radio; ,793.18,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,690
+7/24/2019,9/26/2019,AFTWPBMU2TA534019,upgrade navigation system; fix power activated release; ,452.57,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,691
+7/24/2019,7/31/2019,GC225MTL5DF831250,fix nvh dampening system; reduce fuel consumption; ,140.33,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,692
+7/24/2019,8/10/2019,CHA3G8GE21K992177,replace crankcase ventilation filter; configure universal remote control; ,1121.39,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,693
+7/24/2019,8/4/2019,0XJA8OD4GS2220202,improve engine performance; add knee airbags; ,139.36,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,694
+7/24/2019,7/31/2019,ZDIFPMGLJRT329921,reduce blind spot; replace crankcase ventilation filter; ,44.74,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,695
+7/25/2019,8/19/2019,EBZZN84J0L1163524,improve engine performance; configure audio remote control; ,1226.65,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,19V293000,Chrysler (FCA US LLC) is recalling certain 2013-2016 Dodge Dart vehicles equipped with 6-speed a,Dodge,696
+7/25/2019,8/4/2019,F5BABPZQD3I737349,install active pedestrian protection system; improve engine performance; ,94.52,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,697
+7/25/2019,8/6/2019,BHVL8OFSZ0G423785,replace liftgate window; replace radiator core & ac condenser; ,78.87,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,15V439000, Honda (American Honda Motor Co.) is recalling certain model year 2013-2015 ST1300PA  2014-2015 ,Honda,698
+7/25/2019,8/21/2019,E5WGL31NMNQ304399,replace stabilizer bar; ,1042.34,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,699
+7/26/2019,7/27/2019,ATWA3W65LU2848535,change pcv filter/pcv valve; prevent fuel pump shutoff; ,68.27,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,10V035000, GULF STATES TOYOTA IS RECALLING CERTAIN MODEL YEAR 2005-2010 VEHICLES FOR FAILING TO COMPLY WIT,Toyota,700
+7/26/2019,7/27/2019,MT0OEZQ7C5Q035531,change brake linings; adjust turn signals; ,13.07,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,701
+7/26/2019,8/19/2019,A1NW00GFYRY803793,repair cooled seats; change steering rack; ,128.94,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,16V349000, Nissan North America  Inc. (Nissan) is recalling certain model year 2003-2008 Infiniti FX35 and,INFINITI,702
+7/26/2019,7/27/2019,LN7ZMWGACVJ434473,adjust running boards; reduce blind spot; ,29.93,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,703
+7/27/2019,8/7/2019,U3HSV2KCE0Y319532,repair direct injection system; adjust low fuel warning indicator; ,390.37,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,14V743000, Southeast Toyota Distributors  LLC (SET) is recalling certain model year 2010-2011 Prius and Co,Toyota,704
+7/27/2019,7/28/2019,A2YAQD6KDWM503404,replace steering column lock; reconfigure service reminder light; ,59.75,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,705
+7/28/2019,8/13/2019,0XHRC15HS5V123753,correct abs; install turbocharger; ,59.2,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,706
+7/28/2019,8/5/2019,3KYD25BMOB3101135,check drive axle boots; ,87.21,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,707
+7/28/2019,8/20/2019,Z4SH0SHZI01062444,improve engine performance; install parking sensors; ,338.44,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,708
+7/29/2019,8/7/2019,MT0OEZQ7C5Q035531,reduce carbon footprint; change speaker configuration; ,130.75,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,15V846000, Aston Martin Lagonda of North America (Aston Martin) is recalling certain model year 2010-2015 ,Martin,709
+7/29/2019,7/30/2019,3S8JO5UMV1Y166789,adjust regenerative braking; install dusk-sensing headlights; ,33.94,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,710
+7/29/2019,8/3/2019,NQC3ODNRG8W618383,improve cylinder configuration; replace serpentine belt; ,112.75,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,711
+7/29/2019,8/2/2019,OUIFCWSPPHR650293,repair shiftable automatic transmission; improve engine performance; ,76.89,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,712
+7/30/2019,8/6/2019,WSHBRYQYDCI202435,fix cylinder head bolts; add heated windshield; ,211.03,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,713
+7/31/2019,8/6/2019,3S8JO5UMV1Y166789,install intelligent alternator; change timing belt; ,33.94,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,08E050000, K2 MOTOR IS RECALLING 1 921 AFTERMARKET HEADLAMPS OF VARIOUS MODELS SOLD FOR USE ON THE ABOVE L,Honda,714
+7/31/2019,8/22/2019,GKTLIDKGMZ6109105,change wheel cylinders; install intelligent alternator; ,682.43,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,715
+8/1/2019,8/24/2019,66BVP1UV1VM384215,install dusk-sensing headlights; fix rear defroster; ,99.76,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,716
+8/1/2019,8/10/2019,AZCPHC4R1RY522608,replace water pump; ,189.93,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,717
+8/4/2019,8/22/2019,ZS1M7DGNG0B708125,replace ace filter; set up auto-delay headlights; ,652.31,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,718
+8/4/2019,8/7/2019,FWOYW8SJUH7074597,fix rear defroster; adjust accelerator pedal linkage; ,65.15,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,719
+8/4/2019,8/25/2019,8FX05ZAH64B316440,adjust accelerator pedal linkage; improve engine performance; ,905.35,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,17V769000, Hyundai Motor Company (Hyundai) is recalling certain 2013-2014 Elantra sedan  coupe and GT vehi,Hyundai,720
+8/5/2019,8/5/2019,ZDIFPMGLJRT329921,improve engine performance; add knee airbags; ,44.74,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,721
+8/6/2019,8/9/2019,3KYD25BMOB3101135,install active pedestrian protection system; change speaker configuration; ,87.21,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,722
+8/6/2019,8/20/2019,ASBUY3C1GYP443816,install intelligent alternator; change speaker configuration; ,448.13,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,723
+8/7/2019,8/9/2019,ATWA3W65LU2848535,improve cylinder configuration; prevent fuel pump shutoff; ,34.14,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,724
+8/8/2019,8/14/2019,P7UUVOVKPTD080947,adjust low fuel warning indicator; fix rear defroster; ,134.6,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,725
+8/8/2019,9/11/2019,E8MFMML51CM701156,replace steering column lock; fix steering damper; ,374.46,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,726
+8/8/2019,9/3/2019,WSHBRYQYDCI202435,add heated windshield; prevent fuel pump shutoff; ,1899.26,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,727
+8/9/2019,8/22/2019,7Y1EAHONCCS732936,replace radiator core & ac condenser; fix power activated release; ,357.67,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,728
+8/9/2019,9/3/2019,IOCT8QVK86C997015,repair cooled seats; adjust reverse tilt mirrors; ,376.86,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,729
+8/9/2019,8/19/2019,27J2LRAE38R945176,replace fuel filter; change coolant; ,164.52,in progress,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,730
+8/9/2019,9/19/2019,BHVL8OFSZ0G423785,correct abs; adjust low fuel warning indicator; ,407.51,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,08E050000, K2 MOTOR IS RECALLING 1 921 AFTERMARKET HEADLAMPS OF VARIOUS MODELS SOLD FOR USE ON THE ABOVE L,Honda,731
+8/9/2019,8/23/2019,MYX14D30CZI581341,reduce fuel consumption; repair direct injection system; ,173.83,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,732
+8/9/2019,8/22/2019,OUIFCWSPPHR650293,repair direct injection system; replace liftgate window; ,25.63,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,733
+8/9/2019,8/11/2019,U3HSV2KCE0Y319532,adjust climate control; repair cooled seats; ,146.39,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,734
+8/10/2019,9/5/2019,A2YAQD6KDWM503404,reconfigure service reminder light; fix sunroof; ,238.98,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,735
+8/11/2019,8/18/2019,3S8JO5UMV1Y166789,install turbocharger; ,118.8,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,736
+8/11/2019,8/17/2019,41AHCTXZIUN699904,fix external temperature display; adjust reverse tilt mirrors; ,118.13,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,737
+8/14/2019,8/18/2019,U3HSV2KCE0Y319532,set up auto-delay headlights; change speaker configuration; ,146.39,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,738
+8/14/2019,8/24/2019,B3V53WEVPX7253102,adjust accelerator pedal linkage; add knee airbags; ,496.36,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,739
+8/14/2019,8/16/2019,AN86IKI83LD618280,check drive axle boots; remove oversteer; ,37.77,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,740
+8/14/2019,9/9/2019,0XJA8OD4GS2220202,replace radiator hoses; replace steering column lock; ,452.92,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,741
+8/15/2019,9/13/2019,CHA3G8GE21K992177,fix rear defroster; reduce carbon footprint; ,611.67,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,742
+8/15/2019,8/29/2019,PHTKITC5C1H921363,install turbocharger; ,66.14,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,743
+8/15/2019,8/20/2019,0XHRC15HS5V123753,replace liftgate window; ,177.61,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,19V256000, Honda (American Honda Motor Co.) is recalling certain 2014-2019 Acura MDX and 2017-2019 Acura M,Acura,744
+8/16/2019,8/23/2019,2CEDOZQS3WI014174,replace timing belt tensioner; replace crankcase ventilation filter; ,122.95,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,745
+8/17/2019,8/19/2019,NQC3ODNRG8W618383,change timing belt; replace catalytic converter; ,112.75,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,746
+8/18/2019,9/22/2019,XG2F8AZ3DKK768039,fix nvh dampening system; install separate rear audio; ,402.6,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,747
+8/18/2019,9/3/2019,ATWA3W65LU2848535,fix sunroof; install roof spoiler; ,34.14,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,18V025000, On January 9  2018  Toyota Motor Engineering & Manufacturing (Toyota) notified NHTSA that they ,Toyota,748
+8/18/2019,9/20/2019,WMXOWCZE1MO140134,improve engine performance; ,586.63,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,749
+8/18/2019,8/20/2019,LN7ZMWGACVJ434473,reconfigure service reminder light; reconfigure service reminder light; ,44.9,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,750
+8/19/2019,9/5/2019,41AHCTXZIUN699904,make polarization coating; change speaker configuration; ,101.26,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,751
+8/19/2019,8/30/2019,AN86IKI83LD618280,replace serpentine belt; install intelligent alternator; ,188.85,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,752
+8/20/2019,8/24/2019,3KYD25BMOB3101135,fix broken tow hooks; fix deceleration system; ,130.82,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,753
+8/20/2019,8/25/2019,A1NW00GFYRY803793,change oil filter; ,25.79,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,754
+8/21/2019,9/8/2019,SJV51DZQ416158315,fix rear hvac; change memory settings of the onboard computer; ,41.98,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,755
+8/21/2019,8/25/2019,8C76DYYDYJU989849,replace water pump; add knee airbags; ,289.35,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,756
+8/23/2019,8/26/2019,MT0OEZQ7C5Q035531,install dusk-sensing headlights; fix air filter restriction indicator; ,13.07,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,757
+8/24/2019,9/5/2019,OUIFCWSPPHR650293,upgrade navigation system; attach spoiler; ,179.4,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,758
+8/25/2019,8/28/2019,NQC3ODNRG8W618383,adjust adaptive cruise control; replace timing belt tensioner; ,169.13,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,759
+8/25/2019,8/27/2019,0XHRC15HS5V123753,fix steering damper; ,29.6,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,760
+8/25/2019,8/27/2019,FWOYW8SJUH7074597,adjust seat belts tension; replace crankcase ventilation filter; ,16.29,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,17V761000, Daimler Trucks North America  LLC (DTNA) is recalling certain 2008-2018 Freightliner Cascadia  ,Freightliner,761
+8/25/2019,8/26/2019,Z4SH0SHZI01062444,reduce blind spot; replace ace filter; ,32.23,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,17V260000, Tesla  Inc. (Tesla) is recalling certain 2016 Model S and Model X vehicles.  The electric parki,Tesla,762
+8/26/2019,9/3/2019,3S8JO5UMV1Y166789,change timing belt; replace steering column lock; ,135.77,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,763
+8/27/2019,9/5/2019,E5WGL31NMNQ304399,install on-board diagnosis system; adjust traction control system; ,115.82,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,764
+8/27/2019,9/26/2019,2CEDOZQS3WI014174,replace fuel filter; check drive axle boots; ,1352.4,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,765
+8/27/2019,9/8/2019,7Y1EAHONCCS732936,replace radiator core & ac condenser; change oil filter; ,89.42,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,766
+8/27/2019,9/3/2019,B3V53WEVPX7253102,reduce blind spot; change wheel cylinders; ,55.15,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,767
+8/27/2019,8/28/2019,5I71MA5PSO0445780,fix nvh dampening system; ,31.81,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,768
+8/27/2019,9/6/2019,GC225MTL5DF831250,replace steering column lock; adjust traction control system; ,70.16,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,769
+8/28/2019,8/29/2019,3KYD25BMOB3101135,adjust turn signals; install parking sensors; ,43.61,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,770
+8/28/2019,8/30/2019,EBZZN84J0L1163524,repair cooled seats; adjust seat belts tension; ,184,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,771
+8/29/2019,8/30/2019,Z4SH0SHZI01062444,change steering rack; fix deceleration system; ,16.12,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,772
+8/29/2019,9/18/2019,A1NW00GFYRY803793,replace tail lights; change oil filter; ,154.73,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,773
+8/30/2019,9/3/2019,KSC5NS2WX0Q021711,fix deceleration system; reduce fuel consumption; ,29.24,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,774
+8/30/2019,9/19/2019,5I71MA5PSO0445780,set up satellite radio; replace brake pedal spring; ,540.73,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,775
+8/31/2019,9/2/2019,AN86IKI83LD618280,install active pedestrian protection system; install intelligent alternator; ,113.31,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,776
+9/1/2019,9/4/2019,LN7ZMWGACVJ434473,improve cylinder configuration; install optional equipment; ,44.9,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,13V248000, General Motors (GM) is recalling certain model year 2005-2007 SAAB 9-7x; 2006 Chevrolet Trailbl,GMC,777
+9/1/2019,9/10/2019,U3HSV2KCE0Y319532,replace liftgate window; fix broken tow hooks; ,146.39,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,778
+9/2/2019,9/6/2019,ZDR30CO5D6G733856,fix air filter restriction indicator; adjust retractable mirrors; ,105.72,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,779
+9/2/2019,9/24/2019,8FX05ZAH64B316440,replace diverter valve; replace brake pedal spring; ,950.62,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,780
+9/2/2019,9/23/2019,66BVP1UV1VM384215,install anti-theft alarm; refurbish power steering; ,119.71,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,781
+9/2/2019,9/21/2019,MT0OEZQ7C5Q035531,install intelligent alternator; replace diverter valve; ,156.9,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,782
+9/3/2019,9/9/2019,MYX14D30CZI581341,replace brake pedal spring; replace timing belt tensioner; ,243.36,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,783
+9/3/2019,9/10/2019,AN86IKI83LD618280,replace diverter valve; replace catalytic converter; ,264.39,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,784
+9/3/2019,9/13/2019,05AJ273ZM02946325,fix a-pillar; check drive axle boots; ,266.12,pending,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,785
+9/4/2019,9/14/2019,BNWE37HKK6A465562,reduce blind spot; adjust turn signals; ,79.05,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,786
+9/4/2019,9/11/2019,C4QIGI5R0PE739600,prevent fuel pump shutoff; ,64.89,completed,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,787
+9/4/2019,9/22/2019,0XHRC15HS5V123753,make polarization coating; repair cooled seats; ,562.43,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,788
+9/5/2019,9/18/2019,3KYD25BMOB3101135,replace fuel filter; adjust seat belts tension; ,174.42,completed,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,789
+9/6/2019,9/15/2019,F5BABPZQD3I737349,fix deceleration system; replace ace filter; ,165.41,pending,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,790
+9/6/2019,9/12/2019,Z4SH0SHZI01062444,replace tail lights; replace fuel filter; ,32.23,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,791
+9/6/2019,9/8/2019,B3V53WEVPX7253102,install curtain airbags; install separate rear audio; ,110.3,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,,,,792
+9/6/2019,9/9/2019,LN7ZMWGACVJ434473,change pcv filter/pcv valve; ,44.9,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,793
+9/6/2019,9/19/2019,3S8JO5UMV1Y166789,install curtain airbags; replace catalytic converter; ,169.71,in progress,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,794
+9/6/2019,9/25/2019,8C76DYYDYJU989849,replace brake pedal spring; adjust traction control system; ,694.44,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,795
+9/8/2019,9/23/2019,1D377TZAWSW801985,change speaker configuration; prevent fuel pump shutoff; ,286.27,completed,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,796
+9/8/2019,9/26/2019,FWOYW8SJUH7074597,install turbocharger; adjust climate control; ,195.44,completed,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,797
+9/9/2019,9/11/2019,EBZZN84J0L1163524,refurbish power steering; fix sunroof; ,122.67,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,18V332000, Chrysler (FCA US LLC) is recalling certain 2014-2018 Dodge Journey  Charger and Durango  RAM 25,Dodge,798
+9/9/2019,9/21/2019,ATWA3W65LU2848535,repair direct injection system; ,68.27,completed,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,799
+9/11/2019,9/15/2019,7Y1EAHONCCS732936,fix rear hvac; reduce fuel consumption; ,357.67,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,800
+9/11/2019,9/19/2019,E5WGL31NMNQ304399,replace fuel filter; ,154.42,in progress,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,801
+9/13/2019,9/22/2019,B3V53WEVPX7253102,replace steering column lock; ,110.3,pending,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,16V595000, General Motors LLC (GM) is recalling certain model year 2016 Buick Verano vehicles manufactured,Buick,802
+9/13/2019,9/19/2019,SGEAZM7OHRE981138,change brake linings; fix solar sunroof; ,103.8,pending,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,803
+9/14/2019,9/18/2019,Z4SH0SHZI01062444,add knee airbags; ,80.58,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,804
+9/14/2019,9/16/2019,MYX14D30CZI581341,change oil filter; adjust traction control system; ,34.77,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,13V450000, Volkswagen Group of America  Inc. (Volkswagen) is recalling certain model year 2013-2014 Audi S,Audi,805
+9/14/2019,9/25/2019,1WU1KQALZ75403546,change coolant; adjust low fuel warning indicator; ,389.56,in progress,Newex,3321611463,6781 14-street,Durham,WI,50395,,,,806
+9/14/2019,9/18/2019,LN7ZMWGACVJ434473,fix rear defroster; change oil filter; ,74.83,pending,Toughzap,4602643035,6477 19-street,Bakersfield,FL,28366,,,,807
+9/15/2019,9/23/2019,ZDIFPMGLJRT329921,adjust adaptive cruise control; upgrade navigation system; ,178.96,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,808
+9/17/2019,9/17/2019,MYX14D30CZI581341,fix air filter restriction indicator; replace steering column lock; ,34.77,pending,Zencorporation,1034092507,6712 7-street,Jacksonville,FL,73886,,,,809
+9/17/2019,9/19/2019,0XJA8OD4GS2220202,replace diverter valve; adjust reverse tilt mirrors; ,34.84,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,,,,810
+9/17/2019,9/18/2019,AN86IKI83LD618280,fix steering damper; adjust low fuel warning indicator; ,37.77,pending,Zumgoity,3587340254,5992 11-street,Stockton,OH,46220,18V427000, Volkswagen Group of America  Inc. (Volkswagen) is recalling certain 2005-2008 Audi A4 Sedan  A4,Audi,811
+9/19/2019,9/19/2019,GC225MTL5DF831250,add heated windshield; fix rear hvac; ,35.08,completed,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,812
+9/19/2019,9/26/2019,NQC3ODNRG8W618383,adjust climate control; install anti-theft alarm; ,56.38,in progress,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,17V024000, Ford Motor Company (Ford) is recalling certain 2012 Ford Fusion and Mustang and Lincoln Zephyr ,Lincoln,813
+9/20/2019,9/24/2019,WSHBRYQYDCI202435,configure audio remote control; adjust seat belts tension; ,140.69,in progress,Rundofase,6976505267,175 12-street,Seattle,WA,8511,,,,814
+9/21/2019,9/25/2019,E5WGL31NMNQ304399,add knee airbags; refurbish power steering; ,77.21,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,815
+9/22/2019,9/24/2019,EBZZN84J0L1163524,reduce fuel consumption; replace diverter valve; ,61.33,completed,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,,,,816
+9/23/2019,9/25/2019,MT0OEZQ7C5Q035531,change speaker configuration; change oil filter; ,39.22,in progress,Cancity,4137272403,445 10-street,Dallas,TX,44164,,,,817
+9/25/2019,9/26/2019,Z4SH0SHZI01062444,adjust accelerator pedal linkage; replace fuel filter; ,32.23,pending,Zoomit,8570724614,7392 11-street,Norfolk,NC,72802,18V204000, Tesla  Inc. (Tesla) is recalling certain 2012-2016 Tesla Model S vehicles equipped with Bosch s,Tesla,818
+9/26/2019,9/26/2019,U3HSV2KCE0Y319532,adjust hybrid performance; install dusk-sensing headlights; ,48.8,in progress,Fasehatice,158952124,2139 14-street,Chandler,TX,62809,09E012000, SABERSPORT IS RECALLING 16 270 COMBINATION CORNER AND BUMPER LAMP ASSEMBLIES OF VARIOUS PART NU,Toyota,819
